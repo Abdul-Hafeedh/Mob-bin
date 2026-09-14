@@ -576,7 +576,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (currentModalTab === 'site-categories') {
       const items = SITE_CATEGORIES_14.filter(c => !q || c.name.toLowerCase().includes(q));
-      modalMainTitle.textContent = 'Categories';
+      modalMainTitle.textContent = 'Site categories';
       modalTotalBadge.textContent = `${items.length}`;
       renderThreeColumnDarkList(items, 'site-category', 'https://mobbin.com/search/sites?content_type=sites&sort=popularity&filter=categories.', false);
 
