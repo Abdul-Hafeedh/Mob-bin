@@ -555,9 +555,20 @@ document.addEventListener('DOMContentLoaded', () => {
   function openModal(defaultTab = 'categories') {
     currentModalTab = defaultTab;
 
+    const placeholders = {
+      'site-categories': 'Search site categories...',
+      'categories': 'Search categories...',
+      'sections': 'Search sections...',
+      'styles': 'Search styles...',
+      'screens': 'Search screens...',
+      'flows': 'Search flows...',
+      'elements': 'Search UI elements...'
+    };
+
     if (allCategoriesModal) {
       allCategoriesModal.classList.add('open');
       if (modalSearchInput) {
+        modalSearchInput.placeholder = placeholders[defaultTab] || 'Search...';
         modalSearchInput.value = '';
         modalSearchInput.focus();
       }
