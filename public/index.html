@@ -197,30 +197,70 @@
     </div>
   </section>
 
-  <!-- 6. COMPLETE TAXONOMY EXPLORER MODAL (Categories, Sections, Styles, Screens, Flows, Elements) -->
-  <div class="all-categories-modal" id="all-categories-modal">
-    <div class="modal-backdrop" id="modal-backdrop"></div>
-    <div class="modal-card">
-      <div class="modal-header">
-        <div class="modal-title-row">
-          <h2 class="modal-title" id="modal-main-title">Categories</h2>
-          <span class="modal-badge" id="modal-total-badge">228 items</span>
+  <!-- 4. Categories Directory (2 rows in 3 columns, All 14 button opens popup modal - Non-Incognito) -->
+  <section class="browse-directory">
+    <div class="directory-container">
+      
+      <!-- Column 1 (2 rows) -->
+      <div class="directory-col">
+        <div class="col-title-row">
+          <h3 class="col-title">Categories</h3>
         </div>
-        <p class="modal-subtitle">Browse all crawled patterns. Click any item to open it directly in an Incognito window.</p>
-        <button class="modal-close-btn" id="modal-close-btn">✕</button>
+        <ul class="col-list">
+          <li><a href="https://mobbin.com/search/sites?content_type=sites&sort=popularity&filter=categories.Business" target="_blank" rel="noopener noreferrer" class="dir-link">Business</a></li>
+          <li><a href="https://mobbin.com/search/sites?content_type=sites&sort=popularity&filter=categories.Crypto" target="_blank" rel="noopener noreferrer" class="dir-link">Crypto</a></li>
+        </ul>
       </div>
 
-      <div class="modal-search-row">
-        <svg width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="#6b7280" stroke-width="2">
+      <!-- Column 2 (2 rows) -->
+      <div class="directory-col">
+        <div class="col-title-row">
+          <span style="visibility: hidden;" class="col-title">.</span>
+        </div>
+        <ul class="col-list">
+          <li><a href="https://mobbin.com/search/sites?content_type=sites&sort=popularity&filter=categories.Food" target="_blank" rel="noopener noreferrer" class="dir-link">Food</a></li>
+          <li><a href="https://mobbin.com/search/sites?content_type=sites&sort=popularity&filter=categories.Health" target="_blank" rel="noopener noreferrer" class="dir-link">Health</a></li>
+        </ul>
+      </div>
+
+      <!-- Column 3 (2 rows + Pop up trigger) -->
+      <div class="directory-col">
+        <div class="col-title-row">
+          <span style="visibility: hidden;" class="col-title">.</span>
+          <button type="button" class="see-all-link" id="see-all-categories-14-btn">All 14 categories →</button>
+        </div>
+        <ul class="col-list">
+          <li><a href="https://mobbin.com/search/sites?content_type=sites&sort=popularity&filter=categories.Social" target="_blank" rel="noopener noreferrer" class="dir-link">Social</a></li>
+          <li><a href="https://mobbin.com/search/sites?content_type=sites&sort=popularity&filter=categories.Technology" target="_blank" rel="noopener noreferrer" class="dir-link">Technology</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- 6. COMPLETE TAXONOMY EXPLORER MODAL (Mobbin Dark Popup Box, 3 Columns) -->
+  <div class="all-categories-modal" id="all-categories-modal">
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+    <div class="modal-card mobbin-dark-modal">
+      <div class="dark-modal-search-row">
+        <svg width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="#9ca3af" stroke-width="2">
           <circle cx="9" cy="9" r="6"/>
           <path d="m13.5 13.5 4 4"/>
         </svg>
-        <input type="text" id="modal-search-input" placeholder="Search..." autocomplete="off">
+        <input type="text" id="modal-search-input" placeholder="Sites, Categories, Sections or Styles..." autocomplete="off">
+        <button class="modal-close-btn-dark" id="modal-close-btn" aria-label="Close">✕</button>
       </div>
 
-      <!-- Dynamic Taxonomy Grid -->
-      <div class="modal-scroll-area" id="modal-taxonomy-grid">
-        <!-- Dynamically populated -->
+      <div class="dark-modal-body">
+        <div class="dark-modal-category-header">
+          <span class="dark-modal-title" id="modal-main-title">Categories</span>
+          <span class="dark-modal-badge" id="modal-total-badge">14</span>
+        </div>
+
+        <!-- 3-Column Content Grid -->
+        <div class="dark-modal-scroll-grid" id="modal-taxonomy-grid">
+          <!-- Dynamically populated 3 columns -->
+        </div>
       </div>
     </div>
   </div>

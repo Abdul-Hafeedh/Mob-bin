@@ -230,6 +230,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const seeAllElementsLink = document.getElementById('see-all-elements-link');
   const seeAllScreensLink = document.getElementById('see-all-screens-link');
   const seeAllFlowsLink = document.getElementById('see-all-flows-link');
+  const seeAllCategories14Btn = document.getElementById('see-all-categories-14-btn');
   const allCategoriesModal = document.getElementById('all-categories-modal');
   const modalBackdrop = document.getElementById('modal-backdrop');
   const modalCloseBtn = document.getElementById('modal-close-btn');
@@ -237,6 +238,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const modalTaxonomyGrid = document.getElementById('modal-taxonomy-grid');
   const modalMainTitle = document.getElementById('modal-main-title');
   const modalTotalBadge = document.getElementById('modal-total-badge');
+  const modalSubtitle = document.querySelector('.modal-subtitle');
 
   const countCategories = document.getElementById('count-categories');
   const countSections = document.getElementById('count-sections');
@@ -517,6 +519,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (seeAllElementsLink) seeAllElementsLink.addEventListener('click', () => openModal('elements'));
     if (seeAllScreensLink) seeAllScreensLink.addEventListener('click', () => openModal('screens'));
     if (seeAllFlowsLink) seeAllFlowsLink.addEventListener('click', () => openModal('flows'));
+    if (seeAllCategories14Btn) seeAllCategories14Btn.addEventListener('click', () => openModal('site-categories'));
 
     if (modalCloseBtn) modalCloseBtn.addEventListener('click', () => closeModal());
     if (modalBackdrop) modalBackdrop.addEventListener('click', () => closeModal());
@@ -531,6 +534,23 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
   }
+
+  const SITE_CATEGORIES_14 = [
+    { name: "Business", slug: "Business", count: 170 },
+    { name: "Crypto", slug: "Crypto", count: 25 },
+    { name: "Education", slug: "Education", count: 11 },
+    { name: "Entertainment", slug: "Entertainment", count: 18 },
+    { name: "Finance", slug: "Finance", count: 37 },
+    { name: "Food", slug: "Food", count: 17 },
+    { name: "Health", slug: "Health", count: 25 },
+    { name: "Lifestyle", slug: "Lifestyle", count: 21 },
+    { name: "Portfolio", slug: "Portfolio", count: 29 },
+    { name: "Shopping", slug: "Shopping", count: 52 },
+    { name: "Social", slug: "Social", count: 12 },
+    { name: "Technology", slug: "Technology", count: 183 },
+    { name: "Travel", slug: "Travel", count: 16 },
+    { name: "Other", slug: "Other", count: 6 }
+  ];
 
   function openModal(defaultTab = 'categories') {
     currentModalTab = defaultTab;
@@ -549,131 +569,119 @@ document.addEventListener('DOMContentLoaded', () => {
     if (allCategoriesModal) allCategoriesModal.classList.remove('open');
   }
 
-  // Renders items according to the active tab: categories, sections, styles, screens, flows, elements
+  // Renders items in 3 balanced columns inside the Mobbin dark modal
   function renderModalTaxonomy(query = '') {
     modalTaxonomyGrid.innerHTML = '';
     const q = query.toLowerCase().trim();
 
-    if (currentModalTab === 'categories') {
+    if (currentModalTab === 'site-categories') {
+      const items = SITE_CATEGORIES_14.filter(c => !q || c.name.toLowerCase().includes(q));
+      modalMainTitle.textContent = 'Categories';
+      modalTotalBadge.textContent = `${items.length}`;
+      renderThreeColumnDarkList(items, 'site-category', 'https://mobbin.com/search/sites?content_type=sites&sort=popularity&filter=categories.', false);
+
+    } else if (currentModalTab === 'categories') {
       const items = (fullTaxonomyData.siteCategories || []).filter(c => !q || c.name.toLowerCase().includes(q));
-      modalMainTitle.textContent = `All Categories (${items.length})`;
-      modalTotalBadge.textContent = '228 Crawled Categories';
-      renderFlatTaxonomyList(items, 'category', 'https://mobbin.com/explore/sites/categories/');
+      modalMainTitle.textContent = 'Categories';
+      modalTotalBadge.textContent = `${items.length}`;
+      renderThreeColumnDarkList(items, 'category', 'https://mobbin.com/explore/sites/categories/', true);
 
     } else if (currentModalTab === 'sections') {
       const items = (fullTaxonomyData.sections || SECTIONS_CATALOG).filter(s => !q || s.name.toLowerCase().includes(q));
-      modalMainTitle.textContent = `All Sections (${items.length})`;
-      modalTotalBadge.textContent = '132 Crawled Sections';
-      renderFlatTaxonomyList(items, 'section', 'https://mobbin.com/explore/sites/sections/');
+      modalMainTitle.textContent = 'Sections';
+      modalTotalBadge.textContent = `${items.length}`;
+      renderThreeColumnDarkList(items, 'section', 'https://mobbin.com/explore/sites/sections/', true);
 
     } else if (currentModalTab === 'styles') {
       const items = (fullTaxonomyData.siteStyles || []).filter(s => !q || s.name.toLowerCase().includes(q));
-      modalMainTitle.textContent = `Site Styles (${items.length})`;
-      modalTotalBadge.textContent = '53 Crawled Styles';
-      renderFlatTaxonomyList(items, 'style', 'https://mobbin.com/explore/sites/styles/');
+      modalMainTitle.textContent = 'Styles';
+      modalTotalBadge.textContent = `${items.length}`;
+      renderThreeColumnDarkList(items, 'style', 'https://mobbin.com/explore/sites/styles/', true);
 
     } else if (currentModalTab === 'flows') {
       const items = (fullTaxonomyData.flows || []).filter(f => !q || f.name.toLowerCase().includes(q));
-      modalMainTitle.textContent = `User Flows (${items.length})`;
-      modalTotalBadge.textContent = '71 Crawled Flows';
-      renderFlatTaxonomyList(items, 'flow', 'https://mobbin.com/explore/web/flows/');
+      modalMainTitle.textContent = 'Flows';
+      modalTotalBadge.textContent = `${items.length}`;
+      renderThreeColumnDarkList(items, 'flow', 'https://mobbin.com/explore/web/flows/', true);
 
     } else if (currentModalTab === 'elements') {
       const items = (fullTaxonomyData.uiElements || []).filter(e => !q || e.name.toLowerCase().includes(q));
-      modalMainTitle.textContent = `UI Elements (${items.length})`;
-      modalTotalBadge.textContent = '81 Crawled Elements';
-      renderFlatTaxonomyList(items, 'element', 'https://mobbin.com/explore/web/ui-elements/');
+      modalMainTitle.textContent = 'UI Elements';
+      modalTotalBadge.textContent = `${items.length}`;
+      renderThreeColumnDarkList(items, 'element', 'https://mobbin.com/explore/web/ui-elements/', true);
 
     } else {
-      // Screens tab: Render grouped by category
-      modalMainTitle.textContent = 'Screens by Category';
-      modalTotalBadge.textContent = '197 Screens';
-
+      // Screens tab: Flatten or render in 3 columns
+      const allScreens = [];
       for (const [categoryName, screensList] of Object.entries(fullScreensCatalog)) {
-        const filteredScreens = screensList.filter(s => !q || s.name.toLowerCase().includes(q) || categoryName.toLowerCase().includes(q));
-        if (filteredScreens.length === 0) continue;
-
-        const groupCard = document.createElement('div');
-        groupCard.className = 'modal-cat-group';
-
-        groupCard.innerHTML = `
-          <div class="modal-cat-heading">
-            <span>${categoryName}</span>
-            <span class="modal-cat-count">${filteredScreens.length}</span>
-          </div>
-          <div class="modal-cat-items">
-            ${filteredScreens.map(s => `
-              <button class="modal-screen-item-btn" data-slug="${s.slug}" data-name="${s.name}" data-category="${categoryName}">
-                <span>${s.name}</span>
-                <span class="modal-incognito-tag">Incognito ↗</span>
-              </button>
-            `).join('')}
-          </div>
-        `;
-
-        groupCard.querySelectorAll('.modal-screen-item-btn').forEach(btn => {
-          btn.addEventListener('click', () => {
-            const slug = btn.dataset.slug;
-            const name = btn.dataset.name;
-            const url = `https://mobbin.com/explore/web/screens/${slug}`;
-            closeModal();
-            applyExploreFilter({ type: 'screen', name, slug, url });
-          });
-        });
-
-        modalTaxonomyGrid.appendChild(groupCard);
+        for (const s of screensList) {
+          if (!q || s.name.toLowerCase().includes(q) || categoryName.toLowerCase().includes(q)) {
+            allScreens.push(s);
+          }
+        }
       }
+      modalMainTitle.textContent = 'Screens';
+      modalTotalBadge.textContent = `${allScreens.length}`;
+      renderThreeColumnDarkList(allScreens, 'screen', 'https://mobbin.com/explore/web/screens/', true);
     }
   }
 
-  // Helper to render flat lists alphabetically grouped (for categories, sections, styles, flows, elements)
-  function renderFlatTaxonomyList(items, type, baseUrlPrefix) {
+  // Renders a clean 3-column layout matching the Mobbin dark popup box (No incognito pill box!)
+  function renderThreeColumnDarkList(items, type, baseUrlPrefix, isIncognito = false) {
     if (items.length === 0) {
-      modalTaxonomyGrid.innerHTML = '<div style="grid-column: 1/-1; padding: 40px; text-align: center; color: #9ca3af;">No matching items found</div>';
+      modalTaxonomyGrid.innerHTML = '<div style="grid-column: 1/-1; padding: 40px; text-align: center; color: #8e95a2;">No matching items found</div>';
       return;
     }
 
-    // Group alphabetically by first letter
-    const grouped = {};
-    for (const item of items) {
-      const letter = (item.name[0] || '#').toUpperCase();
-      if (!grouped[letter]) grouped[letter] = [];
-      grouped[letter].push(item);
-    }
+    // Split evenly across 3 columns
+    const numCols = 3;
+    const perCol = Math.ceil(items.length / numCols);
+    const cols = [[], [], []];
 
-    const sortedLetters = Object.keys(grouped).sort();
+    items.forEach((item, index) => {
+      const colIdx = Math.floor(index / perCol);
+      if (colIdx < numCols) {
+        cols[colIdx].push(item);
+      } else {
+        cols[numCols - 1].push(item);
+      }
+    });
 
-    for (const letter of sortedLetters) {
-      const groupCard = document.createElement('div');
-      groupCard.className = 'modal-cat-group';
+    cols.forEach(colItems => {
+      const colEl = document.createElement('div');
+      colEl.className = 'dark-modal-col';
 
-      groupCard.innerHTML = `
-        <div class="modal-cat-heading">
-          <span>${letter}</span>
-          <span class="modal-cat-count">${grouped[letter].length}</span>
-        </div>
-        <div class="modal-cat-items">
-          ${grouped[letter].map(item => `
-            <button class="modal-screen-item-btn" data-slug="${item.slug}" data-name="${item.name}">
-              <span>${item.name}</span>
-              <span class="modal-incognito-tag">Incognito ↗</span>
-            </button>
-          `).join('')}
-        </div>
-      `;
+      colItems.forEach(item => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'dark-modal-item-btn';
+        btn.dataset.slug = item.slug;
+        btn.dataset.name = item.name;
 
-      groupCard.querySelectorAll('.modal-screen-item-btn').forEach(btn => {
+        const countText = (item.count !== undefined && item.count !== null) ? item.count : '';
+
+        btn.innerHTML = `
+          <span class="dark-modal-item-name">${item.name}</span>
+          ${countText ? `<span class="dark-modal-item-count">${countText}</span>` : ''}
+        `;
+
         btn.addEventListener('click', () => {
-          const slug = btn.dataset.slug;
-          const name = btn.dataset.name;
+          const slug = item.slug;
+          const name = item.name;
           const targetUrl = `${baseUrlPrefix}${slug}`;
           closeModal();
-          applyExploreFilter({ type, name, slug, url: targetUrl });
+          if (isIncognito) {
+            applyExploreFilter({ type, name, slug, url: targetUrl });
+          } else {
+            window.open(targetUrl, '_blank');
+          }
         });
+
+        colEl.appendChild(btn);
       });
 
-      modalTaxonomyGrid.appendChild(groupCard);
-    }
+      modalTaxonomyGrid.appendChild(colEl);
+    });
   }
 
   // 6. Apply Filter & Trigger Incognito for Search/Screen URLs
