@@ -1,0 +1,816 @@
+{
+  "Account Management": [
+    {
+      "name": "Admin Dashboard",
+      "slug": "admin-dashboard"
+    },
+    {
+      "name": "Admin UI",
+      "slug": "admin-ui"
+    },
+    {
+      "name": "Customer Profile Software",
+      "slug": "customer-profile-software"
+    },
+    {
+      "name": "Delete & Deactivate Account",
+      "slug": "delete-deactivate-account"
+    },
+    {
+      "name": "Forgot Password",
+      "slug": "forgot-password"
+    },
+    {
+      "name": "Login",
+      "slug": "login"
+    },
+    {
+      "name": "My Account & Profile",
+      "slug": "my-account-profile"
+    },
+    {
+      "name": "Settings & Preferences",
+      "slug": "settings-preferences"
+    }
+  ],
+  "Actions": [
+    {
+      "name": "Add & Create",
+      "slug": "add-create"
+    },
+    {
+      "name": "Ban & Block",
+      "slug": "ban-block"
+    },
+    {
+      "name": "Cancel",
+      "slug": "cancel"
+    },
+    {
+      "name": "Delete",
+      "slug": "delete"
+    },
+    {
+      "name": "Draw & Annotate",
+      "slug": "draw-annotate"
+    },
+    {
+      "name": "Edit",
+      "slug": "edit"
+    },
+    {
+      "name": "Favorite & Pin",
+      "slug": "favorite-pin"
+    },
+    {
+      "name": "Filter & Sort",
+      "slug": "filter-sort"
+    },
+    {
+      "name": "Flag & Report",
+      "slug": "flag-report"
+    },
+    {
+      "name": "Follow & Subscribe",
+      "slug": "follow-subscribe"
+    },
+    {
+      "name": "Import & Export",
+      "slug": "import-export"
+    },
+    {
+      "name": "Invite & Refer Friends",
+      "slug": "invite-refer-friends"
+    },
+    {
+      "name": "Like & Upvote",
+      "slug": "like-upvote"
+    },
+    {
+      "name": "Move",
+      "slug": "move"
+    },
+    {
+      "name": "Other Action",
+      "slug": "other-action"
+    },
+    {
+      "name": "Publish",
+      "slug": "publish"
+    },
+    {
+      "name": "Reorder",
+      "slug": "reorder"
+    },
+    {
+      "name": "Save",
+      "slug": "save"
+    },
+    {
+      "name": "Schedule",
+      "slug": "schedule"
+    },
+    {
+      "name": "Search",
+      "slug": "search"
+    },
+    {
+      "name": "Select",
+      "slug": "select"
+    },
+    {
+      "name": "Set",
+      "slug": "set"
+    },
+    {
+      "name": "Share",
+      "slug": "share"
+    },
+    {
+      "name": "Transfer & Send Money",
+      "slug": "transfer-send-money"
+    },
+    {
+      "name": "Upload & Download",
+      "slug": "upload-download"
+    }
+  ],
+  "Commerce & Finance": [
+    {
+      "name": "Billing",
+      "slug": "billing"
+    },
+    {
+      "name": "Budget Dashboard",
+      "slug": "budget-dashboard"
+    },
+    {
+      "name": "Checkout",
+      "slug": "checkout"
+    },
+    {
+      "name": "Inventory UI",
+      "slug": "inventory-ui"
+    },
+    {
+      "name": "Order Confirmation",
+      "slug": "order-confirmation"
+    },
+    {
+      "name": "Order Detail",
+      "slug": "order-detail"
+    },
+    {
+      "name": "Order History",
+      "slug": "order-history"
+    },
+    {
+      "name": "Payment Method",
+      "slug": "payment-method"
+    },
+    {
+      "name": "Point Of Sale Design",
+      "slug": "point-of-sale-design"
+    },
+    {
+      "name": "Pricing",
+      "slug": "pricing"
+    },
+    {
+      "name": "Promotions & Rewards",
+      "slug": "promotions-rewards"
+    },
+    {
+      "name": "Shop & Storefront",
+      "slug": "shop-storefront"
+    },
+    {
+      "name": "Subscription & Paywall",
+      "slug": "subscription-paywall"
+    },
+    {
+      "name": "Wallet & Balance",
+      "slug": "wallet-balance"
+    },
+    {
+      "name": "Web Shopping Cart",
+      "slug": "shopping-cart-ui"
+    }
+  ],
+  "Communication": [
+    {
+      "name": "Acknowledgement & Success",
+      "slug": "acknowledgement-success"
+    },
+    {
+      "name": "Action Option",
+      "slug": "action-option"
+    },
+    {
+      "name": "Confirmation",
+      "slug": "confirmation"
+    },
+    {
+      "name": "Empty State",
+      "slug": "empty-state"
+    },
+    {
+      "name": "Error",
+      "slug": "error"
+    },
+    {
+      "name": "Feature Info",
+      "slug": "feature-info"
+    },
+    {
+      "name": "Feedback",
+      "slug": "feedback"
+    },
+    {
+      "name": "Help & Support",
+      "slug": "help-support"
+    },
+    {
+      "name": "Loading",
+      "slug": "loading"
+    },
+    {
+      "name": "Permission",
+      "slug": "permission"
+    },
+    {
+      "name": "Suggestions & Similar Items",
+      "slug": "suggestions-similar-items"
+    }
+  ],
+  "Content": [
+    {
+      "name": "Email Interface",
+      "slug": "email-interface"
+    },
+    {
+      "name": "Article Detail",
+      "slug": "article-detail"
+    },
+    {
+      "name": "Browse & Discover",
+      "slug": "browse-discover"
+    },
+    {
+      "name": "Class & Lesson Detail",
+      "slug": "class-lesson-detail"
+    },
+    {
+      "name": "Code Editor",
+      "slug": "code-editor"
+    },
+    {
+      "name": "Emails & Messages",
+      "slug": "emails-messages"
+    },
+    {
+      "name": "Event Detail",
+      "slug": "event-detail"
+    },
+    {
+      "name": "Goal & Task",
+      "slug": "goal-task"
+    },
+    {
+      "name": "Home",
+      "slug": "home"
+    },
+    {
+      "name": "News Feed",
+      "slug": "news-feed"
+    },
+    {
+      "name": "Note Detail",
+      "slug": "note-detail"
+    },
+    {
+      "name": "Other Content",
+      "slug": "other-content"
+    },
+    {
+      "name": "Post Detail",
+      "slug": "post-detail"
+    },
+    {
+      "name": "Product Detail",
+      "slug": "product-detail"
+    },
+    {
+      "name": "Quiz",
+      "slug": "quiz"
+    },
+    {
+      "name": "Recipe Detail",
+      "slug": "recipe-detail"
+    },
+    {
+      "name": "Song & Podcast Detail",
+      "slug": "song-podcast-detail"
+    },
+    {
+      "name": "Stories",
+      "slug": "stories"
+    },
+    {
+      "name": "TV Show & Movie Detail",
+      "slug": "tv-show-movie-detail"
+    }
+  ],
+  "Data": [
+    {
+      "name": "Activity Log",
+      "slug": "activity-log"
+    },
+    {
+      "name": "Best Dashboards",
+      "slug": "best-dashboards"
+    },
+    {
+      "name": "Charts",
+      "slug": "charts"
+    },
+    {
+      "name": "Dashboard",
+      "slug": "dashboard"
+    },
+    {
+      "name": "Dashboard Images",
+      "slug": "dashboard-images"
+    },
+    {
+      "name": "Drag And Drop Dashboard",
+      "slug": "drag-and-drop-dashboard"
+    },
+    {
+      "name": "Interactive Dashboard",
+      "slug": "interactive-dashboard"
+    },
+    {
+      "name": "Investment Dashboard",
+      "slug": "investment-dashboard"
+    },
+    {
+      "name": "IoT Dashboard",
+      "slug": "iot-dashboard"
+    },
+    {
+      "name": "Log Dashboard",
+      "slug": "log-dashboard"
+    },
+    {
+      "name": "Modern Dashboard Design",
+      "slug": "modern-dashboard-design"
+    },
+    {
+      "name": "Personal Dashboard",
+      "slug": "personal-dashboard"
+    },
+    {
+      "name": "Portfolio Dashboard",
+      "slug": "portfolio-dashboard"
+    },
+    {
+      "name": "Progress",
+      "slug": "progress"
+    },
+    {
+      "name": "Team Dashboard",
+      "slug": "team-dashboard"
+    },
+    {
+      "name": "Web Form UI",
+      "slug": "form-design"
+    }
+  ],
+  "Layouts": [
+    {
+      "name": "Kanban Board",
+      "slug": "kanban-board"
+    },
+    {
+      "name": "Multi-Column Layout",
+      "slug": "multi-column-layout"
+    }
+  ],
+  "Misc": [
+    {
+      "name": "Dark Mode",
+      "slug": "dark-mode"
+    },
+    {
+      "name": "Internal Tool",
+      "slug": "internal-tool"
+    },
+    {
+      "name": "Misc",
+      "slug": "misc"
+    }
+  ],
+  "New User Experience": [
+    {
+      "name": "Account Setup",
+      "slug": "account-setup"
+    },
+    {
+      "name": "Guided Tour & Tutorial",
+      "slug": "guided-tour-tutorial"
+    },
+    {
+      "name": "Signup",
+      "slug": "signup"
+    },
+    {
+      "name": "Verification",
+      "slug": "verification"
+    },
+    {
+      "name": "Wizard UI",
+      "slug": "wizard-ui"
+    }
+  ],
+  "Social": [
+    {
+      "name": "Achievements & Awards",
+      "slug": "achievements-awards"
+    },
+    {
+      "name": "Chat Detail",
+      "slug": "chat-detail"
+    },
+    {
+      "name": "Comments",
+      "slug": "comments"
+    },
+    {
+      "name": "Followers & Following",
+      "slug": "followers-following"
+    },
+    {
+      "name": "Invite Teammates",
+      "slug": "invite-teammates"
+    },
+    {
+      "name": "Leaderboard",
+      "slug": "leaderboard"
+    },
+    {
+      "name": "Notifications",
+      "slug": "notifications"
+    },
+    {
+      "name": "Ranking Dashboard",
+      "slug": "ranking-dashboard"
+    },
+    {
+      "name": "Reviews & Ratings",
+      "slug": "reviews-ratings"
+    },
+    {
+      "name": "Social Feed",
+      "slug": "social-feed"
+    },
+    {
+      "name": "User / Group Profile",
+      "slug": "user-group-profile"
+    }
+  ],
+  "User Collections": [
+    {
+      "name": "Bookmarks & Collections",
+      "slug": "bookmarks-collections"
+    },
+    {
+      "name": "Playlists",
+      "slug": "playlists"
+    },
+    {
+      "name": "Trash & Archive",
+      "slug": "trash-archive"
+    }
+  ],
+  "Utility": [
+    {
+      "name": "Audio & Video Recorder",
+      "slug": "audio-video-recorder"
+    },
+    {
+      "name": "Audio Player",
+      "slug": "audio-player"
+    },
+    {
+      "name": "Calendar",
+      "slug": "calendar"
+    },
+    {
+      "name": "Call",
+      "slug": "call"
+    },
+    {
+      "name": "Canvas",
+      "slug": "canvas"
+    },
+    {
+      "name": "Chat Bot",
+      "slug": "chat-bot"
+    },
+    {
+      "name": "Command Palette",
+      "slug": "command-palette"
+    },
+    {
+      "name": "Date & Time",
+      "slug": "date-time"
+    },
+    {
+      "name": "Map",
+      "slug": "map"
+    },
+    {
+      "name": "Media Editor",
+      "slug": "media-editor"
+    },
+    {
+      "name": "QR Code",
+      "slug": "qr-code"
+    },
+    {
+      "name": "Time Tracker",
+      "slug": "time-tracker"
+    },
+    {
+      "name": "Timeline & History",
+      "slug": "timeline-history"
+    },
+    {
+      "name": "Timer & Clock",
+      "slug": "timer-clock"
+    },
+    {
+      "name": "Video Player",
+      "slug": "video-player"
+    }
+  ],
+  "Others": [
+    {
+      "name": "3D Configurator",
+      "slug": "3d-configurator"
+    },
+    {
+      "name": "AI Chat UI",
+      "slug": "ai-chat-ui"
+    },
+    {
+      "name": "AI Dashboard",
+      "slug": "ai-dashboard"
+    },
+    {
+      "name": "Accounting Software Dashboard",
+      "slug": "accounting-software-dashboard"
+    },
+    {
+      "name": "Admin Panel",
+      "slug": "admin-panel"
+    },
+    {
+      "name": "Affiliate Dashboard",
+      "slug": "affiliate-dashboard"
+    },
+    {
+      "name": "Analytics Dashboard",
+      "slug": "analytics-dashboard"
+    },
+    {
+      "name": "Business Dashboard Examples",
+      "slug": "business-dashboard"
+    },
+    {
+      "name": "Business Dashboard Examples",
+      "slug": "business-dashboard-examples"
+    },
+    {
+      "name": "Campaign Dashboard",
+      "slug": "campaign-dashboard"
+    },
+    {
+      "name": "Cancel Button",
+      "slug": "cancel-button"
+    },
+    {
+      "name": "Charity Web Design",
+      "slug": "charity-web-design"
+    },
+    {
+      "name": "Client Dashboard",
+      "slug": "client-dashboard"
+    },
+    {
+      "name": "Construction Project Dashboard",
+      "slug": "construction-project-dashboard"
+    },
+    {
+      "name": "Conversational UI Examples",
+      "slug": "conversational-ui-examples"
+    },
+    {
+      "name": "Custom Dashboard",
+      "slug": "custom-dashboard"
+    },
+    {
+      "name": "Customer Dashboard",
+      "slug": "customer-dashboard"
+    },
+    {
+      "name": "Customer Service Dashboard",
+      "slug": "customer-service-dashboard"
+    },
+    {
+      "name": "Cybersecurity Dashboard",
+      "slug": "cybersecurity-dashboard"
+    },
+    {
+      "name": "ERP System Dashboard",
+      "slug": "erp-system-dashboard"
+    },
+    {
+      "name": "Ecommerce Analytics Dashboard",
+      "slug": "ecommerce-analytics-dashboard"
+    },
+    {
+      "name": "Ecommerce Dashboard",
+      "slug": "ecommerce-dashboard"
+    },
+    {
+      "name": "Edit Button",
+      "slug": "edit-button"
+    },
+    {
+      "name": "Email Marketing Dashboard",
+      "slug": "email-marketing-dashboard"
+    },
+    {
+      "name": "Employee Dashboard",
+      "slug": "employee-dashboard"
+    },
+    {
+      "name": "Employee HR Dashboard",
+      "slug": "employee-hr-dashboard"
+    },
+    {
+      "name": "Event Dashboard",
+      "slug": "event-dashboard"
+    },
+    {
+      "name": "Finance Dashboard",
+      "slug": "finance-dashboard"
+    },
+    {
+      "name": "Form Builder",
+      "slug": "form-builder"
+    },
+    {
+      "name": "Game Dashboard",
+      "slug": "game-dashboard"
+    },
+    {
+      "name": "Healthcare Dashboard",
+      "slug": "healthcare-dashboard"
+    },
+    {
+      "name": "Intranet Design",
+      "slug": "intranet-design"
+    },
+    {
+      "name": "Inventory Management Dashboard",
+      "slug": "inventory-management-dashboard"
+    },
+    {
+      "name": "LMS Dashboard",
+      "slug": "lms-dashboard"
+    },
+    {
+      "name": "Management Dashboard",
+      "slug": "management-dashboard"
+    },
+    {
+      "name": "Marketing Dashboard",
+      "slug": "marketing-dashboard"
+    },
+    {
+      "name": "Metrics Dashboard",
+      "slug": "metrics-dashboard"
+    },
+    {
+      "name": "Monitoring Dashboard",
+      "slug": "monitoring-dashboard"
+    },
+    {
+      "name": "Network Monitoring Dashboard",
+      "slug": "network-monitoring-dashboard"
+    },
+    {
+      "name": "Operations Dashboard",
+      "slug": "operations-dashboard"
+    },
+    {
+      "name": "Orange Gradient",
+      "slug": "orange-gradient"
+    },
+    {
+      "name": "Owner Dashboard",
+      "slug": "owner-dashboard"
+    },
+    {
+      "name": "Personal Finance Dashboard",
+      "slug": "personal-finance-dashboard"
+    },
+    {
+      "name": "Product Dashboard",
+      "slug": "product-dashboard"
+    },
+    {
+      "name": "Productivity Dashboard",
+      "slug": "productivity-dashboard"
+    },
+    {
+      "name": "Reporting Dashboard",
+      "slug": "reporting-dashboard"
+    },
+    {
+      "name": "Restaurant Website Design Agency",
+      "slug": "restaurant-website-design-agency"
+    },
+    {
+      "name": "Revenue Dashboard",
+      "slug": "revenue-dashboard"
+    },
+    {
+      "name": "SEO Dashboard",
+      "slug": "seo-dashboard"
+    },
+    {
+      "name": "SEO Dashboard Examples",
+      "slug": "seo-dashboard-examples"
+    },
+    {
+      "name": "SaaS Dashboard",
+      "slug": "saas-dashboard"
+    },
+    {
+      "name": "Search Dashboard",
+      "slug": "search-dashboard"
+    },
+    {
+      "name": "Search Engine Design",
+      "slug": "search-engine-design"
+    },
+    {
+      "name": "Skip Button",
+      "slug": "skip-button"
+    },
+    {
+      "name": "Social Media Dashboard",
+      "slug": "social-media-dashboard"
+    },
+    {
+      "name": "Supply Chain Dashboard",
+      "slug": "supply-chain-dashboard"
+    },
+    {
+      "name": "Taxi Dashboard",
+      "slug": "taxi-dashboard"
+    },
+    {
+      "name": "UI Components",
+      "slug": "ui-components"
+    },
+    {
+      "name": "Voice User Interface",
+      "slug": "voice-user-interface"
+    },
+    {
+      "name": "Web App Design",
+      "slug": "web-app-design"
+    },
+    {
+      "name": "Web Interface",
+      "slug": "web-interface"
+    },
+    {
+      "name": "Web Product Configurator",
+      "slug": "web-product-configurator"
+    },
+    {
+      "name": "Website Prototype",
+      "slug": "website-prototype"
+    },
+    {
+      "name": "Website Wireframes",
+      "slug": "website-wireframes"
+    }
+  ]
+}

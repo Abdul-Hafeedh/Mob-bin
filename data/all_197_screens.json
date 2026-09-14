@@ -1,0 +1,593 @@
+[
+  {
+    "slug": "activity-log"
+  },
+  {
+    "slug": "saas-dashboard"
+  },
+  {
+    "slug": "taxi-dashboard"
+  },
+  {
+    "slug": "admin-panel"
+  },
+  {
+    "slug": "form-builder"
+  },
+  {
+    "slug": "search-engine-design"
+  },
+  {
+    "slug": "productivity-dashboard"
+  },
+  {
+    "slug": "customer-dashboard"
+  },
+  {
+    "slug": "supply-chain-dashboard"
+  },
+  {
+    "slug": "erp-system-dashboard"
+  },
+  {
+    "slug": "business-dashboard"
+  },
+  {
+    "slug": "reporting-dashboard"
+  },
+  {
+    "slug": "log-dashboard"
+  },
+  {
+    "slug": "custom-dashboard"
+  },
+  {
+    "slug": "marketing-dashboard"
+  },
+  {
+    "slug": "modern-dashboard-design"
+  },
+  {
+    "slug": "personal-dashboard"
+  },
+  {
+    "slug": "metrics-dashboard"
+  },
+  {
+    "slug": "analytics-dashboard"
+  },
+  {
+    "slug": "delete-deactivate-account"
+  },
+  {
+    "slug": "payment-method"
+  },
+  {
+    "slug": "login"
+  },
+  {
+    "slug": "time-tracker"
+  },
+  {
+    "slug": "order-history"
+  },
+  {
+    "slug": "signup"
+  },
+  {
+    "slug": "billing"
+  },
+  {
+    "slug": "delete"
+  },
+  {
+    "slug": "checkout"
+  },
+  {
+    "slug": "intranet-design"
+  },
+  {
+    "slug": "move"
+  },
+  {
+    "slug": "reorder"
+  },
+  {
+    "slug": "favorite-pin"
+  },
+  {
+    "slug": "schedule"
+  },
+  {
+    "slug": "share"
+  },
+  {
+    "slug": "progress"
+  },
+  {
+    "slug": "permission"
+  },
+  {
+    "slug": "cancel"
+  },
+  {
+    "slug": "qr-code"
+  },
+  {
+    "slug": "pricing"
+  },
+  {
+    "slug": "emails-messages"
+  },
+  {
+    "slug": "subscription-paywall"
+  },
+  {
+    "slug": "bookmarks-collections"
+  },
+  {
+    "slug": "other-content"
+  },
+  {
+    "slug": "import-export"
+  },
+  {
+    "slug": "flag-report"
+  },
+  {
+    "slug": "multi-column-layout"
+  },
+  {
+    "slug": "help-support"
+  },
+  {
+    "slug": "verification"
+  },
+  {
+    "slug": "like-upvote"
+  },
+  {
+    "slug": "calendar"
+  },
+  {
+    "slug": "notifications"
+  },
+  {
+    "slug": "browse-discover"
+  },
+  {
+    "slug": "my-account-profile"
+  },
+  {
+    "slug": "confirmation"
+  },
+  {
+    "slug": "guided-tour-tutorial"
+  },
+  {
+    "slug": "forgot-password"
+  },
+  {
+    "slug": "internal-tool"
+  },
+  {
+    "slug": "save"
+  },
+  {
+    "slug": "best-dashboards"
+  },
+  {
+    "slug": "invite-teammates"
+  },
+  {
+    "slug": "publish"
+  },
+  {
+    "slug": "home"
+  },
+  {
+    "slug": "misc"
+  },
+  {
+    "slug": "timer-clock"
+  },
+  {
+    "slug": "revenue-dashboard"
+  },
+  {
+    "slug": "client-dashboard"
+  },
+  {
+    "slug": "ban-block"
+  },
+  {
+    "slug": "invite-refer-friends"
+  },
+  {
+    "slug": "timeline-history"
+  },
+  {
+    "slug": "trash-archive"
+  },
+  {
+    "slug": "upload-download"
+  },
+  {
+    "slug": "chat-detail"
+  },
+  {
+    "slug": "user-group-profile"
+  },
+  {
+    "slug": "account-setup"
+  },
+  {
+    "slug": "other-action"
+  },
+  {
+    "slug": "wallet-balance"
+  },
+  {
+    "slug": "feature-info"
+  },
+  {
+    "slug": "business-dashboard-examples"
+  },
+  {
+    "slug": "error"
+  },
+  {
+    "slug": "draw-annotate"
+  },
+  {
+    "slug": "action-option"
+  },
+  {
+    "slug": "search"
+  },
+  {
+    "slug": "media-editor"
+  },
+  {
+    "slug": "promotions-rewards"
+  },
+  {
+    "slug": "edit-button"
+  },
+  {
+    "slug": "operations-dashboard"
+  },
+  {
+    "slug": "search-dashboard"
+  },
+  {
+    "slug": "suggestions-similar-items"
+  },
+  {
+    "slug": "note-detail"
+  },
+  {
+    "slug": "filter-sort"
+  },
+  {
+    "slug": "kanban-board"
+  },
+  {
+    "slug": "set"
+  },
+  {
+    "slug": "canvas"
+  },
+  {
+    "slug": "order-detail"
+  },
+  {
+    "slug": "chat-bot"
+  },
+  {
+    "slug": "feedback"
+  },
+  {
+    "slug": "comments"
+  },
+  {
+    "slug": "monitoring-dashboard"
+  },
+  {
+    "slug": "empty-state"
+  },
+  {
+    "slug": "shop-storefront"
+  },
+  {
+    "slug": "code-editor"
+  },
+  {
+    "slug": "audio-video-recorder"
+  },
+  {
+    "slug": "campaign-dashboard"
+  },
+  {
+    "slug": "email-interface"
+  },
+  {
+    "slug": "goal-task"
+  },
+  {
+    "slug": "followers-following"
+  },
+  {
+    "slug": "affiliate-dashboard"
+  },
+  {
+    "slug": "edit"
+  },
+  {
+    "slug": "map"
+  },
+  {
+    "slug": "management-dashboard"
+  },
+  {
+    "slug": "customer-profile-software"
+  },
+  {
+    "slug": "date-time"
+  },
+  {
+    "slug": "audio-player"
+  },
+  {
+    "slug": "network-monitoring-dashboard"
+  },
+  {
+    "slug": "order-confirmation"
+  },
+  {
+    "slug": "drag-and-drop-dashboard"
+  },
+  {
+    "slug": "command-palette"
+  },
+  {
+    "slug": "portfolio-dashboard"
+  },
+  {
+    "slug": "reviews-ratings"
+  },
+  {
+    "slug": "dashboard"
+  },
+  {
+    "slug": "ai-chat-ui"
+  },
+  {
+    "slug": "select"
+  },
+  {
+    "slug": "inventory-ui"
+  },
+  {
+    "slug": "social-feed"
+  },
+  {
+    "slug": "ranking-dashboard"
+  },
+  {
+    "slug": "seo-dashboard-examples"
+  },
+  {
+    "slug": "acknowledgement-success"
+  },
+  {
+    "slug": "owner-dashboard"
+  },
+  {
+    "slug": "product-detail"
+  },
+  {
+    "slug": "video-player"
+  },
+  {
+    "slug": "dark-mode"
+  },
+  {
+    "slug": "skip-button"
+  },
+  {
+    "slug": "post-detail"
+  },
+  {
+    "slug": "quiz"
+  },
+  {
+    "slug": "point-of-sale-design"
+  },
+  {
+    "slug": "charts"
+  },
+  {
+    "slug": "ai-dashboard"
+  },
+  {
+    "slug": "settings-preferences"
+  },
+  {
+    "slug": "email-marketing-dashboard"
+  },
+  {
+    "slug": "budget-dashboard"
+  },
+  {
+    "slug": "admin-dashboard"
+  },
+  {
+    "slug": "loading"
+  },
+  {
+    "slug": "shopping-cart-ui"
+  },
+  {
+    "slug": "wizard-ui"
+  },
+  {
+    "slug": "achievements-awards"
+  },
+  {
+    "slug": "cybersecurity-dashboard"
+  },
+  {
+    "slug": "follow-subscribe"
+  },
+  {
+    "slug": "web-app-design"
+  },
+  {
+    "slug": "finance-dashboard"
+  },
+  {
+    "slug": "interactive-dashboard"
+  },
+  {
+    "slug": "event-detail"
+  },
+  {
+    "slug": "product-dashboard"
+  },
+  {
+    "slug": "voice-user-interface"
+  },
+  {
+    "slug": "team-dashboard"
+  },
+  {
+    "slug": "accounting-software-dashboard"
+  },
+  {
+    "slug": "form-design"
+  },
+  {
+    "slug": "admin-ui"
+  },
+  {
+    "slug": "iot-dashboard"
+  },
+  {
+    "slug": "add-create"
+  },
+  {
+    "slug": "call"
+  },
+  {
+    "slug": "class-lesson-detail"
+  },
+  {
+    "slug": "game-dashboard"
+  },
+  {
+    "slug": "web-product-configurator"
+  },
+  {
+    "slug": "customer-service-dashboard"
+  },
+  {
+    "slug": "web-interface"
+  },
+  {
+    "slug": "social-media-dashboard"
+  },
+  {
+    "slug": "orange-gradient"
+  },
+  {
+    "slug": "event-dashboard"
+  },
+  {
+    "slug": "investment-dashboard"
+  },
+  {
+    "slug": "cancel-button"
+  },
+  {
+    "slug": "leaderboard"
+  },
+  {
+    "slug": "seo-dashboard"
+  },
+  {
+    "slug": "ui-components"
+  },
+  {
+    "slug": "transfer-send-money"
+  },
+  {
+    "slug": "personal-finance-dashboard"
+  },
+  {
+    "slug": "construction-project-dashboard"
+  },
+  {
+    "slug": "employee-dashboard"
+  },
+  {
+    "slug": "news-feed"
+  },
+  {
+    "slug": "dashboard-images"
+  },
+  {
+    "slug": "employee-hr-dashboard"
+  },
+  {
+    "slug": "inventory-management-dashboard"
+  },
+  {
+    "slug": "lms-dashboard"
+  },
+  {
+    "slug": "playlists"
+  },
+  {
+    "slug": "article-detail"
+  },
+  {
+    "slug": "conversational-ui-examples"
+  },
+  {
+    "slug": "restaurant-website-design-agency"
+  },
+  {
+    "slug": "website-prototype"
+  },
+  {
+    "slug": "stories"
+  },
+  {
+    "slug": "charity-web-design"
+  },
+  {
+    "slug": "song-podcast-detail"
+  },
+  {
+    "slug": "ecommerce-analytics-dashboard"
+  },
+  {
+    "slug": "ecommerce-dashboard"
+  },
+  {
+    "slug": "website-wireframes"
+  },
+  {
+    "slug": "recipe-detail"
+  },
+  {
+    "slug": "healthcare-dashboard"
+  },
+  {
+    "slug": "3d-configurator"
+  },
+  {
+    "slug": "tv-show-movie-detail"
+  }
+]

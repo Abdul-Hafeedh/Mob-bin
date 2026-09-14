@@ -1,0 +1,2102 @@
+{
+  "flows": [
+    {
+      "name": "Adding & Creating",
+      "slug": "adding-creating",
+      "path": "/explore/web/flows/adding-creating",
+      "url": "https://mobbin.com/explore/web/flows/adding-creating"
+    },
+    {
+      "name": "Adding to Cart & Bag",
+      "slug": "adding-to-cart-bag",
+      "path": "/explore/web/flows/adding-to-cart-bag",
+      "url": "https://mobbin.com/explore/web/flows/adding-to-cart-bag"
+    },
+    {
+      "name": "Archiving",
+      "slug": "archiving",
+      "path": "/explore/web/flows/archiving",
+      "url": "https://mobbin.com/explore/web/flows/archiving"
+    },
+    {
+      "name": "Banning & Blocking",
+      "slug": "banning-blocking",
+      "path": "/explore/web/flows/banning-blocking",
+      "url": "https://mobbin.com/explore/web/flows/banning-blocking"
+    },
+    {
+      "name": "Booking & Reserving",
+      "slug": "booking-reserving",
+      "path": "/explore/web/flows/booking-reserving",
+      "url": "https://mobbin.com/explore/web/flows/booking-reserving"
+    },
+    {
+      "name": "Browsing Tutorial",
+      "slug": "browsing-tutorial",
+      "path": "/explore/web/flows/browsing-tutorial",
+      "url": "https://mobbin.com/explore/web/flows/browsing-tutorial"
+    },
+    {
+      "name": "Calling",
+      "slug": "calling",
+      "path": "/explore/web/flows/calling",
+      "url": "https://mobbin.com/explore/web/flows/calling"
+    },
+    {
+      "name": "Canceling Order & Refunding",
+      "slug": "canceling-order-refunding",
+      "path": "/explore/web/flows/canceling-order-refunding",
+      "url": "https://mobbin.com/explore/web/flows/canceling-order-refunding"
+    },
+    {
+      "name": "Canceling Subscription",
+      "slug": "canceling-subscription",
+      "path": "/explore/web/flows/canceling-subscription",
+      "url": "https://mobbin.com/explore/web/flows/canceling-subscription"
+    },
+    {
+      "name": "Chatting & Sending Messages",
+      "slug": "chatting-sending-messages",
+      "path": "/explore/web/flows/chatting-sending-messages",
+      "url": "https://mobbin.com/explore/web/flows/chatting-sending-messages"
+    },
+    {
+      "name": "Commenting & Replying",
+      "slug": "commenting-replying",
+      "path": "/explore/web/flows/commenting-replying",
+      "url": "https://mobbin.com/explore/web/flows/commenting-replying"
+    },
+    {
+      "name": "Connecting & Linking",
+      "slug": "connecting-linking",
+      "path": "/explore/web/flows/connecting-linking",
+      "url": "https://mobbin.com/explore/web/flows/connecting-linking"
+    },
+    {
+      "name": "Copying & Duplicating",
+      "slug": "copying-duplicating",
+      "path": "/explore/web/flows/copying-duplicating",
+      "url": "https://mobbin.com/explore/web/flows/copying-duplicating"
+    },
+    {
+      "name": "Creating Account",
+      "slug": "creating-account",
+      "path": "/explore/web/flows/creating-account",
+      "url": "https://mobbin.com/explore/web/flows/creating-account"
+    },
+    {
+      "name": "Deleting & Deactivating Account",
+      "slug": "deleting-deactivating-account",
+      "path": "/explore/web/flows/deleting-deactivating-account",
+      "url": "https://mobbin.com/explore/web/flows/deleting-deactivating-account"
+    },
+    {
+      "name": "Deleting & Removing",
+      "slug": "deleting-removing",
+      "path": "/explore/web/flows/deleting-removing",
+      "url": "https://mobbin.com/explore/web/flows/deleting-removing"
+    },
+    {
+      "name": "Drawing",
+      "slug": "drawing",
+      "path": "/explore/web/flows/drawing",
+      "url": "https://mobbin.com/explore/web/flows/drawing"
+    },
+    {
+      "name": "Editing & Updating",
+      "slug": "editing-updating",
+      "path": "/explore/web/flows/editing-updating",
+      "url": "https://mobbin.com/explore/web/flows/editing-updating"
+    },
+    {
+      "name": "Editing Profile",
+      "slug": "editing-profile",
+      "path": "/explore/web/flows/editing-profile",
+      "url": "https://mobbin.com/explore/web/flows/editing-profile"
+    },
+    {
+      "name": "Enabling & Disabling",
+      "slug": "enabling-disabling",
+      "path": "/explore/web/flows/enabling-disabling",
+      "url": "https://mobbin.com/explore/web/flows/enabling-disabling"
+    },
+    {
+      "name": "Favoriting & Pinning",
+      "slug": "favoriting-pinning",
+      "path": "/explore/web/flows/favoriting-pinning",
+      "url": "https://mobbin.com/explore/web/flows/favoriting-pinning"
+    },
+    {
+      "name": "Filtering & Sorting",
+      "slug": "filtering-sorting",
+      "path": "/explore/web/flows/filtering-sorting",
+      "url": "https://mobbin.com/explore/web/flows/filtering-sorting"
+    },
+    {
+      "name": "Following & Subscribing",
+      "slug": "following-subscribing",
+      "path": "/explore/web/flows/following-subscribing",
+      "url": "https://mobbin.com/explore/web/flows/following-subscribing"
+    },
+    {
+      "name": "Gifting",
+      "slug": "gifting",
+      "path": "/explore/web/flows/gifting",
+      "url": "https://mobbin.com/explore/web/flows/gifting"
+    },
+    {
+      "name": "Giving Feedback",
+      "slug": "giving-feedback",
+      "path": "/explore/web/flows/giving-feedback",
+      "url": "https://mobbin.com/explore/web/flows/giving-feedback"
+    },
+    {
+      "name": "Importing & Exporting",
+      "slug": "importing-exporting",
+      "path": "/explore/web/flows/importing-exporting",
+      "url": "https://mobbin.com/explore/web/flows/importing-exporting"
+    },
+    {
+      "name": "Inviting Teammates & Friends",
+      "slug": "inviting-teammates-friends",
+      "path": "/explore/web/flows/inviting-teammates-friends",
+      "url": "https://mobbin.com/explore/web/flows/inviting-teammates-friends"
+    },
+    {
+      "name": "Joining & Accepting",
+      "slug": "joining-accepting",
+      "path": "/explore/web/flows/joining-accepting",
+      "url": "https://mobbin.com/explore/web/flows/joining-accepting"
+    },
+    {
+      "name": "Leaving",
+      "slug": "leaving",
+      "path": "/explore/web/flows/leaving",
+      "url": "https://mobbin.com/explore/web/flows/leaving"
+    },
+    {
+      "name": "Liking & Upvoting",
+      "slug": "liking-upvoting",
+      "path": "/explore/web/flows/liking-upvoting",
+      "url": "https://mobbin.com/explore/web/flows/liking-upvoting"
+    },
+    {
+      "name": "Listening to Audio",
+      "slug": "listening-to-audio",
+      "path": "/explore/web/flows/listening-to-audio",
+      "url": "https://mobbin.com/explore/web/flows/listening-to-audio"
+    },
+    {
+      "name": "Listing",
+      "slug": "listing",
+      "path": "/explore/web/flows/listing",
+      "url": "https://mobbin.com/explore/web/flows/listing"
+    },
+    {
+      "name": "Logging & Tracking",
+      "slug": "logging-tracking",
+      "path": "/explore/web/flows/logging-tracking",
+      "url": "https://mobbin.com/explore/web/flows/logging-tracking"
+    },
+    {
+      "name": "Logging In",
+      "slug": "logging-in",
+      "path": "/explore/web/flows/logging-in",
+      "url": "https://mobbin.com/explore/web/flows/logging-in"
+    },
+    {
+      "name": "Logging Out",
+      "slug": "logging-out",
+      "path": "/explore/web/flows/logging-out",
+      "url": "https://mobbin.com/explore/web/flows/logging-out"
+    },
+    {
+      "name": "Marking",
+      "slug": "marking",
+      "path": "/explore/web/flows/marking",
+      "url": "https://mobbin.com/explore/web/flows/marking"
+    },
+    {
+      "name": "Misc",
+      "slug": "misc",
+      "path": "/explore/web/flows/misc",
+      "url": "https://mobbin.com/explore/web/flows/misc"
+    },
+    {
+      "name": "Moving",
+      "slug": "moving",
+      "path": "/explore/web/flows/moving",
+      "url": "https://mobbin.com/explore/web/flows/moving"
+    },
+    {
+      "name": "Muting",
+      "slug": "muting",
+      "path": "/explore/web/flows/muting",
+      "url": "https://mobbin.com/explore/web/flows/muting"
+    },
+    {
+      "name": "Onboarding",
+      "slug": "onboarding",
+      "path": "/explore/web/flows/onboarding",
+      "url": "https://mobbin.com/explore/web/flows/onboarding"
+    },
+    {
+      "name": "Onboarding Form",
+      "slug": "onboarding-form",
+      "path": "/explore/web/flows/onboarding-form",
+      "url": "https://mobbin.com/explore/web/flows/onboarding-form"
+    },
+    {
+      "name": "Publishing",
+      "slug": "publishing",
+      "path": "/explore/web/flows/publishing",
+      "url": "https://mobbin.com/explore/web/flows/publishing"
+    },
+    {
+      "name": "Purchasing & Ordering",
+      "slug": "purchasing-ordering",
+      "path": "/explore/web/flows/purchasing-ordering",
+      "url": "https://mobbin.com/explore/web/flows/purchasing-ordering"
+    },
+    {
+      "name": "Recording Audio & Video",
+      "slug": "recording-audio-video",
+      "path": "/explore/web/flows/recording-audio-video",
+      "url": "https://mobbin.com/explore/web/flows/recording-audio-video"
+    },
+    {
+      "name": "Redeeming",
+      "slug": "redeeming",
+      "path": "/explore/web/flows/redeeming",
+      "url": "https://mobbin.com/explore/web/flows/redeeming"
+    },
+    {
+      "name": "Referring Friends",
+      "slug": "referring-friends",
+      "path": "/explore/web/flows/referring-friends",
+      "url": "https://mobbin.com/explore/web/flows/referring-friends"
+    },
+    {
+      "name": "Registering",
+      "slug": "registering",
+      "path": "/explore/web/flows/registering",
+      "url": "https://mobbin.com/explore/web/flows/registering"
+    },
+    {
+      "name": "Reordering",
+      "slug": "reordering",
+      "path": "/explore/web/flows/reordering",
+      "url": "https://mobbin.com/explore/web/flows/reordering"
+    },
+    {
+      "name": "Reporting",
+      "slug": "reporting",
+      "path": "/explore/web/flows/reporting",
+      "url": "https://mobbin.com/explore/web/flows/reporting"
+    },
+    {
+      "name": "Requesting",
+      "slug": "requesting",
+      "path": "/explore/web/flows/requesting",
+      "url": "https://mobbin.com/explore/web/flows/requesting"
+    },
+    {
+      "name": "Resetting Password",
+      "slug": "resetting-password",
+      "path": "/explore/web/flows/resetting-password",
+      "url": "https://mobbin.com/explore/web/flows/resetting-password"
+    },
+    {
+      "name": "Reviewing & Rating",
+      "slug": "reviewing-rating",
+      "path": "/explore/web/flows/reviewing-rating",
+      "url": "https://mobbin.com/explore/web/flows/reviewing-rating"
+    },
+    {
+      "name": "Saving to Collection",
+      "slug": "saving-to-collection",
+      "path": "/explore/web/flows/saving-to-collection",
+      "url": "https://mobbin.com/explore/web/flows/saving-to-collection"
+    },
+    {
+      "name": "Scheduling",
+      "slug": "scheduling",
+      "path": "/explore/web/flows/scheduling",
+      "url": "https://mobbin.com/explore/web/flows/scheduling"
+    },
+    {
+      "name": "Search UX",
+      "slug": "search-ux",
+      "path": "/explore/web/flows/search-ux",
+      "url": "https://mobbin.com/explore/web/flows/search-ux"
+    },
+    {
+      "name": "Searching & Finding",
+      "slug": "searching-finding",
+      "path": "/explore/web/flows/searching-finding",
+      "url": "https://mobbin.com/explore/web/flows/searching-finding"
+    },
+    {
+      "name": "Selecting & Choosing",
+      "slug": "selecting-choosing",
+      "path": "/explore/web/flows/selecting-choosing",
+      "url": "https://mobbin.com/explore/web/flows/selecting-choosing"
+    },
+    {
+      "name": "Setting Up",
+      "slug": "setting-up",
+      "path": "/explore/web/flows/setting-up",
+      "url": "https://mobbin.com/explore/web/flows/setting-up"
+    },
+    {
+      "name": "Sharing",
+      "slug": "sharing",
+      "path": "/explore/web/flows/sharing",
+      "url": "https://mobbin.com/explore/web/flows/sharing"
+    },
+    {
+      "name": "Showing & Hiding",
+      "slug": "showing-hiding",
+      "path": "/explore/web/flows/showing-hiding",
+      "url": "https://mobbin.com/explore/web/flows/showing-hiding"
+    },
+    {
+      "name": "Starting & Completing",
+      "slug": "starting-completing",
+      "path": "/explore/web/flows/starting-completing",
+      "url": "https://mobbin.com/explore/web/flows/starting-completing"
+    },
+    {
+      "name": "Subscribing & Upgrading",
+      "slug": "subscribing-upgrading",
+      "path": "/explore/web/flows/subscribing-upgrading",
+      "url": "https://mobbin.com/explore/web/flows/subscribing-upgrading"
+    },
+    {
+      "name": "Switching Account",
+      "slug": "switching-account",
+      "path": "/explore/web/flows/switching-account",
+      "url": "https://mobbin.com/explore/web/flows/switching-account"
+    },
+    {
+      "name": "Switching to Dark Mode",
+      "slug": "switching-to-dark-mode",
+      "path": "/explore/web/flows/switching-to-dark-mode",
+      "url": "https://mobbin.com/explore/web/flows/switching-to-dark-mode"
+    },
+    {
+      "name": "Switching View",
+      "slug": "switching-view",
+      "path": "/explore/web/flows/switching-view",
+      "url": "https://mobbin.com/explore/web/flows/switching-view"
+    },
+    {
+      "name": "Taking Photos",
+      "slug": "taking-photos",
+      "path": "/explore/web/flows/taking-photos",
+      "url": "https://mobbin.com/explore/web/flows/taking-photos"
+    },
+    {
+      "name": "Transferring Money & Donating",
+      "slug": "transferring-money-donating",
+      "path": "/explore/web/flows/transferring-money-donating",
+      "url": "https://mobbin.com/explore/web/flows/transferring-money-donating"
+    },
+    {
+      "name": "Turning On/Off",
+      "slug": "turning-on-off",
+      "path": "/explore/web/flows/turning-on-off",
+      "url": "https://mobbin.com/explore/web/flows/turning-on-off"
+    },
+    {
+      "name": "Uploading & Downloading",
+      "slug": "uploading-downloading",
+      "path": "/explore/web/flows/uploading-downloading",
+      "url": "https://mobbin.com/explore/web/flows/uploading-downloading"
+    },
+    {
+      "name": "Verifying",
+      "slug": "verifying",
+      "path": "/explore/web/flows/verifying",
+      "url": "https://mobbin.com/explore/web/flows/verifying"
+    },
+    {
+      "name": "Watching Video",
+      "slug": "watching-video",
+      "path": "/explore/web/flows/watching-video",
+      "url": "https://mobbin.com/explore/web/flows/watching-video"
+    }
+  ],
+  "uiElements": [
+    {
+      "name": "Accordion",
+      "slug": "accordion",
+      "path": "/explore/web/ui-elements/accordion",
+      "url": "https://mobbin.com/explore/web/ui-elements/accordion"
+    },
+    {
+      "name": "Admin Badge",
+      "slug": "admin-badge",
+      "path": "/explore/web/ui-elements/admin-badge",
+      "url": "https://mobbin.com/explore/web/ui-elements/admin-badge"
+    },
+    {
+      "name": "Avatar",
+      "slug": "avatar",
+      "path": "/explore/web/ui-elements/avatar",
+      "url": "https://mobbin.com/explore/web/ui-elements/avatar"
+    },
+    {
+      "name": "Badge",
+      "slug": "badge",
+      "path": "/explore/web/ui-elements/badge",
+      "url": "https://mobbin.com/explore/web/ui-elements/badge"
+    },
+    {
+      "name": "Banner",
+      "slug": "banner",
+      "path": "/explore/web/ui-elements/banner",
+      "url": "https://mobbin.com/explore/web/ui-elements/banner"
+    },
+    {
+      "name": "Breadcrumbs",
+      "slug": "breadcrumbs",
+      "path": "/explore/web/ui-elements/breadcrumbs",
+      "url": "https://mobbin.com/explore/web/ui-elements/breadcrumbs"
+    },
+    {
+      "name": "Button",
+      "slug": "button",
+      "path": "/explore/web/ui-elements/button",
+      "url": "https://mobbin.com/explore/web/ui-elements/button"
+    },
+    {
+      "name": "Button Animation",
+      "slug": "button-animation",
+      "path": "/explore/web/ui-elements/button-animation",
+      "url": "https://mobbin.com/explore/web/ui-elements/button-animation"
+    },
+    {
+      "name": "Card",
+      "slug": "card",
+      "path": "/explore/web/ui-elements/card",
+      "url": "https://mobbin.com/explore/web/ui-elements/card"
+    },
+    {
+      "name": "Carousel",
+      "slug": "carousel",
+      "path": "/explore/web/ui-elements/carousel",
+      "url": "https://mobbin.com/explore/web/ui-elements/carousel"
+    },
+    {
+      "name": "Checkbox",
+      "slug": "checkbox",
+      "path": "/explore/web/ui-elements/checkbox",
+      "url": "https://mobbin.com/explore/web/ui-elements/checkbox"
+    },
+    {
+      "name": "Checklist Design",
+      "slug": "checklist-design",
+      "path": "/explore/web/ui-elements/checklist-design",
+      "url": "https://mobbin.com/explore/web/ui-elements/checklist-design"
+    },
+    {
+      "name": "Checkout Card",
+      "slug": "checkout-card",
+      "path": "/explore/web/ui-elements/checkout-card",
+      "url": "https://mobbin.com/explore/web/ui-elements/checkout-card"
+    },
+    {
+      "name": "Chip",
+      "slug": "chip",
+      "path": "/explore/web/ui-elements/chip",
+      "url": "https://mobbin.com/explore/web/ui-elements/chip"
+    },
+    {
+      "name": "Coach Marks",
+      "slug": "coach-marks",
+      "path": "/explore/web/ui-elements/coach-marks",
+      "url": "https://mobbin.com/explore/web/ui-elements/coach-marks"
+    },
+    {
+      "name": "Color Picker",
+      "slug": "color-picker",
+      "path": "/explore/web/ui-elements/color-picker",
+      "url": "https://mobbin.com/explore/web/ui-elements/color-picker"
+    },
+    {
+      "name": "Combobox",
+      "slug": "combobox",
+      "path": "/explore/web/ui-elements/combobox",
+      "url": "https://mobbin.com/explore/web/ui-elements/combobox"
+    },
+    {
+      "name": "Contact Us Button",
+      "slug": "contact-us-button",
+      "path": "/explore/web/ui-elements/contact-us-button",
+      "url": "https://mobbin.com/explore/web/ui-elements/contact-us-button"
+    },
+    {
+      "name": "Context Menu",
+      "slug": "context-menu",
+      "path": "/explore/web/ui-elements/context-menu",
+      "url": "https://mobbin.com/explore/web/ui-elements/context-menu"
+    },
+    {
+      "name": "Date Picker",
+      "slug": "date-picker",
+      "path": "/explore/web/ui-elements/date-picker",
+      "url": "https://mobbin.com/explore/web/ui-elements/date-picker"
+    },
+    {
+      "name": "Dialog",
+      "slug": "dialog",
+      "path": "/explore/web/ui-elements/dialog",
+      "url": "https://mobbin.com/explore/web/ui-elements/dialog"
+    },
+    {
+      "name": "Divider",
+      "slug": "divider",
+      "path": "/explore/web/ui-elements/divider",
+      "url": "https://mobbin.com/explore/web/ui-elements/divider"
+    },
+    {
+      "name": "Drag And Drop Form",
+      "slug": "drag-and-drop-form",
+      "path": "/explore/web/ui-elements/drag-and-drop-form",
+      "url": "https://mobbin.com/explore/web/ui-elements/drag-and-drop-form"
+    },
+    {
+      "name": "Drawer",
+      "slug": "drawer",
+      "path": "/explore/web/ui-elements/drawer",
+      "url": "https://mobbin.com/explore/web/ui-elements/drawer"
+    },
+    {
+      "name": "Dropdown Button",
+      "slug": "dropdown-button",
+      "path": "/explore/web/ui-elements/dropdown-button",
+      "url": "https://mobbin.com/explore/web/ui-elements/dropdown-button"
+    },
+    {
+      "name": "Dropdown Menu",
+      "slug": "dropdown-menu",
+      "path": "/explore/web/ui-elements/dropdown-menu",
+      "url": "https://mobbin.com/explore/web/ui-elements/dropdown-menu"
+    },
+    {
+      "name": "Editable Text",
+      "slug": "editable-text",
+      "path": "/explore/web/ui-elements/editable-text",
+      "url": "https://mobbin.com/explore/web/ui-elements/editable-text"
+    },
+    {
+      "name": "File Upload",
+      "slug": "file-upload",
+      "path": "/explore/web/ui-elements/file-upload",
+      "url": "https://mobbin.com/explore/web/ui-elements/file-upload"
+    },
+    {
+      "name": "Filter Panel UI",
+      "slug": "filter-panel-ui",
+      "path": "/explore/web/ui-elements/filter-panel-ui",
+      "url": "https://mobbin.com/explore/web/ui-elements/filter-panel-ui"
+    },
+    {
+      "name": "Floating Action Button",
+      "slug": "floating-action-button",
+      "path": "/explore/web/ui-elements/floating-action-button",
+      "url": "https://mobbin.com/explore/web/ui-elements/floating-action-button"
+    },
+    {
+      "name": "Full-Screen Overlay",
+      "slug": "full-screen-overlay",
+      "path": "/explore/web/ui-elements/full-screen-overlay",
+      "url": "https://mobbin.com/explore/web/ui-elements/full-screen-overlay"
+    },
+    {
+      "name": "Gallery",
+      "slug": "gallery",
+      "path": "/explore/web/ui-elements/gallery",
+      "url": "https://mobbin.com/explore/web/ui-elements/gallery"
+    },
+    {
+      "name": "Grid List",
+      "slug": "grid-list",
+      "path": "/explore/web/ui-elements/grid-list",
+      "url": "https://mobbin.com/explore/web/ui-elements/grid-list"
+    },
+    {
+      "name": "Horizontal Bar Chart",
+      "slug": "horizontal-bar-chart",
+      "path": "/explore/web/ui-elements/horizontal-bar-chart",
+      "url": "https://mobbin.com/explore/web/ui-elements/horizontal-bar-chart"
+    },
+    {
+      "name": "Icon",
+      "slug": "icon",
+      "path": "/explore/web/ui-elements/icon",
+      "url": "https://mobbin.com/explore/web/ui-elements/icon"
+    },
+    {
+      "name": "Illustration",
+      "slug": "illustration",
+      "path": "/explore/web/ui-elements/illustration",
+      "url": "https://mobbin.com/explore/web/ui-elements/illustration"
+    },
+    {
+      "name": "Keyboard Key",
+      "slug": "keyboard-key",
+      "path": "/explore/web/ui-elements/keyboard-key",
+      "url": "https://mobbin.com/explore/web/ui-elements/keyboard-key"
+    },
+    {
+      "name": "Link",
+      "slug": "link",
+      "path": "/explore/web/ui-elements/link",
+      "url": "https://mobbin.com/explore/web/ui-elements/link"
+    },
+    {
+      "name": "Loading Indicator",
+      "slug": "loading-indicator",
+      "path": "/explore/web/ui-elements/loading-indicator",
+      "url": "https://mobbin.com/explore/web/ui-elements/loading-indicator"
+    },
+    {
+      "name": "Logo",
+      "slug": "logo",
+      "path": "/explore/web/ui-elements/logo",
+      "url": "https://mobbin.com/explore/web/ui-elements/logo"
+    },
+    {
+      "name": "Map Pin",
+      "slug": "map-pin",
+      "path": "/explore/web/ui-elements/map-pin",
+      "url": "https://mobbin.com/explore/web/ui-elements/map-pin"
+    },
+    {
+      "name": "Modal UI",
+      "slug": "modal-ui",
+      "path": "/explore/web/ui-elements/modal-ui",
+      "url": "https://mobbin.com/explore/web/ui-elements/modal-ui"
+    },
+    {
+      "name": "Multi Select Dropdown",
+      "slug": "multi-select-dropdown",
+      "path": "/explore/web/ui-elements/multi-select-dropdown",
+      "url": "https://mobbin.com/explore/web/ui-elements/multi-select-dropdown"
+    },
+    {
+      "name": "Navigation Menu",
+      "slug": "navigation-menu",
+      "path": "/explore/web/ui-elements/navigation-menu",
+      "url": "https://mobbin.com/explore/web/ui-elements/navigation-menu"
+    },
+    {
+      "name": "Notification Bell",
+      "slug": "notification-bell",
+      "path": "/explore/web/ui-elements/notification-bell",
+      "url": "https://mobbin.com/explore/web/ui-elements/notification-bell"
+    },
+    {
+      "name": "Notification Dot",
+      "slug": "notification-dot",
+      "path": "/explore/web/ui-elements/notification-dot",
+      "url": "https://mobbin.com/explore/web/ui-elements/notification-dot"
+    },
+    {
+      "name": "Pagination",
+      "slug": "pagination",
+      "path": "/explore/web/ui-elements/pagination",
+      "url": "https://mobbin.com/explore/web/ui-elements/pagination"
+    },
+    {
+      "name": "Photo",
+      "slug": "photo",
+      "path": "/explore/web/ui-elements/photo",
+      "url": "https://mobbin.com/explore/web/ui-elements/photo"
+    },
+    {
+      "name": "Pop Up Notification",
+      "slug": "pop-up-notification",
+      "path": "/explore/web/ui-elements/pop-up-notification",
+      "url": "https://mobbin.com/explore/web/ui-elements/pop-up-notification"
+    },
+    {
+      "name": "Popover",
+      "slug": "popover",
+      "path": "/explore/web/ui-elements/popover",
+      "url": "https://mobbin.com/explore/web/ui-elements/popover"
+    },
+    {
+      "name": "Progress Indicator",
+      "slug": "progress-indicator",
+      "path": "/explore/web/ui-elements/progress-indicator",
+      "url": "https://mobbin.com/explore/web/ui-elements/progress-indicator"
+    },
+    {
+      "name": "Radio Button",
+      "slug": "radio-button",
+      "path": "/explore/web/ui-elements/radio-button",
+      "url": "https://mobbin.com/explore/web/ui-elements/radio-button"
+    },
+    {
+      "name": "Rating Control",
+      "slug": "rating-control",
+      "path": "/explore/web/ui-elements/rating-control",
+      "url": "https://mobbin.com/explore/web/ui-elements/rating-control"
+    },
+    {
+      "name": "Refresh Button",
+      "slug": "refresh-button",
+      "path": "/explore/web/ui-elements/refresh-button",
+      "url": "https://mobbin.com/explore/web/ui-elements/refresh-button"
+    },
+    {
+      "name": "Search Bar",
+      "slug": "search-bar",
+      "path": "/explore/web/ui-elements/search-bar",
+      "url": "https://mobbin.com/explore/web/ui-elements/search-bar"
+    },
+    {
+      "name": "Segmented Control",
+      "slug": "segmented-control",
+      "path": "/explore/web/ui-elements/segmented-control",
+      "url": "https://mobbin.com/explore/web/ui-elements/segmented-control"
+    },
+    {
+      "name": "Select",
+      "slug": "select",
+      "path": "/explore/web/ui-elements/select",
+      "url": "https://mobbin.com/explore/web/ui-elements/select"
+    },
+    {
+      "name": "Share Button",
+      "slug": "share-button",
+      "path": "/explore/web/ui-elements/share-button",
+      "url": "https://mobbin.com/explore/web/ui-elements/share-button"
+    },
+    {
+      "name": "Side Navigation",
+      "slug": "side-navigation",
+      "path": "/explore/web/ui-elements/side-navigation",
+      "url": "https://mobbin.com/explore/web/ui-elements/side-navigation"
+    },
+    {
+      "name": "Sign In Button",
+      "slug": "sign-in-button",
+      "path": "/explore/web/ui-elements/sign-in-button",
+      "url": "https://mobbin.com/explore/web/ui-elements/sign-in-button"
+    },
+    {
+      "name": "Sign In Form",
+      "slug": "sign-in-form",
+      "path": "/explore/web/ui-elements/sign-in-form",
+      "url": "https://mobbin.com/explore/web/ui-elements/sign-in-form"
+    },
+    {
+      "name": "Skeleton",
+      "slug": "skeleton",
+      "path": "/explore/web/ui-elements/skeleton",
+      "url": "https://mobbin.com/explore/web/ui-elements/skeleton"
+    },
+    {
+      "name": "Slide Button",
+      "slug": "slide-button",
+      "path": "/explore/web/ui-elements/slide-button",
+      "url": "https://mobbin.com/explore/web/ui-elements/slide-button"
+    },
+    {
+      "name": "Slider",
+      "slug": "slider",
+      "path": "/explore/web/ui-elements/slider",
+      "url": "https://mobbin.com/explore/web/ui-elements/slider"
+    },
+    {
+      "name": "Stacked List",
+      "slug": "stacked-list",
+      "path": "/explore/web/ui-elements/stacked-list",
+      "url": "https://mobbin.com/explore/web/ui-elements/stacked-list"
+    },
+    {
+      "name": "Status Dot",
+      "slug": "status-dot",
+      "path": "/explore/web/ui-elements/status-dot",
+      "url": "https://mobbin.com/explore/web/ui-elements/status-dot"
+    },
+    {
+      "name": "Stepper",
+      "slug": "stepper",
+      "path": "/explore/web/ui-elements/stepper",
+      "url": "https://mobbin.com/explore/web/ui-elements/stepper"
+    },
+    {
+      "name": "Switch",
+      "slug": "switch",
+      "path": "/explore/web/ui-elements/switch",
+      "url": "https://mobbin.com/explore/web/ui-elements/switch"
+    },
+    {
+      "name": "Tab",
+      "slug": "tab",
+      "path": "/explore/web/ui-elements/tab",
+      "url": "https://mobbin.com/explore/web/ui-elements/tab"
+    },
+    {
+      "name": "Table",
+      "slug": "table",
+      "path": "/explore/web/ui-elements/table",
+      "url": "https://mobbin.com/explore/web/ui-elements/table"
+    },
+    {
+      "name": "Table of Contents",
+      "slug": "table-of-contents",
+      "path": "/explore/web/ui-elements/table-of-contents",
+      "url": "https://mobbin.com/explore/web/ui-elements/table-of-contents"
+    },
+    {
+      "name": "Text Field",
+      "slug": "text-field",
+      "path": "/explore/web/ui-elements/text-field",
+      "url": "https://mobbin.com/explore/web/ui-elements/text-field"
+    },
+    {
+      "name": "Tile",
+      "slug": "tile",
+      "path": "/explore/web/ui-elements/tile",
+      "url": "https://mobbin.com/explore/web/ui-elements/tile"
+    },
+    {
+      "name": "Time Picker",
+      "slug": "time-picker",
+      "path": "/explore/web/ui-elements/time-picker",
+      "url": "https://mobbin.com/explore/web/ui-elements/time-picker"
+    },
+    {
+      "name": "Toast",
+      "slug": "toast",
+      "path": "/explore/web/ui-elements/toast",
+      "url": "https://mobbin.com/explore/web/ui-elements/toast"
+    },
+    {
+      "name": "Toolbar",
+      "slug": "toolbar",
+      "path": "/explore/web/ui-elements/toolbar",
+      "url": "https://mobbin.com/explore/web/ui-elements/toolbar"
+    },
+    {
+      "name": "Tooltip",
+      "slug": "tooltip",
+      "path": "/explore/web/ui-elements/tooltip",
+      "url": "https://mobbin.com/explore/web/ui-elements/tooltip"
+    },
+    {
+      "name": "Top Navigation Bar",
+      "slug": "top-navigation-bar",
+      "path": "/explore/web/ui-elements/top-navigation-bar",
+      "url": "https://mobbin.com/explore/web/ui-elements/top-navigation-bar"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree",
+      "path": "/explore/web/ui-elements/tree",
+      "url": "https://mobbin.com/explore/web/ui-elements/tree"
+    },
+    {
+      "name": "Trend Chart",
+      "slug": "trend-chart",
+      "path": "/explore/web/ui-elements/trend-chart",
+      "url": "https://mobbin.com/explore/web/ui-elements/trend-chart"
+    },
+    {
+      "name": "Web Toolbars",
+      "slug": "web-toolbars",
+      "path": "/explore/web/ui-elements/web-toolbars",
+      "url": "https://mobbin.com/explore/web/ui-elements/web-toolbars"
+    }
+  ],
+  "screens": [
+    {
+      "name": "3D Configurator",
+      "slug": "3d-configurator",
+      "path": "/explore/web/screens/3d-configurator",
+      "url": "https://mobbin.com/explore/web/screens/3d-configurator"
+    },
+    {
+      "name": "Account Setup",
+      "slug": "account-setup",
+      "path": "/explore/web/screens/account-setup",
+      "url": "https://mobbin.com/explore/web/screens/account-setup"
+    },
+    {
+      "name": "Accounting Software Dashboard",
+      "slug": "accounting-software-dashboard",
+      "path": "/explore/web/screens/accounting-software-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/accounting-software-dashboard"
+    },
+    {
+      "name": "Achievements & Awards",
+      "slug": "achievements-awards",
+      "path": "/explore/web/screens/achievements-awards",
+      "url": "https://mobbin.com/explore/web/screens/achievements-awards"
+    },
+    {
+      "name": "Acknowledgement & Success",
+      "slug": "acknowledgement-success",
+      "path": "/explore/web/screens/acknowledgement-success",
+      "url": "https://mobbin.com/explore/web/screens/acknowledgement-success"
+    },
+    {
+      "name": "Action Option",
+      "slug": "action-option",
+      "path": "/explore/web/screens/action-option",
+      "url": "https://mobbin.com/explore/web/screens/action-option"
+    },
+    {
+      "name": "Activity Log",
+      "slug": "activity-log",
+      "path": "/explore/web/screens/activity-log",
+      "url": "https://mobbin.com/explore/web/screens/activity-log"
+    },
+    {
+      "name": "Add & Create",
+      "slug": "add-create",
+      "path": "/explore/web/screens/add-create",
+      "url": "https://mobbin.com/explore/web/screens/add-create"
+    },
+    {
+      "name": "Admin Dashboard",
+      "slug": "admin-dashboard",
+      "path": "/explore/web/screens/admin-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/admin-dashboard"
+    },
+    {
+      "name": "Admin Panel",
+      "slug": "admin-panel",
+      "path": "/explore/web/screens/admin-panel",
+      "url": "https://mobbin.com/explore/web/screens/admin-panel"
+    },
+    {
+      "name": "Admin UI",
+      "slug": "admin-ui",
+      "path": "/explore/web/screens/admin-ui",
+      "url": "https://mobbin.com/explore/web/screens/admin-ui"
+    },
+    {
+      "name": "Affiliate Dashboard",
+      "slug": "affiliate-dashboard",
+      "path": "/explore/web/screens/affiliate-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/affiliate-dashboard"
+    },
+    {
+      "name": "AI Chat UI",
+      "slug": "ai-chat-ui",
+      "path": "/explore/web/screens/ai-chat-ui",
+      "url": "https://mobbin.com/explore/web/screens/ai-chat-ui"
+    },
+    {
+      "name": "AI Dashboard",
+      "slug": "ai-dashboard",
+      "path": "/explore/web/screens/ai-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/ai-dashboard"
+    },
+    {
+      "name": "Analytics Dashboard",
+      "slug": "analytics-dashboard",
+      "path": "/explore/web/screens/analytics-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/analytics-dashboard"
+    },
+    {
+      "name": "Article Detail",
+      "slug": "article-detail",
+      "path": "/explore/web/screens/article-detail",
+      "url": "https://mobbin.com/explore/web/screens/article-detail"
+    },
+    {
+      "name": "Audio & Video Recorder",
+      "slug": "audio-video-recorder",
+      "path": "/explore/web/screens/audio-video-recorder",
+      "url": "https://mobbin.com/explore/web/screens/audio-video-recorder"
+    },
+    {
+      "name": "Audio Player",
+      "slug": "audio-player",
+      "path": "/explore/web/screens/audio-player",
+      "url": "https://mobbin.com/explore/web/screens/audio-player"
+    },
+    {
+      "name": "Ban & Block",
+      "slug": "ban-block",
+      "path": "/explore/web/screens/ban-block",
+      "url": "https://mobbin.com/explore/web/screens/ban-block"
+    },
+    {
+      "name": "Best Dashboards",
+      "slug": "best-dashboards",
+      "path": "/explore/web/screens/best-dashboards",
+      "url": "https://mobbin.com/explore/web/screens/best-dashboards"
+    },
+    {
+      "name": "Billing",
+      "slug": "billing",
+      "path": "/explore/web/screens/billing",
+      "url": "https://mobbin.com/explore/web/screens/billing"
+    },
+    {
+      "name": "Bookmarks & Collections",
+      "slug": "bookmarks-collections",
+      "path": "/explore/web/screens/bookmarks-collections",
+      "url": "https://mobbin.com/explore/web/screens/bookmarks-collections"
+    },
+    {
+      "name": "Browse & Discover",
+      "slug": "browse-discover",
+      "path": "/explore/web/screens/browse-discover",
+      "url": "https://mobbin.com/explore/web/screens/browse-discover"
+    },
+    {
+      "name": "Budget Dashboard",
+      "slug": "budget-dashboard",
+      "path": "/explore/web/screens/budget-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/budget-dashboard"
+    },
+    {
+      "name": "Business Dashboard Examples",
+      "slug": "business-dashboard",
+      "path": "/explore/web/screens/business-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/business-dashboard"
+    },
+    {
+      "name": "Business Dashboard Examples",
+      "slug": "business-dashboard-examples",
+      "path": "/explore/web/screens/business-dashboard-examples",
+      "url": "https://mobbin.com/explore/web/screens/business-dashboard-examples"
+    },
+    {
+      "name": "Calendar",
+      "slug": "calendar",
+      "path": "/explore/web/screens/calendar",
+      "url": "https://mobbin.com/explore/web/screens/calendar"
+    },
+    {
+      "name": "Call",
+      "slug": "call",
+      "path": "/explore/web/screens/call",
+      "url": "https://mobbin.com/explore/web/screens/call"
+    },
+    {
+      "name": "Campaign Dashboard",
+      "slug": "campaign-dashboard",
+      "path": "/explore/web/screens/campaign-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/campaign-dashboard"
+    },
+    {
+      "name": "Cancel",
+      "slug": "cancel",
+      "path": "/explore/web/screens/cancel",
+      "url": "https://mobbin.com/explore/web/screens/cancel"
+    },
+    {
+      "name": "Cancel Button",
+      "slug": "cancel-button",
+      "path": "/explore/web/screens/cancel-button",
+      "url": "https://mobbin.com/explore/web/screens/cancel-button"
+    },
+    {
+      "name": "Canvas",
+      "slug": "canvas",
+      "path": "/explore/web/screens/canvas",
+      "url": "https://mobbin.com/explore/web/screens/canvas"
+    },
+    {
+      "name": "Charity Web Design",
+      "slug": "charity-web-design",
+      "path": "/explore/web/screens/charity-web-design",
+      "url": "https://mobbin.com/explore/web/screens/charity-web-design"
+    },
+    {
+      "name": "Charts",
+      "slug": "charts",
+      "path": "/explore/web/screens/charts",
+      "url": "https://mobbin.com/explore/web/screens/charts"
+    },
+    {
+      "name": "Chat Bot",
+      "slug": "chat-bot",
+      "path": "/explore/web/screens/chat-bot",
+      "url": "https://mobbin.com/explore/web/screens/chat-bot"
+    },
+    {
+      "name": "Chat Detail",
+      "slug": "chat-detail",
+      "path": "/explore/web/screens/chat-detail",
+      "url": "https://mobbin.com/explore/web/screens/chat-detail"
+    },
+    {
+      "name": "Checkout",
+      "slug": "checkout",
+      "path": "/explore/web/screens/checkout",
+      "url": "https://mobbin.com/explore/web/screens/checkout"
+    },
+    {
+      "name": "Class & Lesson Detail",
+      "slug": "class-lesson-detail",
+      "path": "/explore/web/screens/class-lesson-detail",
+      "url": "https://mobbin.com/explore/web/screens/class-lesson-detail"
+    },
+    {
+      "name": "Client Dashboard",
+      "slug": "client-dashboard",
+      "path": "/explore/web/screens/client-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/client-dashboard"
+    },
+    {
+      "name": "Code Editor",
+      "slug": "code-editor",
+      "path": "/explore/web/screens/code-editor",
+      "url": "https://mobbin.com/explore/web/screens/code-editor"
+    },
+    {
+      "name": "Command Palette",
+      "slug": "command-palette",
+      "path": "/explore/web/screens/command-palette",
+      "url": "https://mobbin.com/explore/web/screens/command-palette"
+    },
+    {
+      "name": "Comments",
+      "slug": "comments",
+      "path": "/explore/web/screens/comments",
+      "url": "https://mobbin.com/explore/web/screens/comments"
+    },
+    {
+      "name": "Confirmation",
+      "slug": "confirmation",
+      "path": "/explore/web/screens/confirmation",
+      "url": "https://mobbin.com/explore/web/screens/confirmation"
+    },
+    {
+      "name": "Construction Project Dashboard",
+      "slug": "construction-project-dashboard",
+      "path": "/explore/web/screens/construction-project-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/construction-project-dashboard"
+    },
+    {
+      "name": "Conversational UI Examples",
+      "slug": "conversational-ui-examples",
+      "path": "/explore/web/screens/conversational-ui-examples",
+      "url": "https://mobbin.com/explore/web/screens/conversational-ui-examples"
+    },
+    {
+      "name": "Custom Dashboard",
+      "slug": "custom-dashboard",
+      "path": "/explore/web/screens/custom-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/custom-dashboard"
+    },
+    {
+      "name": "Customer Dashboard",
+      "slug": "customer-dashboard",
+      "path": "/explore/web/screens/customer-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/customer-dashboard"
+    },
+    {
+      "name": "Customer Profile Software",
+      "slug": "customer-profile-software",
+      "path": "/explore/web/screens/customer-profile-software",
+      "url": "https://mobbin.com/explore/web/screens/customer-profile-software"
+    },
+    {
+      "name": "Customer Service Dashboard",
+      "slug": "customer-service-dashboard",
+      "path": "/explore/web/screens/customer-service-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/customer-service-dashboard"
+    },
+    {
+      "name": "Cybersecurity Dashboard",
+      "slug": "cybersecurity-dashboard",
+      "path": "/explore/web/screens/cybersecurity-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/cybersecurity-dashboard"
+    },
+    {
+      "name": "Dark Mode",
+      "slug": "dark-mode",
+      "path": "/explore/web/screens/dark-mode",
+      "url": "https://mobbin.com/explore/web/screens/dark-mode"
+    },
+    {
+      "name": "Dashboard",
+      "slug": "dashboard",
+      "path": "/explore/web/screens/dashboard",
+      "url": "https://mobbin.com/explore/web/screens/dashboard"
+    },
+    {
+      "name": "Dashboard Images",
+      "slug": "dashboard-images",
+      "path": "/explore/web/screens/dashboard-images",
+      "url": "https://mobbin.com/explore/web/screens/dashboard-images"
+    },
+    {
+      "name": "Date & Time",
+      "slug": "date-time",
+      "path": "/explore/web/screens/date-time",
+      "url": "https://mobbin.com/explore/web/screens/date-time"
+    },
+    {
+      "name": "Delete",
+      "slug": "delete",
+      "path": "/explore/web/screens/delete",
+      "url": "https://mobbin.com/explore/web/screens/delete"
+    },
+    {
+      "name": "Delete & Deactivate Account",
+      "slug": "delete-deactivate-account",
+      "path": "/explore/web/screens/delete-deactivate-account",
+      "url": "https://mobbin.com/explore/web/screens/delete-deactivate-account"
+    },
+    {
+      "name": "Drag And Drop Dashboard",
+      "slug": "drag-and-drop-dashboard",
+      "path": "/explore/web/screens/drag-and-drop-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/drag-and-drop-dashboard"
+    },
+    {
+      "name": "Draw & Annotate",
+      "slug": "draw-annotate",
+      "path": "/explore/web/screens/draw-annotate",
+      "url": "https://mobbin.com/explore/web/screens/draw-annotate"
+    },
+    {
+      "name": "Ecommerce Analytics Dashboard",
+      "slug": "ecommerce-analytics-dashboard",
+      "path": "/explore/web/screens/ecommerce-analytics-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/ecommerce-analytics-dashboard"
+    },
+    {
+      "name": "Ecommerce Dashboard",
+      "slug": "ecommerce-dashboard",
+      "path": "/explore/web/screens/ecommerce-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/ecommerce-dashboard"
+    },
+    {
+      "name": "Edit",
+      "slug": "edit",
+      "path": "/explore/web/screens/edit",
+      "url": "https://mobbin.com/explore/web/screens/edit"
+    },
+    {
+      "name": "Edit Button",
+      "slug": "edit-button",
+      "path": "/explore/web/screens/edit-button",
+      "url": "https://mobbin.com/explore/web/screens/edit-button"
+    },
+    {
+      "name": "Email Interface",
+      "slug": "email-interface",
+      "path": "/explore/web/screens/email-interface",
+      "url": "https://mobbin.com/explore/web/screens/email-interface"
+    },
+    {
+      "name": "Email Marketing Dashboard",
+      "slug": "email-marketing-dashboard",
+      "path": "/explore/web/screens/email-marketing-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/email-marketing-dashboard"
+    },
+    {
+      "name": "Emails & Messages",
+      "slug": "emails-messages",
+      "path": "/explore/web/screens/emails-messages",
+      "url": "https://mobbin.com/explore/web/screens/emails-messages"
+    },
+    {
+      "name": "Employee Dashboard",
+      "slug": "employee-dashboard",
+      "path": "/explore/web/screens/employee-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/employee-dashboard"
+    },
+    {
+      "name": "Employee HR Dashboard",
+      "slug": "employee-hr-dashboard",
+      "path": "/explore/web/screens/employee-hr-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/employee-hr-dashboard"
+    },
+    {
+      "name": "Empty State",
+      "slug": "empty-state",
+      "path": "/explore/web/screens/empty-state",
+      "url": "https://mobbin.com/explore/web/screens/empty-state"
+    },
+    {
+      "name": "ERP System Dashboard",
+      "slug": "erp-system-dashboard",
+      "path": "/explore/web/screens/erp-system-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/erp-system-dashboard"
+    },
+    {
+      "name": "Error",
+      "slug": "error",
+      "path": "/explore/web/screens/error",
+      "url": "https://mobbin.com/explore/web/screens/error"
+    },
+    {
+      "name": "Event Dashboard",
+      "slug": "event-dashboard",
+      "path": "/explore/web/screens/event-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/event-dashboard"
+    },
+    {
+      "name": "Event Detail",
+      "slug": "event-detail",
+      "path": "/explore/web/screens/event-detail",
+      "url": "https://mobbin.com/explore/web/screens/event-detail"
+    },
+    {
+      "name": "Favorite & Pin",
+      "slug": "favorite-pin",
+      "path": "/explore/web/screens/favorite-pin",
+      "url": "https://mobbin.com/explore/web/screens/favorite-pin"
+    },
+    {
+      "name": "Feature Info",
+      "slug": "feature-info",
+      "path": "/explore/web/screens/feature-info",
+      "url": "https://mobbin.com/explore/web/screens/feature-info"
+    },
+    {
+      "name": "Feedback",
+      "slug": "feedback",
+      "path": "/explore/web/screens/feedback",
+      "url": "https://mobbin.com/explore/web/screens/feedback"
+    },
+    {
+      "name": "Filter & Sort",
+      "slug": "filter-sort",
+      "path": "/explore/web/screens/filter-sort",
+      "url": "https://mobbin.com/explore/web/screens/filter-sort"
+    },
+    {
+      "name": "Finance Dashboard",
+      "slug": "finance-dashboard",
+      "path": "/explore/web/screens/finance-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/finance-dashboard"
+    },
+    {
+      "name": "Flag & Report",
+      "slug": "flag-report",
+      "path": "/explore/web/screens/flag-report",
+      "url": "https://mobbin.com/explore/web/screens/flag-report"
+    },
+    {
+      "name": "Follow & Subscribe",
+      "slug": "follow-subscribe",
+      "path": "/explore/web/screens/follow-subscribe",
+      "url": "https://mobbin.com/explore/web/screens/follow-subscribe"
+    },
+    {
+      "name": "Followers & Following",
+      "slug": "followers-following",
+      "path": "/explore/web/screens/followers-following",
+      "url": "https://mobbin.com/explore/web/screens/followers-following"
+    },
+    {
+      "name": "Forgot Password",
+      "slug": "forgot-password",
+      "path": "/explore/web/screens/forgot-password",
+      "url": "https://mobbin.com/explore/web/screens/forgot-password"
+    },
+    {
+      "name": "Form Builder",
+      "slug": "form-builder",
+      "path": "/explore/web/screens/form-builder",
+      "url": "https://mobbin.com/explore/web/screens/form-builder"
+    },
+    {
+      "name": "Game Dashboard",
+      "slug": "game-dashboard",
+      "path": "/explore/web/screens/game-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/game-dashboard"
+    },
+    {
+      "name": "Goal & Task",
+      "slug": "goal-task",
+      "path": "/explore/web/screens/goal-task",
+      "url": "https://mobbin.com/explore/web/screens/goal-task"
+    },
+    {
+      "name": "Guided Tour & Tutorial",
+      "slug": "guided-tour-tutorial",
+      "path": "/explore/web/screens/guided-tour-tutorial",
+      "url": "https://mobbin.com/explore/web/screens/guided-tour-tutorial"
+    },
+    {
+      "name": "Healthcare Dashboard",
+      "slug": "healthcare-dashboard",
+      "path": "/explore/web/screens/healthcare-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/healthcare-dashboard"
+    },
+    {
+      "name": "Help & Support",
+      "slug": "help-support",
+      "path": "/explore/web/screens/help-support",
+      "url": "https://mobbin.com/explore/web/screens/help-support"
+    },
+    {
+      "name": "Home",
+      "slug": "home",
+      "path": "/explore/web/screens/home",
+      "url": "https://mobbin.com/explore/web/screens/home"
+    },
+    {
+      "name": "Import & Export",
+      "slug": "import-export",
+      "path": "/explore/web/screens/import-export",
+      "url": "https://mobbin.com/explore/web/screens/import-export"
+    },
+    {
+      "name": "Interactive Dashboard",
+      "slug": "interactive-dashboard",
+      "path": "/explore/web/screens/interactive-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/interactive-dashboard"
+    },
+    {
+      "name": "Internal Tool",
+      "slug": "internal-tool",
+      "path": "/explore/web/screens/internal-tool",
+      "url": "https://mobbin.com/explore/web/screens/internal-tool"
+    },
+    {
+      "name": "Intranet Design",
+      "slug": "intranet-design",
+      "path": "/explore/web/screens/intranet-design",
+      "url": "https://mobbin.com/explore/web/screens/intranet-design"
+    },
+    {
+      "name": "Inventory Management Dashboard",
+      "slug": "inventory-management-dashboard",
+      "path": "/explore/web/screens/inventory-management-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/inventory-management-dashboard"
+    },
+    {
+      "name": "Inventory UI",
+      "slug": "inventory-ui",
+      "path": "/explore/web/screens/inventory-ui",
+      "url": "https://mobbin.com/explore/web/screens/inventory-ui"
+    },
+    {
+      "name": "Investment Dashboard",
+      "slug": "investment-dashboard",
+      "path": "/explore/web/screens/investment-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/investment-dashboard"
+    },
+    {
+      "name": "Invite & Refer Friends",
+      "slug": "invite-refer-friends",
+      "path": "/explore/web/screens/invite-refer-friends",
+      "url": "https://mobbin.com/explore/web/screens/invite-refer-friends"
+    },
+    {
+      "name": "Invite Teammates",
+      "slug": "invite-teammates",
+      "path": "/explore/web/screens/invite-teammates",
+      "url": "https://mobbin.com/explore/web/screens/invite-teammates"
+    },
+    {
+      "name": "IoT Dashboard",
+      "slug": "iot-dashboard",
+      "path": "/explore/web/screens/iot-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/iot-dashboard"
+    },
+    {
+      "name": "Kanban Board",
+      "slug": "kanban-board",
+      "path": "/explore/web/screens/kanban-board",
+      "url": "https://mobbin.com/explore/web/screens/kanban-board"
+    },
+    {
+      "name": "Leaderboard",
+      "slug": "leaderboard",
+      "path": "/explore/web/screens/leaderboard",
+      "url": "https://mobbin.com/explore/web/screens/leaderboard"
+    },
+    {
+      "name": "Like & Upvote",
+      "slug": "like-upvote",
+      "path": "/explore/web/screens/like-upvote",
+      "url": "https://mobbin.com/explore/web/screens/like-upvote"
+    },
+    {
+      "name": "LMS Dashboard",
+      "slug": "lms-dashboard",
+      "path": "/explore/web/screens/lms-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/lms-dashboard"
+    },
+    {
+      "name": "Loading",
+      "slug": "loading",
+      "path": "/explore/web/screens/loading",
+      "url": "https://mobbin.com/explore/web/screens/loading"
+    },
+    {
+      "name": "Log Dashboard",
+      "slug": "log-dashboard",
+      "path": "/explore/web/screens/log-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/log-dashboard"
+    },
+    {
+      "name": "Login",
+      "slug": "login",
+      "path": "/explore/web/screens/login",
+      "url": "https://mobbin.com/explore/web/screens/login"
+    },
+    {
+      "name": "Management Dashboard",
+      "slug": "management-dashboard",
+      "path": "/explore/web/screens/management-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/management-dashboard"
+    },
+    {
+      "name": "Map",
+      "slug": "map",
+      "path": "/explore/web/screens/map",
+      "url": "https://mobbin.com/explore/web/screens/map"
+    },
+    {
+      "name": "Marketing Dashboard",
+      "slug": "marketing-dashboard",
+      "path": "/explore/web/screens/marketing-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/marketing-dashboard"
+    },
+    {
+      "name": "Media Editor",
+      "slug": "media-editor",
+      "path": "/explore/web/screens/media-editor",
+      "url": "https://mobbin.com/explore/web/screens/media-editor"
+    },
+    {
+      "name": "Metrics Dashboard",
+      "slug": "metrics-dashboard",
+      "path": "/explore/web/screens/metrics-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/metrics-dashboard"
+    },
+    {
+      "name": "Misc",
+      "slug": "misc",
+      "path": "/explore/web/screens/misc",
+      "url": "https://mobbin.com/explore/web/screens/misc"
+    },
+    {
+      "name": "Modern Dashboard Design",
+      "slug": "modern-dashboard-design",
+      "path": "/explore/web/screens/modern-dashboard-design",
+      "url": "https://mobbin.com/explore/web/screens/modern-dashboard-design"
+    },
+    {
+      "name": "Monitoring Dashboard",
+      "slug": "monitoring-dashboard",
+      "path": "/explore/web/screens/monitoring-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/monitoring-dashboard"
+    },
+    {
+      "name": "Move",
+      "slug": "move",
+      "path": "/explore/web/screens/move",
+      "url": "https://mobbin.com/explore/web/screens/move"
+    },
+    {
+      "name": "Multi-Column Layout",
+      "slug": "multi-column-layout",
+      "path": "/explore/web/screens/multi-column-layout",
+      "url": "https://mobbin.com/explore/web/screens/multi-column-layout"
+    },
+    {
+      "name": "My Account & Profile",
+      "slug": "my-account-profile",
+      "path": "/explore/web/screens/my-account-profile",
+      "url": "https://mobbin.com/explore/web/screens/my-account-profile"
+    },
+    {
+      "name": "Network Monitoring Dashboard",
+      "slug": "network-monitoring-dashboard",
+      "path": "/explore/web/screens/network-monitoring-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/network-monitoring-dashboard"
+    },
+    {
+      "name": "News Feed",
+      "slug": "news-feed",
+      "path": "/explore/web/screens/news-feed",
+      "url": "https://mobbin.com/explore/web/screens/news-feed"
+    },
+    {
+      "name": "Note Detail",
+      "slug": "note-detail",
+      "path": "/explore/web/screens/note-detail",
+      "url": "https://mobbin.com/explore/web/screens/note-detail"
+    },
+    {
+      "name": "Notifications",
+      "slug": "notifications",
+      "path": "/explore/web/screens/notifications",
+      "url": "https://mobbin.com/explore/web/screens/notifications"
+    },
+    {
+      "name": "Operations Dashboard",
+      "slug": "operations-dashboard",
+      "path": "/explore/web/screens/operations-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/operations-dashboard"
+    },
+    {
+      "name": "Orange Gradient",
+      "slug": "orange-gradient",
+      "path": "/explore/web/screens/orange-gradient",
+      "url": "https://mobbin.com/explore/web/screens/orange-gradient"
+    },
+    {
+      "name": "Order Confirmation",
+      "slug": "order-confirmation",
+      "path": "/explore/web/screens/order-confirmation",
+      "url": "https://mobbin.com/explore/web/screens/order-confirmation"
+    },
+    {
+      "name": "Order Detail",
+      "slug": "order-detail",
+      "path": "/explore/web/screens/order-detail",
+      "url": "https://mobbin.com/explore/web/screens/order-detail"
+    },
+    {
+      "name": "Order History",
+      "slug": "order-history",
+      "path": "/explore/web/screens/order-history",
+      "url": "https://mobbin.com/explore/web/screens/order-history"
+    },
+    {
+      "name": "Other Action",
+      "slug": "other-action",
+      "path": "/explore/web/screens/other-action",
+      "url": "https://mobbin.com/explore/web/screens/other-action"
+    },
+    {
+      "name": "Other Content",
+      "slug": "other-content",
+      "path": "/explore/web/screens/other-content",
+      "url": "https://mobbin.com/explore/web/screens/other-content"
+    },
+    {
+      "name": "Owner Dashboard",
+      "slug": "owner-dashboard",
+      "path": "/explore/web/screens/owner-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/owner-dashboard"
+    },
+    {
+      "name": "Payment Method",
+      "slug": "payment-method",
+      "path": "/explore/web/screens/payment-method",
+      "url": "https://mobbin.com/explore/web/screens/payment-method"
+    },
+    {
+      "name": "Permission",
+      "slug": "permission",
+      "path": "/explore/web/screens/permission",
+      "url": "https://mobbin.com/explore/web/screens/permission"
+    },
+    {
+      "name": "Personal Dashboard",
+      "slug": "personal-dashboard",
+      "path": "/explore/web/screens/personal-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/personal-dashboard"
+    },
+    {
+      "name": "Personal Finance Dashboard",
+      "slug": "personal-finance-dashboard",
+      "path": "/explore/web/screens/personal-finance-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/personal-finance-dashboard"
+    },
+    {
+      "name": "Playlists",
+      "slug": "playlists",
+      "path": "/explore/web/screens/playlists",
+      "url": "https://mobbin.com/explore/web/screens/playlists"
+    },
+    {
+      "name": "Point Of Sale Design",
+      "slug": "point-of-sale-design",
+      "path": "/explore/web/screens/point-of-sale-design",
+      "url": "https://mobbin.com/explore/web/screens/point-of-sale-design"
+    },
+    {
+      "name": "Portfolio Dashboard",
+      "slug": "portfolio-dashboard",
+      "path": "/explore/web/screens/portfolio-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/portfolio-dashboard"
+    },
+    {
+      "name": "Post Detail",
+      "slug": "post-detail",
+      "path": "/explore/web/screens/post-detail",
+      "url": "https://mobbin.com/explore/web/screens/post-detail"
+    },
+    {
+      "name": "Pricing",
+      "slug": "pricing",
+      "path": "/explore/web/screens/pricing",
+      "url": "https://mobbin.com/explore/web/screens/pricing"
+    },
+    {
+      "name": "Product Dashboard",
+      "slug": "product-dashboard",
+      "path": "/explore/web/screens/product-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/product-dashboard"
+    },
+    {
+      "name": "Product Detail",
+      "slug": "product-detail",
+      "path": "/explore/web/screens/product-detail",
+      "url": "https://mobbin.com/explore/web/screens/product-detail"
+    },
+    {
+      "name": "Productivity Dashboard",
+      "slug": "productivity-dashboard",
+      "path": "/explore/web/screens/productivity-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/productivity-dashboard"
+    },
+    {
+      "name": "Progress",
+      "slug": "progress",
+      "path": "/explore/web/screens/progress",
+      "url": "https://mobbin.com/explore/web/screens/progress"
+    },
+    {
+      "name": "Promotions & Rewards",
+      "slug": "promotions-rewards",
+      "path": "/explore/web/screens/promotions-rewards",
+      "url": "https://mobbin.com/explore/web/screens/promotions-rewards"
+    },
+    {
+      "name": "Publish",
+      "slug": "publish",
+      "path": "/explore/web/screens/publish",
+      "url": "https://mobbin.com/explore/web/screens/publish"
+    },
+    {
+      "name": "QR Code",
+      "slug": "qr-code",
+      "path": "/explore/web/screens/qr-code",
+      "url": "https://mobbin.com/explore/web/screens/qr-code"
+    },
+    {
+      "name": "Quiz",
+      "slug": "quiz",
+      "path": "/explore/web/screens/quiz",
+      "url": "https://mobbin.com/explore/web/screens/quiz"
+    },
+    {
+      "name": "Ranking Dashboard",
+      "slug": "ranking-dashboard",
+      "path": "/explore/web/screens/ranking-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/ranking-dashboard"
+    },
+    {
+      "name": "Recipe Detail",
+      "slug": "recipe-detail",
+      "path": "/explore/web/screens/recipe-detail",
+      "url": "https://mobbin.com/explore/web/screens/recipe-detail"
+    },
+    {
+      "name": "Reorder",
+      "slug": "reorder",
+      "path": "/explore/web/screens/reorder",
+      "url": "https://mobbin.com/explore/web/screens/reorder"
+    },
+    {
+      "name": "Reporting Dashboard",
+      "slug": "reporting-dashboard",
+      "path": "/explore/web/screens/reporting-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/reporting-dashboard"
+    },
+    {
+      "name": "Restaurant Website Design Agency",
+      "slug": "restaurant-website-design-agency",
+      "path": "/explore/web/screens/restaurant-website-design-agency",
+      "url": "https://mobbin.com/explore/web/screens/restaurant-website-design-agency"
+    },
+    {
+      "name": "Revenue Dashboard",
+      "slug": "revenue-dashboard",
+      "path": "/explore/web/screens/revenue-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/revenue-dashboard"
+    },
+    {
+      "name": "Reviews & Ratings",
+      "slug": "reviews-ratings",
+      "path": "/explore/web/screens/reviews-ratings",
+      "url": "https://mobbin.com/explore/web/screens/reviews-ratings"
+    },
+    {
+      "name": "SaaS Dashboard",
+      "slug": "saas-dashboard",
+      "path": "/explore/web/screens/saas-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/saas-dashboard"
+    },
+    {
+      "name": "Save",
+      "slug": "save",
+      "path": "/explore/web/screens/save",
+      "url": "https://mobbin.com/explore/web/screens/save"
+    },
+    {
+      "name": "Schedule",
+      "slug": "schedule",
+      "path": "/explore/web/screens/schedule",
+      "url": "https://mobbin.com/explore/web/screens/schedule"
+    },
+    {
+      "name": "Search",
+      "slug": "search",
+      "path": "/explore/web/screens/search",
+      "url": "https://mobbin.com/explore/web/screens/search"
+    },
+    {
+      "name": "Search Dashboard",
+      "slug": "search-dashboard",
+      "path": "/explore/web/screens/search-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/search-dashboard"
+    },
+    {
+      "name": "Search Engine Design",
+      "slug": "search-engine-design",
+      "path": "/explore/web/screens/search-engine-design",
+      "url": "https://mobbin.com/explore/web/screens/search-engine-design"
+    },
+    {
+      "name": "Select",
+      "slug": "select",
+      "path": "/explore/web/screens/select",
+      "url": "https://mobbin.com/explore/web/screens/select"
+    },
+    {
+      "name": "SEO Dashboard",
+      "slug": "seo-dashboard",
+      "path": "/explore/web/screens/seo-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/seo-dashboard"
+    },
+    {
+      "name": "SEO Dashboard Examples",
+      "slug": "seo-dashboard-examples",
+      "path": "/explore/web/screens/seo-dashboard-examples",
+      "url": "https://mobbin.com/explore/web/screens/seo-dashboard-examples"
+    },
+    {
+      "name": "Set",
+      "slug": "set",
+      "path": "/explore/web/screens/set",
+      "url": "https://mobbin.com/explore/web/screens/set"
+    },
+    {
+      "name": "Settings & Preferences",
+      "slug": "settings-preferences",
+      "path": "/explore/web/screens/settings-preferences",
+      "url": "https://mobbin.com/explore/web/screens/settings-preferences"
+    },
+    {
+      "name": "Share",
+      "slug": "share",
+      "path": "/explore/web/screens/share",
+      "url": "https://mobbin.com/explore/web/screens/share"
+    },
+    {
+      "name": "Shop & Storefront",
+      "slug": "shop-storefront",
+      "path": "/explore/web/screens/shop-storefront",
+      "url": "https://mobbin.com/explore/web/screens/shop-storefront"
+    },
+    {
+      "name": "Signup",
+      "slug": "signup",
+      "path": "/explore/web/screens/signup",
+      "url": "https://mobbin.com/explore/web/screens/signup"
+    },
+    {
+      "name": "Skip Button",
+      "slug": "skip-button",
+      "path": "/explore/web/screens/skip-button",
+      "url": "https://mobbin.com/explore/web/screens/skip-button"
+    },
+    {
+      "name": "Social Feed",
+      "slug": "social-feed",
+      "path": "/explore/web/screens/social-feed",
+      "url": "https://mobbin.com/explore/web/screens/social-feed"
+    },
+    {
+      "name": "Social Media Dashboard",
+      "slug": "social-media-dashboard",
+      "path": "/explore/web/screens/social-media-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/social-media-dashboard"
+    },
+    {
+      "name": "Song & Podcast Detail",
+      "slug": "song-podcast-detail",
+      "path": "/explore/web/screens/song-podcast-detail",
+      "url": "https://mobbin.com/explore/web/screens/song-podcast-detail"
+    },
+    {
+      "name": "Stories",
+      "slug": "stories",
+      "path": "/explore/web/screens/stories",
+      "url": "https://mobbin.com/explore/web/screens/stories"
+    },
+    {
+      "name": "Subscription & Paywall",
+      "slug": "subscription-paywall",
+      "path": "/explore/web/screens/subscription-paywall",
+      "url": "https://mobbin.com/explore/web/screens/subscription-paywall"
+    },
+    {
+      "name": "Suggestions & Similar Items",
+      "slug": "suggestions-similar-items",
+      "path": "/explore/web/screens/suggestions-similar-items",
+      "url": "https://mobbin.com/explore/web/screens/suggestions-similar-items"
+    },
+    {
+      "name": "Supply Chain Dashboard",
+      "slug": "supply-chain-dashboard",
+      "path": "/explore/web/screens/supply-chain-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/supply-chain-dashboard"
+    },
+    {
+      "name": "Taxi Dashboard",
+      "slug": "taxi-dashboard",
+      "path": "/explore/web/screens/taxi-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/taxi-dashboard"
+    },
+    {
+      "name": "Team Dashboard",
+      "slug": "team-dashboard",
+      "path": "/explore/web/screens/team-dashboard",
+      "url": "https://mobbin.com/explore/web/screens/team-dashboard"
+    },
+    {
+      "name": "Time Tracker",
+      "slug": "time-tracker",
+      "path": "/explore/web/screens/time-tracker",
+      "url": "https://mobbin.com/explore/web/screens/time-tracker"
+    },
+    {
+      "name": "Timeline & History",
+      "slug": "timeline-history",
+      "path": "/explore/web/screens/timeline-history",
+      "url": "https://mobbin.com/explore/web/screens/timeline-history"
+    },
+    {
+      "name": "Timer & Clock",
+      "slug": "timer-clock",
+      "path": "/explore/web/screens/timer-clock",
+      "url": "https://mobbin.com/explore/web/screens/timer-clock"
+    },
+    {
+      "name": "Transfer & Send Money",
+      "slug": "transfer-send-money",
+      "path": "/explore/web/screens/transfer-send-money",
+      "url": "https://mobbin.com/explore/web/screens/transfer-send-money"
+    },
+    {
+      "name": "Trash & Archive",
+      "slug": "trash-archive",
+      "path": "/explore/web/screens/trash-archive",
+      "url": "https://mobbin.com/explore/web/screens/trash-archive"
+    },
+    {
+      "name": "TV Show & Movie Detail",
+      "slug": "tv-show-movie-detail",
+      "path": "/explore/web/screens/tv-show-movie-detail",
+      "url": "https://mobbin.com/explore/web/screens/tv-show-movie-detail"
+    },
+    {
+      "name": "UI Components",
+      "slug": "ui-components",
+      "path": "/explore/web/screens/ui-components",
+      "url": "https://mobbin.com/explore/web/screens/ui-components"
+    },
+    {
+      "name": "Upload & Download",
+      "slug": "upload-download",
+      "path": "/explore/web/screens/upload-download",
+      "url": "https://mobbin.com/explore/web/screens/upload-download"
+    },
+    {
+      "name": "User / Group Profile",
+      "slug": "user-group-profile",
+      "path": "/explore/web/screens/user-group-profile",
+      "url": "https://mobbin.com/explore/web/screens/user-group-profile"
+    },
+    {
+      "name": "Verification",
+      "slug": "verification",
+      "path": "/explore/web/screens/verification",
+      "url": "https://mobbin.com/explore/web/screens/verification"
+    },
+    {
+      "name": "Video Player",
+      "slug": "video-player",
+      "path": "/explore/web/screens/video-player",
+      "url": "https://mobbin.com/explore/web/screens/video-player"
+    },
+    {
+      "name": "Voice User Interface",
+      "slug": "voice-user-interface",
+      "path": "/explore/web/screens/voice-user-interface",
+      "url": "https://mobbin.com/explore/web/screens/voice-user-interface"
+    },
+    {
+      "name": "Wallet & Balance",
+      "slug": "wallet-balance",
+      "path": "/explore/web/screens/wallet-balance",
+      "url": "https://mobbin.com/explore/web/screens/wallet-balance"
+    },
+    {
+      "name": "Web App Design",
+      "slug": "web-app-design",
+      "path": "/explore/web/screens/web-app-design",
+      "url": "https://mobbin.com/explore/web/screens/web-app-design"
+    },
+    {
+      "name": "Web Form UI",
+      "slug": "form-design",
+      "path": "/explore/web/screens/form-design",
+      "url": "https://mobbin.com/explore/web/screens/form-design"
+    },
+    {
+      "name": "Web Interface",
+      "slug": "web-interface",
+      "path": "/explore/web/screens/web-interface",
+      "url": "https://mobbin.com/explore/web/screens/web-interface"
+    },
+    {
+      "name": "Web Product Configurator",
+      "slug": "web-product-configurator",
+      "path": "/explore/web/screens/web-product-configurator",
+      "url": "https://mobbin.com/explore/web/screens/web-product-configurator"
+    },
+    {
+      "name": "Web Shopping Cart",
+      "slug": "shopping-cart-ui",
+      "path": "/explore/web/screens/shopping-cart-ui",
+      "url": "https://mobbin.com/explore/web/screens/shopping-cart-ui"
+    },
+    {
+      "name": "Website Prototype",
+      "slug": "website-prototype",
+      "path": "/explore/web/screens/website-prototype",
+      "url": "https://mobbin.com/explore/web/screens/website-prototype"
+    },
+    {
+      "name": "Website Wireframes",
+      "slug": "website-wireframes",
+      "path": "/explore/web/screens/website-wireframes",
+      "url": "https://mobbin.com/explore/web/screens/website-wireframes"
+    },
+    {
+      "name": "Wizard UI",
+      "slug": "wizard-ui",
+      "path": "/explore/web/screens/wizard-ui",
+      "url": "https://mobbin.com/explore/web/screens/wizard-ui"
+    }
+  ]
+}

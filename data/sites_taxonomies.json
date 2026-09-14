@@ -1,0 +1,2486 @@
+{
+  "categories": [
+    {
+      "name": "About Me Page",
+      "slug": "about-me-page",
+      "path": "/explore/sites/categories/about-me-page",
+      "url": "https://mobbin.com/explore/sites/categories/about-me-page"
+    },
+    {
+      "name": "Ad Website",
+      "slug": "ad-website",
+      "path": "/explore/sites/categories/ad-website",
+      "url": "https://mobbin.com/explore/sites/categories/ad-website"
+    },
+    {
+      "name": "Advertising Website",
+      "slug": "advertising-website",
+      "path": "/explore/sites/categories/advertising-website",
+      "url": "https://mobbin.com/explore/sites/categories/advertising-website"
+    },
+    {
+      "name": "Aesthetic Websites",
+      "slug": "aesthetic-websites",
+      "path": "/explore/sites/categories/aesthetic-websites",
+      "url": "https://mobbin.com/explore/sites/categories/aesthetic-websites"
+    },
+    {
+      "name": "Affiliate Marketing Landing Page Examples",
+      "slug": "affiliate-marketing-landing-page-examples",
+      "path": "/explore/sites/categories/affiliate-marketing-landing-page-examples",
+      "url": "https://mobbin.com/explore/sites/categories/affiliate-marketing-landing-page-examples"
+    },
+    {
+      "name": "Agency Web Design",
+      "slug": "agency-webdesign",
+      "path": "/explore/sites/categories/agency-webdesign",
+      "url": "https://mobbin.com/explore/sites/categories/agency-webdesign"
+    },
+    {
+      "name": "Agent Web Site",
+      "slug": "agent-web-site",
+      "path": "/explore/sites/categories/agent-web-site",
+      "url": "https://mobbin.com/explore/sites/categories/agent-web-site"
+    },
+    {
+      "name": "Ai Pages",
+      "slug": "ai-pages",
+      "path": "/explore/sites/categories/ai-pages",
+      "url": "https://mobbin.com/explore/sites/categories/ai-pages"
+    },
+    {
+      "name": "Art Gallery Website Examples",
+      "slug": "art-gallery-website-examples",
+      "path": "/explore/sites/categories/art-gallery-website-examples",
+      "url": "https://mobbin.com/explore/sites/categories/art-gallery-website-examples"
+    },
+    {
+      "name": "Author Website Design",
+      "slug": "author-website-design",
+      "path": "/explore/sites/categories/author-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/author-website-design"
+    },
+    {
+      "name": "Auto Dealer Website Design",
+      "slug": "auto-dealer-website-design",
+      "path": "/explore/sites/categories/auto-dealer-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/auto-dealer-website-design"
+    },
+    {
+      "name": "Auto Parts Website Design",
+      "slug": "auto-parts-website-design",
+      "path": "/explore/sites/categories/auto-parts-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/auto-parts-website-design"
+    },
+    {
+      "name": "Auto Repair Website Design",
+      "slug": "auto-repair-website-design",
+      "path": "/explore/sites/categories/auto-repair-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/auto-repair-website-design"
+    },
+    {
+      "name": "Automotive Web Design",
+      "slug": "automotive-web-design",
+      "path": "/explore/sites/categories/automotive-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/automotive-web-design"
+    },
+    {
+      "name": "Award Winning Websites",
+      "slug": "award-winning-websites",
+      "path": "/explore/sites/categories/award-winning-websites",
+      "url": "https://mobbin.com/explore/sites/categories/award-winning-websites"
+    },
+    {
+      "name": "B2B Landing Page",
+      "slug": "b2b-landing-page",
+      "path": "/explore/sites/categories/b2b-landing-page",
+      "url": "https://mobbin.com/explore/sites/categories/b2b-landing-page"
+    },
+    {
+      "name": "B2B Websites",
+      "slug": "b2b-websites",
+      "path": "/explore/sites/categories/b2b-websites",
+      "url": "https://mobbin.com/explore/sites/categories/b2b-websites"
+    },
+    {
+      "name": "Bank Website Design",
+      "slug": "bank-website-design",
+      "path": "/explore/sites/categories/bank-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/bank-website-design"
+    },
+    {
+      "name": "Beautiful Websites",
+      "slug": "beautiful-websites",
+      "path": "/explore/sites/categories/beautiful-websites",
+      "url": "https://mobbin.com/explore/sites/categories/beautiful-websites"
+    },
+    {
+      "name": "Bento Grid",
+      "slug": "bento-grid",
+      "path": "/explore/sites/categories/bento-grid",
+      "url": "https://mobbin.com/explore/sites/categories/bento-grid"
+    },
+    {
+      "name": "Best Architecture Websites",
+      "slug": "best-architecture-websites",
+      "path": "/explore/sites/categories/best-architecture-websites",
+      "url": "https://mobbin.com/explore/sites/categories/best-architecture-websites"
+    },
+    {
+      "name": "Best Landing Page Tools",
+      "slug": "best-landing-page-tools",
+      "path": "/explore/sites/categories/best-landing-page-tools",
+      "url": "https://mobbin.com/explore/sites/categories/best-landing-page-tools"
+    },
+    {
+      "name": "Best Nonprofit Websites",
+      "slug": "best-nonprofit-websites",
+      "path": "/explore/sites/categories/best-nonprofit-websites",
+      "url": "https://mobbin.com/explore/sites/categories/best-nonprofit-websites"
+    },
+    {
+      "name": "Best Personal Websites",
+      "slug": "best-personal-websites",
+      "path": "/explore/sites/categories/best-personal-websites",
+      "url": "https://mobbin.com/explore/sites/categories/best-personal-websites"
+    },
+    {
+      "name": "Best SEO Landing Pages",
+      "slug": "best-seo-landing-pages",
+      "path": "/explore/sites/categories/best-seo-landing-pages",
+      "url": "https://mobbin.com/explore/sites/categories/best-seo-landing-pages"
+    },
+    {
+      "name": "Best Travel Agency Websites",
+      "slug": "best-travel-agency-websites",
+      "path": "/explore/sites/categories/best-travel-agency-websites",
+      "url": "https://mobbin.com/explore/sites/categories/best-travel-agency-websites"
+    },
+    {
+      "name": "Best Websites",
+      "slug": "best-websites",
+      "path": "/explore/sites/categories/best-websites",
+      "url": "https://mobbin.com/explore/sites/categories/best-websites"
+    },
+    {
+      "name": "Biotech Web Design",
+      "slug": "biotech-web-design",
+      "path": "/explore/sites/categories/biotech-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/biotech-web-design"
+    },
+    {
+      "name": "Blog Examples",
+      "slug": "blog-examples",
+      "path": "/explore/sites/categories/blog-examples",
+      "url": "https://mobbin.com/explore/sites/categories/blog-examples"
+    },
+    {
+      "name": "Blog Format Examples",
+      "slug": "blog-format-examples",
+      "path": "/explore/sites/categories/blog-format-examples",
+      "url": "https://mobbin.com/explore/sites/categories/blog-format-examples"
+    },
+    {
+      "name": "Blog Website",
+      "slug": "blog-website",
+      "path": "/explore/sites/categories/blog-website",
+      "url": "https://mobbin.com/explore/sites/categories/blog-website"
+    },
+    {
+      "name": "Book Landing Page",
+      "slug": "book-landing-page",
+      "path": "/explore/sites/categories/book-landing-page",
+      "url": "https://mobbin.com/explore/sites/categories/book-landing-page"
+    },
+    {
+      "name": "Branding And Website Design",
+      "slug": "branding-and-website-design",
+      "path": "/explore/sites/categories/branding-and-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/branding-and-website-design"
+    },
+    {
+      "name": "CRM Website",
+      "slug": "crm-website",
+      "path": "/explore/sites/categories/crm-website",
+      "url": "https://mobbin.com/explore/sites/categories/crm-website"
+    },
+    {
+      "name": "Career Website Design",
+      "slug": "career-website-design",
+      "path": "/explore/sites/categories/career-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/career-website-design"
+    },
+    {
+      "name": "Clothing Brand Website Design",
+      "slug": "clothing-brand-website-design",
+      "path": "/explore/sites/categories/clothing-brand-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/clothing-brand-website-design"
+    },
+    {
+      "name": "Club Website",
+      "slug": "club-website",
+      "path": "/explore/sites/categories/club-website",
+      "url": "https://mobbin.com/explore/sites/categories/club-website"
+    },
+    {
+      "name": "Coach Website Design",
+      "slug": "coach-website-design",
+      "path": "/explore/sites/categories/coach-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/coach-website-design"
+    },
+    {
+      "name": "College Website Design",
+      "slug": "college-website-design",
+      "path": "/explore/sites/categories/college-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/college-website-design"
+    },
+    {
+      "name": "Coming Soon Page",
+      "slug": "coming-soon-page",
+      "path": "/explore/sites/categories/coming-soon-page",
+      "url": "https://mobbin.com/explore/sites/categories/coming-soon-page"
+    },
+    {
+      "name": "Commercial Website",
+      "slug": "commercial-website",
+      "path": "/explore/sites/categories/commercial-website",
+      "url": "https://mobbin.com/explore/sites/categories/commercial-website"
+    },
+    {
+      "name": "Community Website",
+      "slug": "community-website",
+      "path": "/explore/sites/categories/community-website",
+      "url": "https://mobbin.com/explore/sites/categories/community-website"
+    },
+    {
+      "name": "Community Websites Examples",
+      "slug": "community-websites-examples",
+      "path": "/explore/sites/categories/community-websites-examples",
+      "url": "https://mobbin.com/explore/sites/categories/community-websites-examples"
+    },
+    {
+      "name": "Company Website",
+      "slug": "company-website",
+      "path": "/explore/sites/categories/company-website",
+      "url": "https://mobbin.com/explore/sites/categories/company-website"
+    },
+    {
+      "name": "Conference Website",
+      "slug": "conference-website",
+      "path": "/explore/sites/categories/conference-website",
+      "url": "https://mobbin.com/explore/sites/categories/conference-website"
+    },
+    {
+      "name": "Construction Website Examples",
+      "slug": "construction-website-examples",
+      "path": "/explore/sites/categories/construction-website-examples",
+      "url": "https://mobbin.com/explore/sites/categories/construction-website-examples"
+    },
+    {
+      "name": "Consulting Website",
+      "slug": "consulting-website",
+      "path": "/explore/sites/categories/consulting-website",
+      "url": "https://mobbin.com/explore/sites/categories/consulting-website"
+    },
+    {
+      "name": "Contractor Web Design",
+      "slug": "contractor-web-design",
+      "path": "/explore/sites/categories/contractor-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/contractor-web-design"
+    },
+    {
+      "name": "Corporate Website Design",
+      "slug": "corporate-website-design",
+      "path": "/explore/sites/categories/corporate-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/corporate-website-design"
+    },
+    {
+      "name": "Creative Blog",
+      "slug": "creative-blog",
+      "path": "/explore/sites/categories/creative-blog",
+      "url": "https://mobbin.com/explore/sites/categories/creative-blog"
+    },
+    {
+      "name": "Crypto",
+      "slug": "crypto",
+      "path": "/explore/sites/categories/crypto",
+      "url": "https://mobbin.com/explore/sites/categories/crypto"
+    },
+    {
+      "name": "Dentistry Web Design",
+      "slug": "dentistry-web-design",
+      "path": "/explore/sites/categories/dentistry-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/dentistry-web-design"
+    },
+    {
+      "name": "Dermatology Website Design",
+      "slug": "dermatology-website-design",
+      "path": "/explore/sites/categories/dermatology-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/dermatology-website-design"
+    },
+    {
+      "name": "Design Portfolio",
+      "slug": "design-portfolio",
+      "path": "/explore/sites/categories/design-portfolio",
+      "url": "https://mobbin.com/explore/sites/categories/design-portfolio"
+    },
+    {
+      "name": "Digital Agency Website",
+      "slug": "digital-agency-website",
+      "path": "/explore/sites/categories/digital-agency-website",
+      "url": "https://mobbin.com/explore/sites/categories/digital-agency-website"
+    },
+    {
+      "name": "Digital Marketing Portfolio",
+      "slug": "digital-marketing-portfolio",
+      "path": "/explore/sites/categories/digital-marketing-portfolio",
+      "url": "https://mobbin.com/explore/sites/categories/digital-marketing-portfolio"
+    },
+    {
+      "name": "Digital Marketing Website",
+      "slug": "digital-marketing-website",
+      "path": "/explore/sites/categories/digital-marketing-website",
+      "url": "https://mobbin.com/explore/sites/categories/digital-marketing-website"
+    },
+    {
+      "name": "Digital Web Agency",
+      "slug": "digital-web-agency",
+      "path": "/explore/sites/categories/digital-web-agency",
+      "url": "https://mobbin.com/explore/sites/categories/digital-web-agency"
+    },
+    {
+      "name": "Doctor Website Design",
+      "slug": "doctor-website-design",
+      "path": "/explore/sites/categories/doctor-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/doctor-website-design"
+    },
+    {
+      "name": "E-Commerce Design",
+      "slug": "e-commerce-design",
+      "path": "/explore/sites/categories/e-commerce-design",
+      "url": "https://mobbin.com/explore/sites/categories/e-commerce-design"
+    },
+    {
+      "name": "Ecommerce Landing Page",
+      "slug": "ecommerce-landing-page",
+      "path": "/explore/sites/categories/ecommerce-landing-page",
+      "url": "https://mobbin.com/explore/sites/categories/ecommerce-landing-page"
+    },
+    {
+      "name": "Ecommerce UX",
+      "slug": "ecommerce-ux",
+      "path": "/explore/sites/categories/ecommerce-ux",
+      "url": "https://mobbin.com/explore/sites/categories/ecommerce-ux"
+    },
+    {
+      "name": "Ecommerce Website",
+      "slug": "ecommerce-website",
+      "path": "/explore/sites/categories/ecommerce-website",
+      "url": "https://mobbin.com/explore/sites/categories/ecommerce-website"
+    },
+    {
+      "name": "Ecommerce Website Design",
+      "slug": "ecommerce-website-design",
+      "path": "/explore/sites/categories/ecommerce-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/ecommerce-website-design"
+    },
+    {
+      "name": "Ecommerce Website Design And Development",
+      "slug": "ecommerce-website-design-and-development",
+      "path": "/explore/sites/categories/ecommerce-website-design-and-development",
+      "url": "https://mobbin.com/explore/sites/categories/ecommerce-website-design-and-development"
+    },
+    {
+      "name": "Ecommerce Website UI Design",
+      "slug": "ecommerce-website-ui-design",
+      "path": "/explore/sites/categories/ecommerce-website-ui-design",
+      "url": "https://mobbin.com/explore/sites/categories/ecommerce-website-ui-design"
+    },
+    {
+      "name": "Education",
+      "slug": "education",
+      "path": "/explore/sites/categories/education",
+      "url": "https://mobbin.com/explore/sites/categories/education"
+    },
+    {
+      "name": "Education",
+      "slug": "info-websites",
+      "path": "/explore/sites/categories/info-websites",
+      "url": "https://mobbin.com/explore/sites/categories/info-websites"
+    },
+    {
+      "name": "Email Mockup",
+      "slug": "email-mockup",
+      "path": "/explore/sites/categories/email-mockup",
+      "url": "https://mobbin.com/explore/sites/categories/email-mockup"
+    },
+    {
+      "name": "Engineering Website Design",
+      "slug": "engineering-website-design",
+      "path": "/explore/sites/categories/engineering-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/engineering-website-design"
+    },
+    {
+      "name": "Engineering Websites",
+      "slug": "engineering-websites",
+      "path": "/explore/sites/categories/engineering-websites",
+      "url": "https://mobbin.com/explore/sites/categories/engineering-websites"
+    },
+    {
+      "name": "Event Landing Page",
+      "slug": "event-landing-page",
+      "path": "/explore/sites/categories/event-landing-page",
+      "url": "https://mobbin.com/explore/sites/categories/event-landing-page"
+    },
+    {
+      "name": "Event Management Website",
+      "slug": "event-management-website",
+      "path": "/explore/sites/categories/event-management-website",
+      "url": "https://mobbin.com/explore/sites/categories/event-management-website"
+    },
+    {
+      "name": "Event Website",
+      "slug": "event-website",
+      "path": "/explore/sites/categories/event-website",
+      "url": "https://mobbin.com/explore/sites/categories/event-website"
+    },
+    {
+      "name": "Event Website Examples",
+      "slug": "event-website-examples",
+      "path": "/explore/sites/categories/event-website-examples",
+      "url": "https://mobbin.com/explore/sites/categories/event-website-examples"
+    },
+    {
+      "name": "Explore Websites",
+      "slug": "explore-websites",
+      "path": "/explore/sites/categories/explore-websites",
+      "url": "https://mobbin.com/explore/sites/categories/explore-websites"
+    },
+    {
+      "name": "Extranet Landing Page",
+      "slug": "extranet-landing-page",
+      "path": "/explore/sites/categories/extranet-landing-page",
+      "url": "https://mobbin.com/explore/sites/categories/extranet-landing-page"
+    },
+    {
+      "name": "FAQ Page",
+      "slug": "faq-page",
+      "path": "/explore/sites/categories/faq-page",
+      "url": "https://mobbin.com/explore/sites/categories/faq-page"
+    },
+    {
+      "name": "FAQ Site",
+      "slug": "faq-site",
+      "path": "/explore/sites/categories/faq-site",
+      "url": "https://mobbin.com/explore/sites/categories/faq-site"
+    },
+    {
+      "name": "Fashion Website",
+      "slug": "fashion-website",
+      "path": "/explore/sites/categories/fashion-website",
+      "url": "https://mobbin.com/explore/sites/categories/fashion-website"
+    },
+    {
+      "name": "Finance",
+      "slug": "finance",
+      "path": "/explore/sites/categories/finance",
+      "url": "https://mobbin.com/explore/sites/categories/finance"
+    },
+    {
+      "name": "Financial Advisor Web Design",
+      "slug": "financial-advisor-web-design",
+      "path": "/explore/sites/categories/financial-advisor-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/financial-advisor-web-design"
+    },
+    {
+      "name": "Fintech Web Design",
+      "slug": "fintech-web-design",
+      "path": "/explore/sites/categories/fintech-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/fintech-web-design"
+    },
+    {
+      "name": "Fitness Website",
+      "slug": "fitness-website",
+      "path": "/explore/sites/categories/fitness-website",
+      "url": "https://mobbin.com/explore/sites/categories/fitness-website"
+    },
+    {
+      "name": "Fitness Website Design",
+      "slug": "fitness-website-design",
+      "path": "/explore/sites/categories/fitness-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/fitness-website-design"
+    },
+    {
+      "name": "Food",
+      "slug": "food",
+      "path": "/explore/sites/categories/food",
+      "url": "https://mobbin.com/explore/sites/categories/food"
+    },
+    {
+      "name": "Forum Example",
+      "slug": "forum-example",
+      "path": "/explore/sites/categories/forum-example",
+      "url": "https://mobbin.com/explore/sites/categories/forum-example"
+    },
+    {
+      "name": "Forum Website",
+      "slug": "forum-website",
+      "path": "/explore/sites/categories/forum-website",
+      "url": "https://mobbin.com/explore/sites/categories/forum-website"
+    },
+    {
+      "name": "Franchise Web Design",
+      "slug": "franchise-web-design",
+      "path": "/explore/sites/categories/franchise-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/franchise-web-design"
+    },
+    {
+      "name": "Front End Developer Portfolio",
+      "slug": "front-end-developer-portfolio",
+      "path": "/explore/sites/categories/front-end-developer-portfolio",
+      "url": "https://mobbin.com/explore/sites/categories/front-end-developer-portfolio"
+    },
+    {
+      "name": "Futuristic Website",
+      "slug": "futuristic-website",
+      "path": "/explore/sites/categories/futuristic-website",
+      "url": "https://mobbin.com/explore/sites/categories/futuristic-website"
+    },
+    {
+      "name": "Gallery Website",
+      "slug": "gallery-website",
+      "path": "/explore/sites/categories/gallery-website",
+      "url": "https://mobbin.com/explore/sites/categories/gallery-website"
+    },
+    {
+      "name": "Government Website Design",
+      "slug": "government-website-design",
+      "path": "/explore/sites/categories/government-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/government-website-design"
+    },
+    {
+      "name": "Graphic Design Ideas",
+      "slug": "graphic-design-ideas",
+      "path": "/explore/sites/categories/graphic-design-ideas",
+      "url": "https://mobbin.com/explore/sites/categories/graphic-design-ideas"
+    },
+    {
+      "name": "Graphic Designer Portfolio",
+      "slug": "graphic-designer-portfolio",
+      "path": "/explore/sites/categories/graphic-designer-portfolio",
+      "url": "https://mobbin.com/explore/sites/categories/graphic-designer-portfolio"
+    },
+    {
+      "name": "Guide Page",
+      "slug": "guide-page",
+      "path": "/explore/sites/categories/guide-page",
+      "url": "https://mobbin.com/explore/sites/categories/guide-page"
+    },
+    {
+      "name": "Hair Salon Websites",
+      "slug": "hair-saloon-websites",
+      "path": "/explore/sites/categories/hair-saloon-websites",
+      "url": "https://mobbin.com/explore/sites/categories/hair-saloon-websites"
+    },
+    {
+      "name": "Hero UI",
+      "slug": "hero-ui",
+      "path": "/explore/sites/categories/hero-ui",
+      "url": "https://mobbin.com/explore/sites/categories/hero-ui"
+    },
+    {
+      "name": "Hire UI Designer",
+      "slug": "hire-ui-designer",
+      "path": "/explore/sites/categories/hire-ui-designer",
+      "url": "https://mobbin.com/explore/sites/categories/hire-ui-designer"
+    },
+    {
+      "name": "Home Builder Website Design",
+      "slug": "home-builder-website-design",
+      "path": "/explore/sites/categories/home-builder-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/home-builder-website-design"
+    },
+    {
+      "name": "Home Services Website Design",
+      "slug": "home-services-website-design",
+      "path": "/explore/sites/categories/home-services-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/home-services-website-design"
+    },
+    {
+      "name": "Homepage Design",
+      "slug": "homepage-design",
+      "path": "/explore/sites/categories/homepage-design",
+      "url": "https://mobbin.com/explore/sites/categories/homepage-design"
+    },
+    {
+      "name": "Hospital Website Design",
+      "slug": "hospital-website-design",
+      "path": "/explore/sites/categories/hospital-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/hospital-website-design"
+    },
+    {
+      "name": "Hotel Website Design",
+      "slug": "hotel-website-design",
+      "path": "/explore/sites/categories/hotel-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/hotel-website-design"
+    },
+    {
+      "name": "Industrial Website Design",
+      "slug": "industrial-website-design",
+      "path": "/explore/sites/categories/industrial-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/industrial-website-design"
+    },
+    {
+      "name": "Insurance Website Design",
+      "slug": "insurance-website-design",
+      "path": "/explore/sites/categories/insurance-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/insurance-website-design"
+    },
+    {
+      "name": "Interior Design Portfolio Website",
+      "slug": "interior-design-portfolio-website",
+      "path": "/explore/sites/categories/interior-design-portfolio-website",
+      "url": "https://mobbin.com/explore/sites/categories/interior-design-portfolio-website"
+    },
+    {
+      "name": "Jewelry Website Design",
+      "slug": "jewelry-website-design",
+      "path": "/explore/sites/categories/jewelry-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/jewelry-website-design"
+    },
+    {
+      "name": "Landing Page Agency",
+      "slug": "landing-page-agency",
+      "path": "/explore/sites/categories/landing-page-agency",
+      "url": "https://mobbin.com/explore/sites/categories/landing-page-agency"
+    },
+    {
+      "name": "Landing Page Ai",
+      "slug": "landing-page-ai",
+      "path": "/explore/sites/categories/landing-page-ai",
+      "url": "https://mobbin.com/explore/sites/categories/landing-page-ai"
+    },
+    {
+      "name": "Landing Page Design Agency",
+      "slug": "landing-page-design-agency",
+      "path": "/explore/sites/categories/landing-page-design-agency",
+      "url": "https://mobbin.com/explore/sites/categories/landing-page-design-agency"
+    },
+    {
+      "name": "Landing Page Design Services",
+      "slug": "landing-page-design-services",
+      "path": "/explore/sites/categories/landing-page-design-services",
+      "url": "https://mobbin.com/explore/sites/categories/landing-page-design-services"
+    },
+    {
+      "name": "Landing Page Examples",
+      "slug": "landing-page-examples",
+      "path": "/explore/sites/categories/landing-page-examples",
+      "url": "https://mobbin.com/explore/sites/categories/landing-page-examples"
+    },
+    {
+      "name": "Landing Pages For Lawyers",
+      "slug": "landing-pages-for-lawyers",
+      "path": "/explore/sites/categories/landing-pages-for-lawyers",
+      "url": "https://mobbin.com/explore/sites/categories/landing-pages-for-lawyers"
+    },
+    {
+      "name": "Launch Page",
+      "slug": "launch-page",
+      "path": "/explore/sites/categories/launch-page",
+      "url": "https://mobbin.com/explore/sites/categories/launch-page"
+    },
+    {
+      "name": "Lawyer Web Design",
+      "slug": "lawyer-web-design",
+      "path": "/explore/sites/categories/lawyer-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/lawyer-web-design"
+    },
+    {
+      "name": "Lead Magnet Landing Page Examples",
+      "slug": "lead-magnet-landing-page-examples",
+      "path": "/explore/sites/categories/lead-magnet-landing-page-examples",
+      "url": "https://mobbin.com/explore/sites/categories/lead-magnet-landing-page-examples"
+    },
+    {
+      "name": "Legal Website Design",
+      "slug": "legal-website-design",
+      "path": "/explore/sites/categories/legal-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/legal-website-design"
+    },
+    {
+      "name": "Lifestyle",
+      "slug": "lifestyle",
+      "path": "/explore/sites/categories/lifestyle",
+      "url": "https://mobbin.com/explore/sites/categories/lifestyle"
+    },
+    {
+      "name": "Magazine Pages",
+      "slug": "magazine-pages",
+      "path": "/explore/sites/categories/magazine-pages",
+      "url": "https://mobbin.com/explore/sites/categories/magazine-pages"
+    },
+    {
+      "name": "Magazines Website",
+      "slug": "magazines-website",
+      "path": "/explore/sites/categories/magazines-website",
+      "url": "https://mobbin.com/explore/sites/categories/magazines-website"
+    },
+    {
+      "name": "Main Page",
+      "slug": "main-page",
+      "path": "/explore/sites/categories/main-page",
+      "url": "https://mobbin.com/explore/sites/categories/main-page"
+    },
+    {
+      "name": "Manufacturing Website Design",
+      "slug": "manufacturing-website-design",
+      "path": "/explore/sites/categories/manufacturing-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/manufacturing-website-design"
+    },
+    {
+      "name": "Manufacturing Websites",
+      "slug": "manufacturing-websites",
+      "path": "/explore/sites/categories/manufacturing-websites",
+      "url": "https://mobbin.com/explore/sites/categories/manufacturing-websites"
+    },
+    {
+      "name": "Marketing Agency Website",
+      "slug": "marketing-agency-website",
+      "path": "/explore/sites/categories/marketing-agency-website",
+      "url": "https://mobbin.com/explore/sites/categories/marketing-agency-website"
+    },
+    {
+      "name": "Marketing Web Design",
+      "slug": "marketing-web-design",
+      "path": "/explore/sites/categories/marketing-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/marketing-web-design"
+    },
+    {
+      "name": "Marketing Website",
+      "slug": "marketing-website",
+      "path": "/explore/sites/categories/marketing-website",
+      "url": "https://mobbin.com/explore/sites/categories/marketing-website"
+    },
+    {
+      "name": "Media Kit Examples",
+      "slug": "media-kit-examples",
+      "path": "/explore/sites/categories/media-kit-examples",
+      "url": "https://mobbin.com/explore/sites/categories/media-kit-examples"
+    },
+    {
+      "name": "Medical Spa Website Design",
+      "slug": "medical-spa-website-design",
+      "path": "/explore/sites/categories/medical-spa-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/medical-spa-website-design"
+    },
+    {
+      "name": "Medical Web Designer",
+      "slug": "medical-web-designer",
+      "path": "/explore/sites/categories/medical-web-designer",
+      "url": "https://mobbin.com/explore/sites/categories/medical-web-designer"
+    },
+    {
+      "name": "Mental Health Website Design",
+      "slug": "mental-health-website-design",
+      "path": "/explore/sites/categories/mental-health-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/mental-health-website-design"
+    },
+    {
+      "name": "Multi Step Form Examples",
+      "slug": "multi-step-form-examples",
+      "path": "/explore/sites/categories/multi-step-form-examples",
+      "url": "https://mobbin.com/explore/sites/categories/multi-step-form-examples"
+    },
+    {
+      "name": "Musician Website Design",
+      "slug": "musician-website-design",
+      "path": "/explore/sites/categories/musician-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/musician-website-design"
+    },
+    {
+      "name": "NFT Minting Website",
+      "slug": "nft-minting-website",
+      "path": "/explore/sites/categories/nft-minting-website",
+      "url": "https://mobbin.com/explore/sites/categories/nft-minting-website"
+    },
+    {
+      "name": "New Web Design",
+      "slug": "new-web-design",
+      "path": "/explore/sites/categories/new-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/new-web-design"
+    },
+    {
+      "name": "Newsletter Landing Page",
+      "slug": "newsletter-landing-page",
+      "path": "/explore/sites/categories/newsletter-landing-page",
+      "url": "https://mobbin.com/explore/sites/categories/newsletter-landing-page"
+    },
+    {
+      "name": "Nonprofit Website Design",
+      "slug": "nonprofit-website-design",
+      "path": "/explore/sites/categories/nonprofit-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/nonprofit-website-design"
+    },
+    {
+      "name": "One Page Design",
+      "slug": "one-page-design",
+      "path": "/explore/sites/categories/one-page-design",
+      "url": "https://mobbin.com/explore/sites/categories/one-page-design"
+    },
+    {
+      "name": "Optometry Website Design",
+      "slug": "optometry-website-design",
+      "path": "/explore/sites/categories/optometry-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/optometry-website-design"
+    },
+    {
+      "name": "Order Confirmation",
+      "slug": "order-confirmation",
+      "path": "/explore/sites/categories/order-confirmation",
+      "url": "https://mobbin.com/explore/sites/categories/order-confirmation"
+    },
+    {
+      "name": "Organization Website",
+      "slug": "organization-website",
+      "path": "/explore/sites/categories/organization-website",
+      "url": "https://mobbin.com/explore/sites/categories/organization-website"
+    },
+    {
+      "name": "PPC Landing Page Design",
+      "slug": "ppc-landing-page-design",
+      "path": "/explore/sites/categories/ppc-landing-page-design",
+      "url": "https://mobbin.com/explore/sites/categories/ppc-landing-page-design"
+    },
+    {
+      "name": "Page Design",
+      "slug": "page-design",
+      "path": "/explore/sites/categories/page-design",
+      "url": "https://mobbin.com/explore/sites/categories/page-design"
+    },
+    {
+      "name": "Personal Branding Website",
+      "slug": "personal-branding-website",
+      "path": "/explore/sites/categories/personal-branding-website",
+      "url": "https://mobbin.com/explore/sites/categories/personal-branding-website"
+    },
+    {
+      "name": "Personal Portfolio",
+      "slug": "personal-portfolio",
+      "path": "/explore/sites/categories/personal-portfolio",
+      "url": "https://mobbin.com/explore/sites/categories/personal-portfolio"
+    },
+    {
+      "name": "Photographer Landing Page",
+      "slug": "photographer-landing-page",
+      "path": "/explore/sites/categories/photographer-landing-page",
+      "url": "https://mobbin.com/explore/sites/categories/photographer-landing-page"
+    },
+    {
+      "name": "Photography Portfolio Website",
+      "slug": "photography-portfolio-website",
+      "path": "/explore/sites/categories/photography-portfolio-website",
+      "url": "https://mobbin.com/explore/sites/categories/photography-portfolio-website"
+    },
+    {
+      "name": "Plastic Surgeon Website Design",
+      "slug": "plastic-surgeon-website-design",
+      "path": "/explore/sites/categories/plastic-surgeon-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/plastic-surgeon-website-design"
+    },
+    {
+      "name": "Popular Website",
+      "slug": "popular-website",
+      "path": "/explore/sites/categories/popular-website",
+      "url": "https://mobbin.com/explore/sites/categories/popular-website"
+    },
+    {
+      "name": "Portfolio",
+      "slug": "portfolio-websites",
+      "path": "/explore/sites/categories/portfolio-websites",
+      "url": "https://mobbin.com/explore/sites/categories/portfolio-websites"
+    },
+    {
+      "name": "Portfolio Presentation Examples",
+      "slug": "user-friendly-website-design",
+      "path": "/explore/sites/categories/user-friendly-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/user-friendly-website-design"
+    },
+    {
+      "name": "Preferred Landing Page",
+      "slug": "preferred-landing-page",
+      "path": "/explore/sites/categories/preferred-landing-page",
+      "url": "https://mobbin.com/explore/sites/categories/preferred-landing-page"
+    },
+    {
+      "name": "Private School Website Design",
+      "slug": "private-school-website-design",
+      "path": "/explore/sites/categories/private-school-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/private-school-website-design"
+    },
+    {
+      "name": "Product Category Page Design",
+      "slug": "product-category-page-design",
+      "path": "/explore/sites/categories/product-category-page-design",
+      "url": "https://mobbin.com/explore/sites/categories/product-category-page-design"
+    },
+    {
+      "name": "Product Website",
+      "slug": "product-website",
+      "path": "/explore/sites/categories/product-website",
+      "url": "https://mobbin.com/explore/sites/categories/product-website"
+    },
+    {
+      "name": "Promotion Web Site",
+      "slug": "promotion-web-site",
+      "path": "/explore/sites/categories/promotion-web-site",
+      "url": "https://mobbin.com/explore/sites/categories/promotion-web-site"
+    },
+    {
+      "name": "Property Management Website Design",
+      "slug": "property-management-website-design",
+      "path": "/explore/sites/categories/property-management-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/property-management-website-design"
+    },
+    {
+      "name": "QR Code Landing Page Examples",
+      "slug": "qr-code-landing-page-examples",
+      "path": "/explore/sites/categories/qr-code-landing-page-examples",
+      "url": "https://mobbin.com/explore/sites/categories/qr-code-landing-page-examples"
+    },
+    {
+      "name": "Recommended Websites",
+      "slug": "recommended-websites",
+      "path": "/explore/sites/categories/recommended-websites",
+      "url": "https://mobbin.com/explore/sites/categories/recommended-websites"
+    },
+    {
+      "name": "Recruitment Web Design",
+      "slug": "recruitment-web-design",
+      "path": "/explore/sites/categories/recruitment-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/recruitment-web-design"
+    },
+    {
+      "name": "Recruitment Website Design",
+      "slug": "recruitment-website-design",
+      "path": "/explore/sites/categories/recruitment-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/recruitment-website-design"
+    },
+    {
+      "name": "Remodeling Website Design",
+      "slug": "remodeling-website-design",
+      "path": "/explore/sites/categories/remodeling-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/remodeling-website-design"
+    },
+    {
+      "name": "Responsive Website Design",
+      "slug": "responsive-website-design",
+      "path": "/explore/sites/categories/responsive-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/responsive-website-design"
+    },
+    {
+      "name": "Restaurant Menu Design",
+      "slug": "restaurant-menu-design",
+      "path": "/explore/sites/categories/restaurant-menu-design",
+      "url": "https://mobbin.com/explore/sites/categories/restaurant-menu-design"
+    },
+    {
+      "name": "Restaurant Web",
+      "slug": "restaurant-web",
+      "path": "/explore/sites/categories/restaurant-web",
+      "url": "https://mobbin.com/explore/sites/categories/restaurant-web"
+    },
+    {
+      "name": "Restaurant Website Design",
+      "slug": "restaurant-website-design",
+      "path": "/explore/sites/categories/restaurant-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/restaurant-website-design"
+    },
+    {
+      "name": "Restaurant Website Examples",
+      "slug": "restaurant-website-examples",
+      "path": "/explore/sites/categories/restaurant-website-examples",
+      "url": "https://mobbin.com/explore/sites/categories/restaurant-website-examples"
+    },
+    {
+      "name": "SEO Agency Website",
+      "slug": "seo-agency-website",
+      "path": "/explore/sites/categories/seo-agency-website",
+      "url": "https://mobbin.com/explore/sites/categories/seo-agency-website"
+    },
+    {
+      "name": "SEO Friendly Web Designs",
+      "slug": "seo-friendly-web-designs",
+      "path": "/explore/sites/categories/seo-friendly-web-designs",
+      "url": "https://mobbin.com/explore/sites/categories/seo-friendly-web-designs"
+    },
+    {
+      "name": "SEO Website Design",
+      "slug": "seo-website-design",
+      "path": "/explore/sites/categories/seo-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/seo-website-design"
+    },
+    {
+      "name": "SaaS Design",
+      "slug": "saas-design",
+      "path": "/explore/sites/categories/saas-design",
+      "url": "https://mobbin.com/explore/sites/categories/saas-design"
+    },
+    {
+      "name": "SaaS Design Services",
+      "slug": "saas-design-services",
+      "path": "/explore/sites/categories/saas-design-services",
+      "url": "https://mobbin.com/explore/sites/categories/saas-design-services"
+    },
+    {
+      "name": "SaaS Platforms Examples",
+      "slug": "saas-platforms-examples",
+      "path": "/explore/sites/categories/saas-platforms-examples",
+      "url": "https://mobbin.com/explore/sites/categories/saas-platforms-examples"
+    },
+    {
+      "name": "Sales Landing Pages",
+      "slug": "sales-landing-pages",
+      "path": "/explore/sites/categories/sales-landing-pages",
+      "url": "https://mobbin.com/explore/sites/categories/sales-landing-pages"
+    },
+    {
+      "name": "School Website Design",
+      "slug": "school-website-design",
+      "path": "/explore/sites/categories/school-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/school-website-design"
+    },
+    {
+      "name": "School Website Design Ideas",
+      "slug": "school-website-design-ideas",
+      "path": "/explore/sites/categories/school-website-design-ideas",
+      "url": "https://mobbin.com/explore/sites/categories/school-website-design-ideas"
+    },
+    {
+      "name": "Senior Living Website Design",
+      "slug": "senior-living-website-design",
+      "path": "/explore/sites/categories/senior-living-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/senior-living-website-design"
+    },
+    {
+      "name": "Seo Friendly Websites",
+      "slug": "seo-friendly-websites",
+      "path": "/explore/sites/categories/seo-friendly-websites",
+      "url": "https://mobbin.com/explore/sites/categories/seo-friendly-websites"
+    },
+    {
+      "name": "Seo Landing Pages",
+      "slug": "seo-landing-pages",
+      "path": "/explore/sites/categories/seo-landing-pages",
+      "url": "https://mobbin.com/explore/sites/categories/seo-landing-pages"
+    },
+    {
+      "name": "Services Web Design",
+      "slug": "services-web-design",
+      "path": "/explore/sites/categories/services-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/services-web-design"
+    },
+    {
+      "name": "Services Website Design",
+      "slug": "services-website-design",
+      "path": "/explore/sites/categories/services-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/services-website-design"
+    },
+    {
+      "name": "Shopping",
+      "slug": "shopping",
+      "path": "/explore/sites/categories/shopping",
+      "url": "https://mobbin.com/explore/sites/categories/shopping"
+    },
+    {
+      "name": "Shopping Cart Website",
+      "slug": "shopping-cart-website",
+      "path": "/explore/sites/categories/shopping-cart-website",
+      "url": "https://mobbin.com/explore/sites/categories/shopping-cart-website"
+    },
+    {
+      "name": "Sign Up Form",
+      "slug": "sign-up-form",
+      "path": "/explore/sites/categories/sign-up-form",
+      "url": "https://mobbin.com/explore/sites/categories/sign-up-form"
+    },
+    {
+      "name": "Site Architecture",
+      "slug": "site-architecture",
+      "path": "/explore/sites/categories/site-architecture",
+      "url": "https://mobbin.com/explore/sites/categories/site-architecture"
+    },
+    {
+      "name": "Site Design",
+      "slug": "site-design",
+      "path": "/explore/sites/categories/site-design",
+      "url": "https://mobbin.com/explore/sites/categories/site-design"
+    },
+    {
+      "name": "Small Business Website",
+      "slug": "small-business-websites",
+      "path": "/explore/sites/categories/small-business-websites",
+      "url": "https://mobbin.com/explore/sites/categories/small-business-websites"
+    },
+    {
+      "name": "Social",
+      "slug": "social",
+      "path": "/explore/sites/categories/social",
+      "url": "https://mobbin.com/explore/sites/categories/social"
+    },
+    {
+      "name": "Software Engineer Portfolio",
+      "slug": "software-engineer-portfolio",
+      "path": "/explore/sites/categories/software-engineer-portfolio",
+      "url": "https://mobbin.com/explore/sites/categories/software-engineer-portfolio"
+    },
+    {
+      "name": "Software Website Design",
+      "slug": "software-website-design",
+      "path": "/explore/sites/categories/software-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/software-website-design"
+    },
+    {
+      "name": "Solar Energy Website Design",
+      "slug": "solar-energy-website-design",
+      "path": "/explore/sites/categories/solar-energy-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/solar-energy-website-design"
+    },
+    {
+      "name": "Spa Website",
+      "slug": "spa-website",
+      "path": "/explore/sites/categories/spa-website",
+      "url": "https://mobbin.com/explore/sites/categories/spa-website"
+    },
+    {
+      "name": "Startup Websites",
+      "slug": "startup-websites",
+      "path": "/explore/sites/categories/startup-websites",
+      "url": "https://mobbin.com/explore/sites/categories/startup-websites"
+    },
+    {
+      "name": "Static Website",
+      "slug": "static-website",
+      "path": "/explore/sites/categories/static-website",
+      "url": "https://mobbin.com/explore/sites/categories/static-website"
+    },
+    {
+      "name": "Student Landing Page",
+      "slug": "student-landing-page",
+      "path": "/explore/sites/categories/student-landing-page",
+      "url": "https://mobbin.com/explore/sites/categories/student-landing-page"
+    },
+    {
+      "name": "Tech Website",
+      "slug": "tech-websites",
+      "path": "/explore/sites/categories/tech-websites",
+      "url": "https://mobbin.com/explore/sites/categories/tech-websites"
+    },
+    {
+      "name": "Technology",
+      "slug": "software-company-website",
+      "path": "/explore/sites/categories/software-company-website",
+      "url": "https://mobbin.com/explore/sites/categories/software-company-website"
+    },
+    {
+      "name": "Therapist Website Design",
+      "slug": "therapist-website-design",
+      "path": "/explore/sites/categories/therapist-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/therapist-website-design"
+    },
+    {
+      "name": "Top Trending Cosmetics Websites",
+      "slug": "top-trending-cosmetics-websites",
+      "path": "/explore/sites/categories/top-trending-cosmetics-websites",
+      "url": "https://mobbin.com/explore/sites/categories/top-trending-cosmetics-websites"
+    },
+    {
+      "name": "Trendy Designs",
+      "slug": "trendy-designs",
+      "path": "/explore/sites/categories/trendy-designs",
+      "url": "https://mobbin.com/explore/sites/categories/trendy-designs"
+    },
+    {
+      "name": "UI UX Portfolio",
+      "slug": "ui-ux-portfolio",
+      "path": "/explore/sites/categories/ui-ux-portfolio",
+      "url": "https://mobbin.com/explore/sites/categories/ui-ux-portfolio"
+    },
+    {
+      "name": "Veterinary Website Designs",
+      "slug": "veterinary-website-designs",
+      "path": "/explore/sites/categories/veterinary-website-designs",
+      "url": "https://mobbin.com/explore/sites/categories/veterinary-website-designs"
+    },
+    {
+      "name": "Video Editor Portfolio",
+      "slug": "video-editor-portfolio",
+      "path": "/explore/sites/categories/video-editor-portfolio",
+      "url": "https://mobbin.com/explore/sites/categories/video-editor-portfolio"
+    },
+    {
+      "name": "Video Portfolio",
+      "slug": "video-portfolio",
+      "path": "/explore/sites/categories/video-portfolio",
+      "url": "https://mobbin.com/explore/sites/categories/video-portfolio"
+    },
+    {
+      "name": "Video Production Websites",
+      "slug": "video-production-websites",
+      "path": "/explore/sites/categories/video-production-websites",
+      "url": "https://mobbin.com/explore/sites/categories/video-production-websites"
+    },
+    {
+      "name": "Waitlist Landing Page",
+      "slug": "waitlist-landing-page",
+      "path": "/explore/sites/categories/waitlist-landing-page",
+      "url": "https://mobbin.com/explore/sites/categories/waitlist-landing-page"
+    },
+    {
+      "name": "Web Design Awards",
+      "slug": "web-design-awards",
+      "path": "/explore/sites/categories/web-design-awards",
+      "url": "https://mobbin.com/explore/sites/categories/web-design-awards"
+    },
+    {
+      "name": "Web Design Blog",
+      "slug": "web-design-blog",
+      "path": "/explore/sites/categories/web-design-blog",
+      "url": "https://mobbin.com/explore/sites/categories/web-design-blog"
+    },
+    {
+      "name": "Web Design For Startups",
+      "slug": "web-design-for-startups",
+      "path": "/explore/sites/categories/web-design-for-startups",
+      "url": "https://mobbin.com/explore/sites/categories/web-design-for-startups"
+    },
+    {
+      "name": "Web Design Lead Generation",
+      "slug": "web-design-lead-generation",
+      "path": "/explore/sites/categories/web-design-lead-generation",
+      "url": "https://mobbin.com/explore/sites/categories/web-design-lead-generation"
+    },
+    {
+      "name": "Web Developer Portfolio",
+      "slug": "web-developer-portfolio",
+      "path": "/explore/sites/categories/web-developer-portfolio",
+      "url": "https://mobbin.com/explore/sites/categories/web-developer-portfolio"
+    },
+    {
+      "name": "Web Developer Sites",
+      "slug": "web-developer-sites",
+      "path": "/explore/sites/categories/web-developer-sites",
+      "url": "https://mobbin.com/explore/sites/categories/web-developer-sites"
+    },
+    {
+      "name": "Web Hosting Design",
+      "slug": "web-hosting-design",
+      "path": "/explore/sites/categories/web-hosting-design",
+      "url": "https://mobbin.com/explore/sites/categories/web-hosting-design"
+    },
+    {
+      "name": "Web Site Designers",
+      "slug": "web-site-designers",
+      "path": "/explore/sites/categories/web-site-designers",
+      "url": "https://mobbin.com/explore/sites/categories/web-site-designers"
+    },
+    {
+      "name": "Web3 Websites",
+      "slug": "web3-websites",
+      "path": "/explore/sites/categories/web3-websites",
+      "url": "https://mobbin.com/explore/sites/categories/web3-websites"
+    },
+    {
+      "name": "Webinar Landing Page",
+      "slug": "webinar-landing-page",
+      "path": "/explore/sites/categories/webinar-landing-page",
+      "url": "https://mobbin.com/explore/sites/categories/webinar-landing-page"
+    },
+    {
+      "name": "Website Demo",
+      "slug": "website-demo",
+      "path": "/explore/sites/categories/website-demo",
+      "url": "https://mobbin.com/explore/sites/categories/website-demo"
+    },
+    {
+      "name": "Website Design",
+      "slug": "website-design",
+      "path": "/explore/sites/categories/website-design",
+      "url": "https://mobbin.com/explore/sites/categories/website-design"
+    },
+    {
+      "name": "Website Design For Apartments",
+      "slug": "website-design-for-apartments",
+      "path": "/explore/sites/categories/website-design-for-apartments",
+      "url": "https://mobbin.com/explore/sites/categories/website-design-for-apartments"
+    },
+    {
+      "name": "Website Design For Real Estate Agents",
+      "slug": "website-design-for-real-estate-agents",
+      "path": "/explore/sites/categories/website-design-for-real-estate-agents",
+      "url": "https://mobbin.com/explore/sites/categories/website-design-for-real-estate-agents"
+    },
+    {
+      "name": "Website Header",
+      "slug": "website-header",
+      "path": "/explore/sites/categories/website-header",
+      "url": "https://mobbin.com/explore/sites/categories/website-header"
+    },
+    {
+      "name": "Website Ideas",
+      "slug": "website-ideas",
+      "path": "/explore/sites/categories/website-ideas",
+      "url": "https://mobbin.com/explore/sites/categories/website-ideas"
+    },
+    {
+      "name": "Website Ideas For Project",
+      "slug": "website-ideas-for-project",
+      "path": "/explore/sites/categories/website-ideas-for-project",
+      "url": "https://mobbin.com/explore/sites/categories/website-ideas-for-project"
+    },
+    {
+      "name": "Website Layout Ideas",
+      "slug": "website-layout-ideas",
+      "path": "/explore/sites/categories/website-layout-ideas",
+      "url": "https://mobbin.com/explore/sites/categories/website-layout-ideas"
+    },
+    {
+      "name": "Website Mockup",
+      "slug": "website-mockup",
+      "path": "/explore/sites/categories/website-mockup",
+      "url": "https://mobbin.com/explore/sites/categories/website-mockup"
+    },
+    {
+      "name": "Wedding Website Design",
+      "slug": "wedding-website-design",
+      "path": "/explore/sites/categories/wedding-website-design",
+      "url": "https://mobbin.com/explore/sites/categories/wedding-website-design"
+    },
+    {
+      "name": "What Does A Blog Look Like",
+      "slug": "what-does-a-blog-look-like",
+      "path": "/explore/sites/categories/what-does-a-blog-look-like",
+      "url": "https://mobbin.com/explore/sites/categories/what-does-a-blog-look-like"
+    },
+    {
+      "name": "Wine Web Design",
+      "slug": "wine-web-design",
+      "path": "/explore/sites/categories/wine-web-design",
+      "url": "https://mobbin.com/explore/sites/categories/wine-web-design"
+    }
+  ],
+  "sections": [
+    {
+      "name": "404",
+      "slug": "404",
+      "path": "/explore/sites/sections/404",
+      "url": "https://mobbin.com/explore/sites/sections/404"
+    },
+    {
+      "name": "About",
+      "slug": "about",
+      "path": "/explore/sites/sections/about",
+      "url": "https://mobbin.com/explore/sites/sections/about"
+    },
+    {
+      "name": "About Me Page Portfolio",
+      "slug": "about-me-page-portfolio",
+      "path": "/explore/sites/sections/about-me-page-portfolio",
+      "url": "https://mobbin.com/explore/sites/sections/about-me-page-portfolio"
+    },
+    {
+      "name": "Accordion Menu",
+      "slug": "accordion-menu",
+      "path": "/explore/sites/sections/accordion-menu",
+      "url": "https://mobbin.com/explore/sites/sections/accordion-menu"
+    },
+    {
+      "name": "Accordion Website",
+      "slug": "accordion-website",
+      "path": "/explore/sites/sections/accordion-website",
+      "url": "https://mobbin.com/explore/sites/sections/accordion-website"
+    },
+    {
+      "name": "Accounting Website Design",
+      "slug": "accounting-website-design",
+      "path": "/explore/sites/sections/accounting-website-design",
+      "url": "https://mobbin.com/explore/sites/sections/accounting-website-design"
+    },
+    {
+      "name": "Add To Cart Button",
+      "slug": "add-to-cart-button",
+      "path": "/explore/sites/sections/add-to-cart-button",
+      "url": "https://mobbin.com/explore/sites/sections/add-to-cart-button"
+    },
+    {
+      "name": "Address Form",
+      "slug": "address-form",
+      "path": "/explore/sites/sections/address-form",
+      "url": "https://mobbin.com/explore/sites/sections/address-form"
+    },
+    {
+      "name": "Advanced Search Examples",
+      "slug": "advanced-search-examples",
+      "path": "/explore/sites/sections/advanced-search-examples",
+      "url": "https://mobbin.com/explore/sites/sections/advanced-search-examples"
+    },
+    {
+      "name": "Anchor Navigation",
+      "slug": "anchor-navigation",
+      "path": "/explore/sites/sections/anchor-navigation",
+      "url": "https://mobbin.com/explore/sites/sections/anchor-navigation"
+    },
+    {
+      "name": "Banner Ad Design",
+      "slug": "banner-ad-design",
+      "path": "/explore/sites/sections/banner-ad-design",
+      "url": "https://mobbin.com/explore/sites/sections/banner-ad-design"
+    },
+    {
+      "name": "Banner Ad Examples",
+      "slug": "banner-ad-examples",
+      "path": "/explore/sites/sections/banner-ad-examples",
+      "url": "https://mobbin.com/explore/sites/sections/banner-ad-examples"
+    },
+    {
+      "name": "Banner Design Ideas",
+      "slug": "banner-design-ideas",
+      "path": "/explore/sites/sections/banner-design-ideas",
+      "url": "https://mobbin.com/explore/sites/sections/banner-design-ideas"
+    },
+    {
+      "name": "Banner Design Website",
+      "slug": "banner-design-website",
+      "path": "/explore/sites/sections/banner-design-website",
+      "url": "https://mobbin.com/explore/sites/sections/banner-design-website"
+    },
+    {
+      "name": "Banner Designs",
+      "slug": "banner-designs",
+      "path": "/explore/sites/sections/banner-designs",
+      "url": "https://mobbin.com/explore/sites/sections/banner-designs"
+    },
+    {
+      "name": "Best 404 Pages",
+      "slug": "best-404-pages",
+      "path": "/explore/sites/sections/best-404-pages",
+      "url": "https://mobbin.com/explore/sites/sections/best-404-pages"
+    },
+    {
+      "name": "Blog",
+      "slug": "blog",
+      "path": "/explore/sites/sections/blog",
+      "url": "https://mobbin.com/explore/sites/sections/blog"
+    },
+    {
+      "name": "Blog Images",
+      "slug": "blog-images",
+      "path": "/explore/sites/sections/blog-images",
+      "url": "https://mobbin.com/explore/sites/sections/blog-images"
+    },
+    {
+      "name": "Blog Page",
+      "slug": "blog-page",
+      "path": "/explore/sites/sections/blog-page",
+      "url": "https://mobbin.com/explore/sites/sections/blog-page"
+    },
+    {
+      "name": "Blog View",
+      "slug": "blog-view",
+      "path": "/explore/sites/sections/blog-view",
+      "url": "https://mobbin.com/explore/sites/sections/blog-view"
+    },
+    {
+      "name": "Booking Form",
+      "slug": "booking-form",
+      "path": "/explore/sites/sections/booking-form",
+      "url": "https://mobbin.com/explore/sites/sections/booking-form"
+    },
+    {
+      "name": "Booklet Mockup",
+      "slug": "booklet-mockup",
+      "path": "/explore/sites/sections/booklet-mockup",
+      "url": "https://mobbin.com/explore/sites/sections/booklet-mockup"
+    },
+    {
+      "name": "CTA Section",
+      "slug": "cta-section",
+      "path": "/explore/sites/sections/cta-section",
+      "url": "https://mobbin.com/explore/sites/sections/cta-section"
+    },
+    {
+      "name": "Calendar Widget",
+      "slug": "calendar-widget",
+      "path": "/explore/sites/sections/calendar-widget",
+      "url": "https://mobbin.com/explore/sites/sections/calendar-widget"
+    },
+    {
+      "name": "Card Designs",
+      "slug": "card-designs",
+      "path": "/explore/sites/sections/card-designs",
+      "url": "https://mobbin.com/explore/sites/sections/card-designs"
+    },
+    {
+      "name": "Card Inspo",
+      "slug": "card-inspo",
+      "path": "/explore/sites/sections/card-inspo",
+      "url": "https://mobbin.com/explore/sites/sections/card-inspo"
+    },
+    {
+      "name": "Cards Design",
+      "slug": "cards-design",
+      "path": "/explore/sites/sections/cards-design",
+      "url": "https://mobbin.com/explore/sites/sections/cards-design"
+    },
+    {
+      "name": "Careers Page",
+      "slug": "careers-page",
+      "path": "/explore/sites/sections/careers-page",
+      "url": "https://mobbin.com/explore/sites/sections/careers-page"
+    },
+    {
+      "name": "Carousel Images",
+      "slug": "carousel-images",
+      "path": "/explore/sites/sections/carousel-images",
+      "url": "https://mobbin.com/explore/sites/sections/carousel-images"
+    },
+    {
+      "name": "Carousel Photos",
+      "slug": "carousel-photos",
+      "path": "/explore/sites/sections/carousel-photos",
+      "url": "https://mobbin.com/explore/sites/sections/carousel-photos"
+    },
+    {
+      "name": "Carousel Slider",
+      "slug": "carousel-slider",
+      "path": "/explore/sites/sections/carousel-slider",
+      "url": "https://mobbin.com/explore/sites/sections/carousel-slider"
+    },
+    {
+      "name": "Case Study Page",
+      "slug": "case-study-page",
+      "path": "/explore/sites/sections/case-study-page",
+      "url": "https://mobbin.com/explore/sites/sections/case-study-page"
+    },
+    {
+      "name": "Chat Button",
+      "slug": "chat-button",
+      "path": "/explore/sites/sections/chat-button",
+      "url": "https://mobbin.com/explore/sites/sections/chat-button"
+    },
+    {
+      "name": "Checkout Page",
+      "slug": "checkout-page",
+      "path": "/explore/sites/sections/checkout-page",
+      "url": "https://mobbin.com/explore/sites/sections/checkout-page"
+    },
+    {
+      "name": "Circle Chart",
+      "slug": "circle-chart",
+      "path": "/explore/sites/sections/circle-chart",
+      "url": "https://mobbin.com/explore/sites/sections/circle-chart"
+    },
+    {
+      "name": "Company About Us",
+      "slug": "company-about-us",
+      "path": "/explore/sites/sections/company-about-us",
+      "url": "https://mobbin.com/explore/sites/sections/company-about-us"
+    },
+    {
+      "name": "Comparison",
+      "slug": "comparison",
+      "path": "/explore/sites/sections/comparison",
+      "url": "https://mobbin.com/explore/sites/sections/comparison"
+    },
+    {
+      "name": "Contact",
+      "slug": "contact",
+      "path": "/explore/sites/sections/contact",
+      "url": "https://mobbin.com/explore/sites/sections/contact"
+    },
+    {
+      "name": "Contact Form Design",
+      "slug": "contact-form-design",
+      "path": "/explore/sites/sections/contact-form-design",
+      "url": "https://mobbin.com/explore/sites/sections/contact-form-design"
+    },
+    {
+      "name": "Contact Page",
+      "slug": "contact-page",
+      "path": "/explore/sites/sections/contact-page",
+      "url": "https://mobbin.com/explore/sites/sections/contact-page"
+    },
+    {
+      "name": "Contact Us Form",
+      "slug": "contact-us-form",
+      "path": "/explore/sites/sections/contact-us-form",
+      "url": "https://mobbin.com/explore/sites/sections/contact-us-form"
+    },
+    {
+      "name": "Contact Us Images",
+      "slug": "contact-us-images",
+      "path": "/explore/sites/sections/contact-us-images",
+      "url": "https://mobbin.com/explore/sites/sections/contact-us-images"
+    },
+    {
+      "name": "Cool Card Designs",
+      "slug": "cool-card-designs",
+      "path": "/explore/sites/sections/cool-card-designs",
+      "url": "https://mobbin.com/explore/sites/sections/cool-card-designs"
+    },
+    {
+      "name": "Design System Examples",
+      "slug": "design-system-examples",
+      "path": "/explore/sites/sections/design-system-examples",
+      "url": "https://mobbin.com/explore/sites/sections/design-system-examples"
+    },
+    {
+      "name": "Downloads",
+      "slug": "downloads",
+      "path": "/explore/sites/sections/downloads",
+      "url": "https://mobbin.com/explore/sites/sections/downloads"
+    },
+    {
+      "name": "Ebook Landing Page",
+      "slug": "ebook-landing-page",
+      "path": "/explore/sites/sections/ebook-landing-page",
+      "url": "https://mobbin.com/explore/sites/sections/ebook-landing-page"
+    },
+    {
+      "name": "Ecommerce Filters",
+      "slug": "ecommerce-filters",
+      "path": "/explore/sites/sections/ecommerce-filters",
+      "url": "https://mobbin.com/explore/sites/sections/ecommerce-filters"
+    },
+    {
+      "name": "Ecommerce Product Page Design Inspiration",
+      "slug": "ecommerce-product-page-design-inspiration",
+      "path": "/explore/sites/sections/ecommerce-product-page-design-inspiration",
+      "url": "https://mobbin.com/explore/sites/sections/ecommerce-product-page-design-inspiration"
+    },
+    {
+      "name": "Enterprise Page",
+      "slug": "enterprise-page",
+      "path": "/explore/sites/sections/enterprise-page",
+      "url": "https://mobbin.com/explore/sites/sections/enterprise-page"
+    },
+    {
+      "name": "Error Pages",
+      "slug": "error-pages",
+      "path": "/explore/sites/sections/error-pages",
+      "url": "https://mobbin.com/explore/sites/sections/error-pages"
+    },
+    {
+      "name": "FAQ",
+      "slug": "faq",
+      "path": "/explore/sites/sections/faq",
+      "url": "https://mobbin.com/explore/sites/sections/faq"
+    },
+    {
+      "name": "FAQ Blog",
+      "slug": "faq-blog",
+      "path": "/explore/sites/sections/faq-blog",
+      "url": "https://mobbin.com/explore/sites/sections/faq-blog"
+    },
+    {
+      "name": "FAQ Example",
+      "slug": "faq-example",
+      "path": "/explore/sites/sections/faq-example",
+      "url": "https://mobbin.com/explore/sites/sections/faq-example"
+    },
+    {
+      "name": "Features",
+      "slug": "features",
+      "path": "/explore/sites/sections/features",
+      "url": "https://mobbin.com/explore/sites/sections/features"
+    },
+    {
+      "name": "Features Examples",
+      "slug": "features-examples",
+      "path": "/explore/sites/sections/features-examples",
+      "url": "https://mobbin.com/explore/sites/sections/features-examples"
+    },
+    {
+      "name": "Feedback Form",
+      "slug": "feedback-form",
+      "path": "/explore/sites/sections/feedback-form",
+      "url": "https://mobbin.com/explore/sites/sections/feedback-form"
+    },
+    {
+      "name": "Feedback Form Design",
+      "slug": "feedback-form-design",
+      "path": "/explore/sites/sections/feedback-form-design",
+      "url": "https://mobbin.com/explore/sites/sections/feedback-form-design"
+    },
+    {
+      "name": "Footer Designs",
+      "slug": "footer-designs",
+      "path": "/explore/sites/sections/footer-designs",
+      "url": "https://mobbin.com/explore/sites/sections/footer-designs"
+    },
+    {
+      "name": "Footer Navigation",
+      "slug": "footer-navigation",
+      "path": "/explore/sites/sections/footer-navigation",
+      "url": "https://mobbin.com/explore/sites/sections/footer-navigation"
+    },
+    {
+      "name": "Footer Section",
+      "slug": "footer-section",
+      "path": "/explore/sites/sections/footer-section",
+      "url": "https://mobbin.com/explore/sites/sections/footer-section"
+    },
+    {
+      "name": "Form Examples",
+      "slug": "form-examples",
+      "path": "/explore/sites/sections/form-examples",
+      "url": "https://mobbin.com/explore/sites/sections/form-examples"
+    },
+    {
+      "name": "Form Fields",
+      "slug": "form-fields",
+      "path": "/explore/sites/sections/form-fields",
+      "url": "https://mobbin.com/explore/sites/sections/form-fields"
+    },
+    {
+      "name": "Glossary Page",
+      "slug": "glossary-page",
+      "path": "/explore/sites/sections/glossary-page",
+      "url": "https://mobbin.com/explore/sites/sections/glossary-page"
+    },
+    {
+      "name": "Help Section",
+      "slug": "help-section",
+      "path": "/explore/sites/sections/help-section",
+      "url": "https://mobbin.com/explore/sites/sections/help-section"
+    },
+    {
+      "name": "How It Works",
+      "slug": "how-it-works",
+      "path": "/explore/sites/sections/how-it-works",
+      "url": "https://mobbin.com/explore/sites/sections/how-it-works"
+    },
+    {
+      "name": "Image Gallery",
+      "slug": "image-gallery",
+      "path": "/explore/sites/sections/image-gallery",
+      "url": "https://mobbin.com/explore/sites/sections/image-gallery"
+    },
+    {
+      "name": "Image Gallery Website",
+      "slug": "image-gallery-website",
+      "path": "/explore/sites/sections/image-gallery-website",
+      "url": "https://mobbin.com/explore/sites/sections/image-gallery-website"
+    },
+    {
+      "name": "Index Page",
+      "slug": "index-page",
+      "path": "/explore/sites/sections/index-page",
+      "url": "https://mobbin.com/explore/sites/sections/index-page"
+    },
+    {
+      "name": "Integrations Page",
+      "slug": "integrations-page",
+      "path": "/explore/sites/sections/integrations-page",
+      "url": "https://mobbin.com/explore/sites/sections/integrations-page"
+    },
+    {
+      "name": "Landing Page",
+      "slug": "landing-page",
+      "path": "/explore/sites/sections/landing-page",
+      "url": "https://mobbin.com/explore/sites/sections/landing-page"
+    },
+    {
+      "name": "Live Chat Website Examples",
+      "slug": "live-chat-website-examples",
+      "path": "/explore/sites/sections/live-chat-website-examples",
+      "url": "https://mobbin.com/explore/sites/sections/live-chat-website-examples"
+    },
+    {
+      "name": "Location Pages",
+      "slug": "location-pages",
+      "path": "/explore/sites/sections/location-pages",
+      "url": "https://mobbin.com/explore/sites/sections/location-pages"
+    },
+    {
+      "name": "Locations Page",
+      "slug": "locations-page",
+      "path": "/explore/sites/sections/locations-page",
+      "url": "https://mobbin.com/explore/sites/sections/locations-page"
+    },
+    {
+      "name": "Magazine Layout Ideas",
+      "slug": "magazine-layout-ideas",
+      "path": "/explore/sites/sections/magazine-layout-ideas",
+      "url": "https://mobbin.com/explore/sites/sections/magazine-layout-ideas"
+    },
+    {
+      "name": "Maintenance Page",
+      "slug": "maintenance-page",
+      "path": "/explore/sites/sections/maintenance-page",
+      "url": "https://mobbin.com/explore/sites/sections/maintenance-page"
+    },
+    {
+      "name": "Media Page",
+      "slug": "media-page",
+      "path": "/explore/sites/sections/media-page",
+      "url": "https://mobbin.com/explore/sites/sections/media-page"
+    },
+    {
+      "name": "Meet The Team Page Examples",
+      "slug": "meet-the-team-page-examples",
+      "path": "/explore/sites/sections/meet-the-team-page-examples",
+      "url": "https://mobbin.com/explore/sites/sections/meet-the-team-page-examples"
+    },
+    {
+      "name": "Menu Design Ideas",
+      "slug": "menu-design-ideas",
+      "path": "/explore/sites/sections/menu-design-ideas",
+      "url": "https://mobbin.com/explore/sites/sections/menu-design-ideas"
+    },
+    {
+      "name": "Minimalist Website Design",
+      "slug": "minimalist-website-design",
+      "path": "/explore/sites/sections/minimalist-website-design",
+      "url": "https://mobbin.com/explore/sites/sections/minimalist-website-design"
+    },
+    {
+      "name": "Nav Bar",
+      "slug": "nav-bar",
+      "path": "/explore/sites/sections/nav-bar",
+      "url": "https://mobbin.com/explore/sites/sections/nav-bar"
+    },
+    {
+      "name": "Newsletter",
+      "slug": "newsletter",
+      "path": "/explore/sites/sections/newsletter",
+      "url": "https://mobbin.com/explore/sites/sections/newsletter"
+    },
+    {
+      "name": "Newsletter Signup",
+      "slug": "newsletter-signup",
+      "path": "/explore/sites/sections/newsletter-signup",
+      "url": "https://mobbin.com/explore/sites/sections/newsletter-signup"
+    },
+    {
+      "name": "Optin Page",
+      "slug": "optin-page",
+      "path": "/explore/sites/sections/optin-page",
+      "url": "https://mobbin.com/explore/sites/sections/optin-page"
+    },
+    {
+      "name": "Partners Page",
+      "slug": "partners-page",
+      "path": "/explore/sites/sections/partners-page",
+      "url": "https://mobbin.com/explore/sites/sections/partners-page"
+    },
+    {
+      "name": "Payment Page",
+      "slug": "payment-page",
+      "path": "/explore/sites/sections/payment-page",
+      "url": "https://mobbin.com/explore/sites/sections/payment-page"
+    },
+    {
+      "name": "Pop Up Design",
+      "slug": "pop-up-design",
+      "path": "/explore/sites/sections/pop-up-design",
+      "url": "https://mobbin.com/explore/sites/sections/pop-up-design"
+    },
+    {
+      "name": "Press Page Examples",
+      "slug": "press-page-examples",
+      "path": "/explore/sites/sections/press-page-examples",
+      "url": "https://mobbin.com/explore/sites/sections/press-page-examples"
+    },
+    {
+      "name": "Pricing",
+      "slug": "pricing",
+      "path": "/explore/sites/sections/pricing",
+      "url": "https://mobbin.com/explore/sites/sections/pricing"
+    },
+    {
+      "name": "Pricing Examples",
+      "slug": "pricing-examples",
+      "path": "/explore/sites/sections/pricing-examples",
+      "url": "https://mobbin.com/explore/sites/sections/pricing-examples"
+    },
+    {
+      "name": "Pricing Page",
+      "slug": "pricing-page",
+      "path": "/explore/sites/sections/pricing-page",
+      "url": "https://mobbin.com/explore/sites/sections/pricing-page"
+    },
+    {
+      "name": "Pricing Plans",
+      "slug": "pricing-plans",
+      "path": "/explore/sites/sections/pricing-plans",
+      "url": "https://mobbin.com/explore/sites/sections/pricing-plans"
+    },
+    {
+      "name": "Pricing Table",
+      "slug": "pricing-table",
+      "path": "/explore/sites/sections/pricing-table",
+      "url": "https://mobbin.com/explore/sites/sections/pricing-table"
+    },
+    {
+      "name": "Product Listing Page",
+      "slug": "product-listing-page",
+      "path": "/explore/sites/sections/product-listing-page",
+      "url": "https://mobbin.com/explore/sites/sections/product-listing-page"
+    },
+    {
+      "name": "Product Page",
+      "slug": "product-page",
+      "path": "/explore/sites/sections/product-page",
+      "url": "https://mobbin.com/explore/sites/sections/product-page"
+    },
+    {
+      "name": "Progress Bar",
+      "slug": "progress-bar",
+      "path": "/explore/sites/sections/progress-bar",
+      "url": "https://mobbin.com/explore/sites/sections/progress-bar"
+    },
+    {
+      "name": "Pull Quote Examples",
+      "slug": "pull-quote-examples",
+      "path": "/explore/sites/sections/pull-quote-examples",
+      "url": "https://mobbin.com/explore/sites/sections/pull-quote-examples"
+    },
+    {
+      "name": "Real Estate Banner",
+      "slug": "real-estate-banner",
+      "path": "/explore/sites/sections/real-estate-banner",
+      "url": "https://mobbin.com/explore/sites/sections/real-estate-banner"
+    },
+    {
+      "name": "Registration Page",
+      "slug": "registration-page",
+      "path": "/explore/sites/sections/registration-page",
+      "url": "https://mobbin.com/explore/sites/sections/registration-page"
+    },
+    {
+      "name": "Resource Page",
+      "slug": "resource-page",
+      "path": "/explore/sites/sections/resource-page",
+      "url": "https://mobbin.com/explore/sites/sections/resource-page"
+    },
+    {
+      "name": "Review Pages",
+      "slug": "review-pages",
+      "path": "/explore/sites/sections/review-pages",
+      "url": "https://mobbin.com/explore/sites/sections/review-pages"
+    },
+    {
+      "name": "SaaS Onboarding",
+      "slug": "saas-onboarding",
+      "path": "/explore/sites/sections/saas-onboarding",
+      "url": "https://mobbin.com/explore/sites/sections/saas-onboarding"
+    },
+    {
+      "name": "SaaS Pricing Page",
+      "slug": "saas-pricing-page",
+      "path": "/explore/sites/sections/saas-pricing-page",
+      "url": "https://mobbin.com/explore/sites/sections/saas-pricing-page"
+    },
+    {
+      "name": "Search Bar",
+      "slug": "search-bar",
+      "path": "/explore/sites/sections/search-bar",
+      "url": "https://mobbin.com/explore/sites/sections/search-bar"
+    },
+    {
+      "name": "Search Button",
+      "slug": "search-button",
+      "path": "/explore/sites/sections/search-button",
+      "url": "https://mobbin.com/explore/sites/sections/search-button"
+    },
+    {
+      "name": "Services Website",
+      "slug": "services-website",
+      "path": "/explore/sites/sections/services-website",
+      "url": "https://mobbin.com/explore/sites/sections/services-website"
+    },
+    {
+      "name": "Showcase Section",
+      "slug": "showcase-section",
+      "path": "/explore/sites/sections/showcase-section",
+      "url": "https://mobbin.com/explore/sites/sections/showcase-section"
+    },
+    {
+      "name": "Sitemap Footer",
+      "slug": "sitemap-footer",
+      "path": "/explore/sites/sections/sitemap-footer",
+      "url": "https://mobbin.com/explore/sites/sections/sitemap-footer"
+    },
+    {
+      "name": "Social Media Graphic Design",
+      "slug": "social-media-graphic-design",
+      "path": "/explore/sites/sections/social-media-graphic-design",
+      "url": "https://mobbin.com/explore/sites/sections/social-media-graphic-design"
+    },
+    {
+      "name": "Social Proof",
+      "slug": "social-proof",
+      "path": "/explore/sites/sections/social-proof",
+      "url": "https://mobbin.com/explore/sites/sections/social-proof"
+    },
+    {
+      "name": "Stats Section",
+      "slug": "stats-section",
+      "path": "/explore/sites/sections/stats-section",
+      "url": "https://mobbin.com/explore/sites/sections/stats-section"
+    },
+    {
+      "name": "Store",
+      "slug": "store",
+      "path": "/explore/sites/sections/store",
+      "url": "https://mobbin.com/explore/sites/sections/store"
+    },
+    {
+      "name": "Table Design",
+      "slug": "table-design",
+      "path": "/explore/sites/sections/table-design",
+      "url": "https://mobbin.com/explore/sites/sections/table-design"
+    },
+    {
+      "name": "Testimonial Examples",
+      "slug": "testimonial-examples",
+      "path": "/explore/sites/sections/testimonial-examples",
+      "url": "https://mobbin.com/explore/sites/sections/testimonial-examples"
+    },
+    {
+      "name": "Thank You Page",
+      "slug": "thank-you-page",
+      "path": "/explore/sites/sections/thank-you-page",
+      "url": "https://mobbin.com/explore/sites/sections/thank-you-page"
+    },
+    {
+      "name": "Thank You Page Design",
+      "slug": "thank-you-page-design",
+      "path": "/explore/sites/sections/thank-you-page-design",
+      "url": "https://mobbin.com/explore/sites/sections/thank-you-page-design"
+    },
+    {
+      "name": "Use Cases Page",
+      "slug": "use-cases-page",
+      "path": "/explore/sites/sections/use-cases-page",
+      "url": "https://mobbin.com/explore/sites/sections/use-cases-page"
+    },
+    {
+      "name": "Video Carousel",
+      "slug": "video-carousel",
+      "path": "/explore/sites/sections/video-carousel",
+      "url": "https://mobbin.com/explore/sites/sections/video-carousel"
+    },
+    {
+      "name": "Video Landing Page Examples",
+      "slug": "video-landing-page-examples",
+      "path": "/explore/sites/sections/video-landing-page-examples",
+      "url": "https://mobbin.com/explore/sites/sections/video-landing-page-examples"
+    },
+    {
+      "name": "Video Section",
+      "slug": "video-section",
+      "path": "/explore/sites/sections/video-section",
+      "url": "https://mobbin.com/explore/sites/sections/video-section"
+    },
+    {
+      "name": "Video Testimonials",
+      "slug": "video-testimonials",
+      "path": "/explore/sites/sections/video-testimonials",
+      "url": "https://mobbin.com/explore/sites/sections/video-testimonials"
+    },
+    {
+      "name": "Website Breadcrumbs",
+      "slug": "website-breadcrumbs",
+      "path": "/explore/sites/sections/website-breadcrumbs",
+      "url": "https://mobbin.com/explore/sites/sections/website-breadcrumbs"
+    },
+    {
+      "name": "Website Components",
+      "slug": "website-components",
+      "path": "/explore/sites/sections/website-components",
+      "url": "https://mobbin.com/explore/sites/sections/website-components"
+    },
+    {
+      "name": "Website Form Designs",
+      "slug": "website-form-designs",
+      "path": "/explore/sites/sections/website-form-designs",
+      "url": "https://mobbin.com/explore/sites/sections/website-form-designs"
+    },
+    {
+      "name": "Website Homepage",
+      "slug": "website-homepage",
+      "path": "/explore/sites/sections/website-homepage",
+      "url": "https://mobbin.com/explore/sites/sections/website-homepage"
+    },
+    {
+      "name": "Website Images",
+      "slug": "website-images",
+      "path": "/explore/sites/sections/website-images",
+      "url": "https://mobbin.com/explore/sites/sections/website-images"
+    },
+    {
+      "name": "Website Pop Up",
+      "slug": "website-pop-up",
+      "path": "/explore/sites/sections/website-pop-up",
+      "url": "https://mobbin.com/explore/sites/sections/website-pop-up"
+    },
+    {
+      "name": "Website Popup Design",
+      "slug": "website-popup-design",
+      "path": "/explore/sites/sections/website-popup-design",
+      "url": "https://mobbin.com/explore/sites/sections/website-popup-design"
+    },
+    {
+      "name": "Website Testimonials",
+      "slug": "website-testimonials",
+      "path": "/explore/sites/sections/website-testimonials",
+      "url": "https://mobbin.com/explore/sites/sections/website-testimonials"
+    },
+    {
+      "name": "Websites With Social Media Feeds",
+      "slug": "websites-with-social-media-feeds",
+      "path": "/explore/sites/sections/websites-with-social-media-feeds",
+      "url": "https://mobbin.com/explore/sites/sections/websites-with-social-media-feeds"
+    },
+    {
+      "name": "Welcome Page",
+      "slug": "welcome-page",
+      "path": "/explore/sites/sections/welcome-page",
+      "url": "https://mobbin.com/explore/sites/sections/welcome-page"
+    },
+    {
+      "name": "Welcome Text For Website",
+      "slug": "welcome-text-for-website",
+      "path": "/explore/sites/sections/welcome-text-for-website",
+      "url": "https://mobbin.com/explore/sites/sections/welcome-text-for-website"
+    },
+    {
+      "name": "Why Choose Us",
+      "slug": "why-choose-us",
+      "path": "/explore/sites/sections/why-choose-us",
+      "url": "https://mobbin.com/explore/sites/sections/why-choose-us"
+    }
+  ],
+  "styles": [
+    {
+      "name": "3D",
+      "slug": "3d",
+      "path": "/explore/sites/styles/3d",
+      "url": "https://mobbin.com/explore/sites/styles/3d"
+    },
+    {
+      "name": "3D Cartoon",
+      "slug": "3d-cartoon",
+      "path": "/explore/sites/styles/3d-cartoon",
+      "url": "https://mobbin.com/explore/sites/styles/3d-cartoon"
+    },
+    {
+      "name": "3D Form",
+      "slug": "3d-form",
+      "path": "/explore/sites/styles/3d-form",
+      "url": "https://mobbin.com/explore/sites/styles/3d-form"
+    },
+    {
+      "name": "Animation Websites",
+      "slug": "animation-websites",
+      "path": "/explore/sites/styles/animation-websites",
+      "url": "https://mobbin.com/explore/sites/styles/animation-websites"
+    },
+    {
+      "name": "Black &amp; White",
+      "slug": "black-white",
+      "path": "/explore/sites/styles/black-white",
+      "url": "https://mobbin.com/explore/sites/styles/black-white"
+    },
+    {
+      "name": "Black And White Website",
+      "slug": "black-and-white-website",
+      "path": "/explore/sites/styles/black-and-white-website",
+      "url": "https://mobbin.com/explore/sites/styles/black-and-white-website"
+    },
+    {
+      "name": "Blue Website",
+      "slug": "blue-website",
+      "path": "/explore/sites/styles/blue-website",
+      "url": "https://mobbin.com/explore/sites/styles/blue-website"
+    },
+    {
+      "name": "Bold",
+      "slug": "bold",
+      "path": "/explore/sites/styles/bold",
+      "url": "https://mobbin.com/explore/sites/styles/bold"
+    },
+    {
+      "name": "Brutalism Design",
+      "slug": "brutalism-design",
+      "path": "/explore/sites/styles/brutalism-design",
+      "url": "https://mobbin.com/explore/sites/styles/brutalism-design"
+    },
+    {
+      "name": "Clean Design",
+      "slug": "clean-design",
+      "path": "/explore/sites/styles/clean-design",
+      "url": "https://mobbin.com/explore/sites/styles/clean-design"
+    },
+    {
+      "name": "Colorful",
+      "slug": "colorful",
+      "path": "/explore/sites/styles/colorful",
+      "url": "https://mobbin.com/explore/sites/styles/colorful"
+    },
+    {
+      "name": "Css Inspiration",
+      "slug": "css-inspiration",
+      "path": "/explore/sites/styles/css-inspiration",
+      "url": "https://mobbin.com/explore/sites/styles/css-inspiration"
+    },
+    {
+      "name": "Cyberpunk Design",
+      "slug": "cyberpunk-design",
+      "path": "/explore/sites/styles/cyberpunk-design",
+      "url": "https://mobbin.com/explore/sites/styles/cyberpunk-design"
+    },
+    {
+      "name": "Dark",
+      "slug": "dark",
+      "path": "/explore/sites/styles/dark",
+      "url": "https://mobbin.com/explore/sites/styles/dark"
+    },
+    {
+      "name": "Dark Gradient",
+      "slug": "dark-gradient",
+      "path": "/explore/sites/styles/dark-gradient",
+      "url": "https://mobbin.com/explore/sites/styles/dark-gradient"
+    },
+    {
+      "name": "Editorial",
+      "slug": "editorial",
+      "path": "/explore/sites/styles/editorial",
+      "url": "https://mobbin.com/explore/sites/styles/editorial"
+    },
+    {
+      "name": "Editorial Design",
+      "slug": "editorial-design",
+      "path": "/explore/sites/styles/editorial-design",
+      "url": "https://mobbin.com/explore/sites/styles/editorial-design"
+    },
+    {
+      "name": "Free Website Designs",
+      "slug": "free-website-designs",
+      "path": "/explore/sites/styles/free-website-designs",
+      "url": "https://mobbin.com/explore/sites/styles/free-website-designs"
+    },
+    {
+      "name": "Fun",
+      "slug": "fun",
+      "path": "/explore/sites/styles/fun",
+      "url": "https://mobbin.com/explore/sites/styles/fun"
+    },
+    {
+      "name": "Futuristic Design",
+      "slug": "futuristic-design",
+      "path": "/explore/sites/styles/futuristic-design",
+      "url": "https://mobbin.com/explore/sites/styles/futuristic-design"
+    },
+    {
+      "name": "Geometric Shapes Design",
+      "slug": "geometric-shapes-design",
+      "path": "/explore/sites/styles/geometric-shapes-design",
+      "url": "https://mobbin.com/explore/sites/styles/geometric-shapes-design"
+    },
+    {
+      "name": "Glass",
+      "slug": "glass",
+      "path": "/explore/sites/styles/glass",
+      "url": "https://mobbin.com/explore/sites/styles/glass"
+    },
+    {
+      "name": "Gradient Pink",
+      "slug": "gradient-pink",
+      "path": "/explore/sites/styles/gradient-pink",
+      "url": "https://mobbin.com/explore/sites/styles/gradient-pink"
+    },
+    {
+      "name": "Green Website",
+      "slug": "green-website",
+      "path": "/explore/sites/styles/green-website",
+      "url": "https://mobbin.com/explore/sites/styles/green-website"
+    },
+    {
+      "name": "Grid",
+      "slug": "grid",
+      "path": "/explore/sites/styles/grid",
+      "url": "https://mobbin.com/explore/sites/styles/grid"
+    },
+    {
+      "name": "Grid Design",
+      "slug": "grid-design",
+      "path": "/explore/sites/styles/grid-design",
+      "url": "https://mobbin.com/explore/sites/styles/grid-design"
+    },
+    {
+      "name": "Grid Layout",
+      "slug": "grid-layout",
+      "path": "/explore/sites/styles/grid-layout",
+      "url": "https://mobbin.com/explore/sites/styles/grid-layout"
+    },
+    {
+      "name": "Home Services Website",
+      "slug": "home-services-website",
+      "path": "/explore/sites/styles/home-services-website",
+      "url": "https://mobbin.com/explore/sites/styles/home-services-website"
+    },
+    {
+      "name": "Isometric Design",
+      "slug": "isometric-design",
+      "path": "/explore/sites/styles/isometric-design",
+      "url": "https://mobbin.com/explore/sites/styles/isometric-design"
+    },
+    {
+      "name": "Japanese Website",
+      "slug": "japanese-website",
+      "path": "/explore/sites/styles/japanese-website",
+      "url": "https://mobbin.com/explore/sites/styles/japanese-website"
+    },
+    {
+      "name": "Linear UI",
+      "slug": "linear-ui",
+      "path": "/explore/sites/styles/linear-ui",
+      "url": "https://mobbin.com/explore/sites/styles/linear-ui"
+    },
+    {
+      "name": "Luxury Design",
+      "slug": "luxury-design",
+      "path": "/explore/sites/styles/luxury-design",
+      "url": "https://mobbin.com/explore/sites/styles/luxury-design"
+    },
+    {
+      "name": "Luxury Website Design",
+      "slug": "luxury-website-design",
+      "path": "/explore/sites/styles/luxury-website-design",
+      "url": "https://mobbin.com/explore/sites/styles/luxury-website-design"
+    },
+    {
+      "name": "Modern Web Design",
+      "slug": "modern-web-design",
+      "path": "/explore/sites/styles/modern-web-design",
+      "url": "https://mobbin.com/explore/sites/styles/modern-web-design"
+    },
+    {
+      "name": "Motion",
+      "slug": "motion",
+      "path": "/explore/sites/styles/motion",
+      "url": "https://mobbin.com/explore/sites/styles/motion"
+    },
+    {
+      "name": "Neumorphism UI",
+      "slug": "neumorphism-ui",
+      "path": "/explore/sites/styles/neumorphism-ui",
+      "url": "https://mobbin.com/explore/sites/styles/neumorphism-ui"
+    },
+    {
+      "name": "Outline Design",
+      "slug": "outline-design",
+      "path": "/explore/sites/styles/outline-design",
+      "url": "https://mobbin.com/explore/sites/styles/outline-design"
+    },
+    {
+      "name": "Personal Website Ideas",
+      "slug": "personal-website-ideas",
+      "path": "/explore/sites/styles/personal-website-ideas",
+      "url": "https://mobbin.com/explore/sites/styles/personal-website-ideas"
+    },
+    {
+      "name": "Photography",
+      "slug": "photography",
+      "path": "/explore/sites/styles/photography",
+      "url": "https://mobbin.com/explore/sites/styles/photography"
+    },
+    {
+      "name": "Portfolio Design",
+      "slug": "portfolio-design",
+      "path": "/explore/sites/styles/portfolio-design",
+      "url": "https://mobbin.com/explore/sites/styles/portfolio-design"
+    },
+    {
+      "name": "Scroll Effects",
+      "slug": "scroll-effects",
+      "path": "/explore/sites/styles/scroll-effects",
+      "url": "https://mobbin.com/explore/sites/styles/scroll-effects"
+    },
+    {
+      "name": "Simple Web Design",
+      "slug": "simple-web-design",
+      "path": "/explore/sites/styles/simple-web-design",
+      "url": "https://mobbin.com/explore/sites/styles/simple-web-design"
+    },
+    {
+      "name": "Sleek Design",
+      "slug": "sleek-design",
+      "path": "/explore/sites/styles/sleek-design",
+      "url": "https://mobbin.com/explore/sites/styles/sleek-design"
+    },
+    {
+      "name": "Sleek Website Design",
+      "slug": "sleek-website-design",
+      "path": "/explore/sites/styles/sleek-website-design",
+      "url": "https://mobbin.com/explore/sites/styles/sleek-website-design"
+    },
+    {
+      "name": "Sunrise Gradient",
+      "slug": "sunrise-gradient",
+      "path": "/explore/sites/styles/sunrise-gradient",
+      "url": "https://mobbin.com/explore/sites/styles/sunrise-gradient"
+    },
+    {
+      "name": "Symmetrical Designs",
+      "slug": "symmetrical-designs",
+      "path": "/explore/sites/styles/symmetrical-designs",
+      "url": "https://mobbin.com/explore/sites/styles/symmetrical-designs"
+    },
+    {
+      "name": "Testimonial Page",
+      "slug": "testimonial-page",
+      "path": "/explore/sites/styles/testimonial-page",
+      "url": "https://mobbin.com/explore/sites/styles/testimonial-page"
+    },
+    {
+      "name": "Typography",
+      "slug": "typography",
+      "path": "/explore/sites/styles/typography",
+      "url": "https://mobbin.com/explore/sites/styles/typography"
+    },
+    {
+      "name": "UI Styles",
+      "slug": "ui-styles",
+      "path": "/explore/sites/styles/ui-styles",
+      "url": "https://mobbin.com/explore/sites/styles/ui-styles"
+    },
+    {
+      "name": "Website Animation",
+      "slug": "website-animation",
+      "path": "/explore/sites/styles/website-animation",
+      "url": "https://mobbin.com/explore/sites/styles/website-animation"
+    },
+    {
+      "name": "Website Backgrounds",
+      "slug": "website-backgrounds",
+      "path": "/explore/sites/styles/website-backgrounds",
+      "url": "https://mobbin.com/explore/sites/styles/website-backgrounds"
+    },
+    {
+      "name": "Western Design",
+      "slug": "western-design",
+      "path": "/explore/sites/styles/western-design",
+      "url": "https://mobbin.com/explore/sites/styles/western-design"
+    },
+    {
+      "name": "White Website",
+      "slug": "white-website",
+      "path": "/explore/sites/styles/white-website",
+      "url": "https://mobbin.com/explore/sites/styles/white-website"
+    }
+  ]
+}
